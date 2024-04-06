@@ -249,6 +249,11 @@ hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+metafile = true
+
+[[files]]
 file = "mods/fireblanket.pw.toml"
 hash = "d8d5d4367825f0e399d610733fcc236f701804b7586947b08750077de59586a1"
 metafile = true

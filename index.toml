@@ -294,8 +294,18 @@ hash = "34a66f42f07fc9de990a566d168b64e1037fe69eb2ebf10e1fa234e19959e5c8"
 metafile = true
 
 [[files]]
+file = "mods/plasmid.pw.toml"
+hash = "a971ff9edd3f1a5393ee2b93264064faf33fa548ba32cbd25e7f7ddbe5b9e5c0"
+metafile = true
+
+[[files]]
 file = "mods/player-roles.pw.toml"
 hash = "327d9bf44be806a2b33f7dbb914693d871acdd72eaa0f78b66b8cf4fbcb5622c"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "a81728b243d8a09947de622f39b95d0c14fdba7396d6dae8ca2421d32a088f30"
 metafile = true
 
 [[files]]

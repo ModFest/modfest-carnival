@@ -5,30 +5,6 @@ file = "config/openloader/resources/Unsanded-1.1.1-custom.zip"
 hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
 
 [[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "91fd9b490cb585b8acd65bf754b21dcda7015841a3c2815dcde8f70b20e722b7"
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "f360ba9345727e35a09b93e231285c36a991804452cee09e67150262d55745ac"
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "5eea18c37cbbe4954ef664ea8d711afde35cc4b65389036a8c9e4088340a7451"
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "eeb7f857912a119802d8a020e0516a88851ed6356821b63944da7e6b4dedd165"
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "32ffaed31f6935ef60bfaa7f4a4208516f9530543c3d0ffccd9131c35a36494c"
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "fb1107612a19c59a49b4937fd45a7bfe11ea73e253199f0e3efb99e4575bccd3"
-
-[[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"
 hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
 
@@ -167,14 +143,6 @@ hash = "26d6eaef9dcb3c5cdcba0d52a28057f8f6ba0223b0894dbd334e100604296ac2"
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/icon.png"
 hash = "c63211bd7f0cceb17ff860eee9e3bba726d1c427a7754779252c8ace8078f796"
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.json"
-hash = "a24b4c40e099035d7079f78b2bd30cc7a113ff40b86d1cf7e14668b8df0d8b9a"
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.png"
-hash = "45a9e3c826789f8bfca8fa25de2694095fad920e9c19778f232b7641c2225ffe"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/gen_emoji.js"

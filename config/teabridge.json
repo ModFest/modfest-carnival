@@ -1,0 +1,27 @@
+{
+    "discord": {
+        "token": "${TEABRIDGE_TOKEN}",
+        "webhook": "${TEABRIDGE_WEBHOOK}",
+        "pkMessageDelay": 2000,
+        "pkMessageDelayMilliseconds": true
+    },
+    "avatars": {
+        "avatarUrl": "https://visage.surgeplay.com/face/128/%s.png",
+        "useTextureId": true
+    },
+    "game": {
+        "serverStartingMessage": "Server is starting...",
+        "serverStartMessage": "Server has started!",
+        "serverStopMessage": "Server has stopped!",
+        "serverCrashMessage": "Server has crashed!",
+        "mirrorJoin": true,
+        "mirrorLeave": true,
+        "mirrorDeath": true,
+        "mirrorAdvancements": false,
+        "mirrorCommandMessages": false
+    },
+    "crashes": {
+        "uploadToMclogs": true
+    },
+    "debug": false
+}

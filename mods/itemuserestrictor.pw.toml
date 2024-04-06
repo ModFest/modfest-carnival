@@ -1,0 +1,13 @@
+name = "Item Use Restrictor"
+filename = "itemuserestrictor-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/f3P5HnPO/versions/tBkHeKyy/itemuserestrictor-1.0.1.jar"
+hash-format = "sha1"
+hash = "8934a02c5bf3397c583ec41ed678d198df8f72ea"
+
+[update]
+[update.modrinth]
+mod-id = "f3P5HnPO"
+version = "tBkHeKyy"

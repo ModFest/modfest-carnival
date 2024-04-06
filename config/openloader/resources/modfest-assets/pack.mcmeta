@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "description": "Custom assets for Modfest",
+        "pack_format": 22,
+		"supported_formats": {
+			"min_inclusive": 21,
+			"max_inclusive": 100
+		}
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "netadmin": {
+        "level": 99999,
+        "overrides": {
+            "permission_level": 4,
+            "permission_keys": {
+                "modfest.netadmin": "allow",
+                "worldedit.*": "allow",
+                "scattered_shards.*": "allow"
+            },
+            "command_feedback": true,
+            "commands": {
+                ".*": "allow"
+            }
+        }
+    },
+    "organizer": {
+        "level": 100,
+        "overrides": {
+            "permission_level": 3,
+            "permission_keys": {
+                "modfest.organizer": "allow",
+                "worldedit.*": "allow",
+                "scattered_shards.*": "allow"
+            },
+            "entity_selectors": true,
+            "commands": {
+                "role.*": "allow",
+                "item-use.*": "allow"
+            }
+        }
+    },
+    "builder": {
+        "level": 10,
+        "overrides": {
+            "permission_level": 2,
+            "permission_keys": {
+                "modfest.builder": "allow",
+                "worldedit.*": "allow",
+                "scattered_shards.command.collect": "allow",
+                "scattered_shards.command.uncollect.*": "allow",
+                "scattered_shards.command.block": "allow",
+                "scattered_shards.modify_shard": "allow",
+                "armor_stand_editor.*": "allow"
+            },
+            "command_feedback": true,
+            "entity_selectors": false,
+            "commands": {
+                "gamemode.*": "allow",
+                "tp @[^e].*": "allow",
+                "fill.*": "allow",
+                "setblock.*": "allow",
+                "summon.*": "allow",
+                "rregion.*": "allow",
+                "kill.*": "deny"
+            }
+        }
+    },
+    "everyone": {
+        "overrides": {
+            "permission_keys": {
+                "modfest.everyone": "allow",
+                "worldedit.*": "deny",
+                "scattered_shards.*": "deny",
+                "armor_stand_editor.*": "deny"
+            },
+            "commands": {
+                "help": "allow",
+                "warp.*": "allow",
+                "polymer.*": "deny"
+            }
+        }
+    }
+}

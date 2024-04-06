@@ -1,6 +1,242 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/resources/Unsanded-1.1.1-custom.zip"
+hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "91fd9b490cb585b8acd65bf754b21dcda7015841a3c2815dcde8f70b20e722b7"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "f360ba9345727e35a09b93e231285c36a991804452cee09e67150262d55745ac"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "5eea18c37cbbe4954ef664ea8d711afde35cc4b65389036a8c9e4088340a7451"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "eeb7f857912a119802d8a020e0516a88851ed6356821b63944da7e6b4dedd165"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "32ffaed31f6935ef60bfaa7f4a4208516f9530543c3d0ffccd9131c35a36494c"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "fb1107612a19c59a49b4937fd45a7bfe11ea73e253199f0e3efb99e4575bccd3"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"
+hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/font/icons.json"
+hash = "3c41490fff834f178273db482cd7b6d0d657cd24ada90fe5707c57f4bc6c6cad"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ace_heart.png"
+hash = "d7187260dbcb221a2a33dacb091d3a64c3bb767c5629215d2c97caa4eae04fe4"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/agender_heart.png"
+hash = "11aa410f7e79988c3a7cc69e7bec800099920dbdee79a817e222616c0ccd9671"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/aro_heart.png"
+hash = "8c6097562d071fead19d5fa79106b8fc0b7e8fad5ea666fc86850866e800b768"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/aroace_heart.png"
+hash = "9f573b7ee4518f8995d34788ca332aa647df2ad385fb2b4a22bdc53eff5834f5"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/bi_heart.png"
+hash = "316b434627a199098277e74f4574580af9c04515880f97140fb7f86e9df07f67"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/blanketcon.png"
+hash = "1f6b063dd15afdc7c2e3be961bfa0db33fdb5ae7f0a1e7dfbcf33420a08a507a"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/blob_waaaaa.png"
+hash = "fecc0550ed56ca95271227a7d0a4748193561a7f400f1bfb3436c9f35b0fefcd"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/demi_heart.png"
+hash = "250dc156dcbf05ce0d6fb0808ebe3db5fd2291ee2868058f52fcd4fa18eea62d"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/femboy_heart.png"
+hash = "975aefc978f4ec0f18b52b17aa61bd56fc1c6c05b76cfa17e7d66002d10c7174"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/furry_pride.png"
+hash = "cf52e95e4def7dfe9f680beb888b40db1bc351cf04d9959f24fb7316178caf5e"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderfluid_heart.png"
+hash = "a6e7576d365b1da7d6e617338906f9775ae6e97db552372937c32bd84e3fcda8"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderflux_heart.png"
+hash = "c503f947f7abac5863f1ca302102a939ec6662ee1a0784b58db4e08d7696c1d5"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/genderqueer_heart.png"
+hash = "8575c20cb42a379ef1d1515661f01248ce5b1bd684c9df1ddd9c30d9563374df"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/intersex_heart.png"
+hash = "b2abf19c588b5d91f564cb2ab74f8794df640624c81a4d37f8cc96670c368be8"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/lesbian_heart.png"
+hash = "ea887f74ad39c3b1b5eb7278154a63dba7136e3cc77343eeaf87755fe6b49317"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/lil_pineapple.png"
+hash = "51e29be3694de21580725c9924cc13be8a935c70b4214ecdcd58fd4551aedc14"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/modfest-generic.png"
+hash = "f095dfb0abc1b3662a9736f445a626c07312fb777b1426488375269cabb2a9cb"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/nb_heart.png"
+hash = "311ddfa8fef715822e5ed0355ac796da0bf5f2975fad3af9c45364cd9e3cb76e"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/neurodiversity_heart.png"
+hash = "661f06eeea8068f5bf4b6f2050f8a4d9bff6efa3e534d007e5deaf9ceaefbd78"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ohno.png"
+hash = "7fc9b087fd446c388a180627f3f090244e71f67d6d45c7e9c3db4cf09071aa0e"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/pan_heart.png"
+hash = "7e949ad839075f416694bdd7f99f9ffbda9c1e205692daf06dad0aeee7b241bf"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/pineapple.png"
+hash = "d89056013374962f9f75fe07cf50fea14102d36be0a5f14b88dbdf9a681dd7ba"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/plural_heart.png"
+hash = "1df5874c92b17d6372b8e629dc918993120a3a7465885ffcda77f61ca4a031c9"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/queer_heart.png"
+hash = "898f1c79e9bbcc3d9891cc5648366b372054a7176f93e9f81fdb0bf0603e32a5"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/queer_prog_heart.png"
+hash = "11fca7f38cf3719d6e1235bd58fe0281235b6bacf49d9780e1630bbfcc87e6be"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/trans_heart.png"
+hash = "10eb4dfc3e857f8f33869a76d93fb0bb884b3031b5605078b7dc296c916ccb87"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/uh.png"
+hash = "c10e949d68511700a4f38f7275b5f502e894be7be7a6d3bdd3bc50dfc87747d5"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/vincian_heart.png"
+hash = "f3198ff52a12e7aea9ecf753362f29ceca82c45bf1a5577119ad926978afe517"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/whyfest.png"
+hash = "2e19e16ad5dec661613e7b57369aec7dbe1cf208fdc3266cb8a47b54e40eec55"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/winnger.png"
+hash = "0d5387a3fe09ef88831afe47dca44dac1476092201bc67255c964ca1bed4b197"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/yeefuckinghaw.png"
+hash = "02299c4555ea9ddf5f92caa52e51a61a2b6c07079eb25d33c4b251bbc83d7cd7"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/cover.png"
+hash = "26d6eaef9dcb3c5cdcba0d52a28057f8f6ba0223b0894dbd334e100604296ac2"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/icon.png"
+hash = "c63211bd7f0cceb17ff860eee9e3bba726d1c427a7754779252c8ace8078f796"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.json"
+hash = "a24b4c40e099035d7079f78b2bd30cc7a113ff40b86d1cf7e14668b8df0d8b9a"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/skybox_athome/skyboxes/ur_anshar.png"
+hash = "45a9e3c826789f8bfca8fa25de2694095fad920e9c19778f232b7641c2225ffe"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/gen_emoji.js"
+hash = "57308a7ad41ac724584b3f7df2293349ba5fc0b7bf21aa26a3571722657f1dda"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/pack.mcmeta"
+hash = "e4fc74b6eacdefa6a39142e6d927850308808cc9dc308685f38d33319815a034"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/styled_chat_emoji.json"
+hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
+
+[[files]]
+file = "config/openloader/resources/twemojis.zip"
+hash = "c95b7d6a2b427e21f8bac87810b52206b1d16c3f5f15aa768001558b8e0a57b2"
+
+[[files]]
+file = "config/roles.json"
+hash = "024e83797ee5604838bb897e488538b045e23f40bbcae3609b8e68d6270812b2"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "c900a047821f5242dafe8fdd68109fcbf66aa2132e448a57a2c2968c354ca15c"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "f7e9077e48d519d4606b60d674581eafe90627f3c4c373aeeb0ed8460f7beefd"
+
+[[files]]
+file = "config/styled_chat_emoji.json"
+hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "87aac2c6cc8efff361bfcc52c6ecf1d3a4ed9f1b013537e30d19253edabcc0f5"
+
+[[files]]
+file = "config/styledplayerlist/styles/animated.json"
+hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "261ec6998174815f2342cf211373918bc2dc618cd5b062b35f2922182e70501a"
+
+[[files]]
+file = "config/styledplayerlist/styles/default_spl.json"
+hash = "2b2c36635c8936d4741bd81febaf86a03b28a6b1f6b4e65a229ed65192b25582"
+
+[[files]]
+file = "config/teabridge.json"
+hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "13dd715493f0fb3754583f6a97fcb8a7df61ccef983df3a664931be3d1e9c490"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "f3fd13df0c27c60276d55109e8f8b4de0cfe01fbbc6b52cb31dd8cd3946a224f"
+
+[[files]]
 file = "mods/armorstandeditor.pw.toml"
 hash = "f9d8ec090538f64b3786180070d09264b294dbca00d2c51db53d972dea6c96ea"
 metafile = true
@@ -41,6 +277,11 @@ hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
 metafile = true
 
 [[files]]
+file = "mods/fireblanket.pw.toml"
+hash = "d8d5d4367825f0e399d610733fcc236f701804b7586947b08750077de59586a1"
+metafile = true
+
+[[files]]
 file = "mods/glowcase.pw.toml"
 hash = "f63deba73b507c3ad69778217e439b346909172985aaaeb1553f84f10090d734"
 metafile = true
@@ -48,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/itemuserestrictor.pw.toml"
+hash = "2f4e29fb16a782b53ea67da13b736bb08c38172b64b7ef67ecf2d8df285fdcc3"
 metafile = true
 
 [[files]]

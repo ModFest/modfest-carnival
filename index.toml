@@ -1,2 +1,141 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "f9d8ec090538f64b3786180070d09264b294dbca00d2c51db53d972dea6c96ea"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "a8b7f0fe1113d6066379b15a4260be882747cc806cdc3c0b437fac81d754bce6"
+metafile = true
+
+[[files]]
+file = "mods/crunchy-crunchy-advancements.pw.toml"
+hash = "ed8685cb5d23209da7f89e1029bf6f00c46893f439f544d248f784a305a4c759"
+metafile = true
+
+[[files]]
+file = "mods/demobox.pw.toml"
+hash = "97a198c456a21ca5c5d3363ac14cd895fd2cfb04fa74f8e9f2a85c9211ff5886"
+metafile = true
+
+[[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "828490726d235646fca07156248ddeaa8ac5707af0b8e5d6b885291e405ae1eb"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "78eae6c50ce595dc5e41b3be58f84218f614b8934e72d1f22348aa4bfa66f133"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "48b9e762a379ac211a95e9a8f181ce52795251610715c448e50f630ad89fe577"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
+metafile = true
+
+[[files]]
+file = "mods/glowcase.pw.toml"
+hash = "f63deba73b507c3ad69778217e439b346909172985aaaeb1553f84f10090d734"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "b1e256001d9d86101d4fd0c888099bcf25b0b72fffc8a5a64505dcb48fb6a652"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "34a66f42f07fc9de990a566d168b64e1037fe69eb2ebf10e1fa234e19959e5c8"
+metafile = true
+
+[[files]]
+file = "mods/player-roles.pw.toml"
+hash = "327d9bf44be806a2b33f7dbb914693d871acdd72eaa0f78b66b8cf4fbcb5622c"
+metafile = true
+
+[[files]]
+file = "mods/scattered-shards.pw.toml"
+hash = "5a6c321078a5f3a69bbc30ff5f1d1eba0dbb4fdaa46e1fca01a81462f033258d"
+metafile = true
+
+[[files]]
+file = "mods/sidekick.pw.toml"
+hash = "61a03b57e856681af095fc615927fd34833b3b23fae4a16556c26a03fa173639"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "b5ea10a1c3c734f62fb8c33722e4e24f2e7a60a39b4aa861b7e23ffe6fe755f8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "b39682962003795c0460309315f1ad3672d89310e26df1633d3d5e8e131454fc"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "acbac0dfc2d12cb758d77cd705f666e677837a2497168e85212f2d2e899a398c"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "d2e79b6f83ec10bb1d275186e8f79048ca73ca48b434c2539bf2542d86f2cf56"
+metafile = true
+
+[[files]]
+file = "mods/switchy-proxy.pw.toml"
+hash = "a6fcb6a00cc243f844b017fe6309f7ba44da8b567144cd65fcab8df3acc5fc34"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "7c1bba2bd2ad5a70d55763e7faab46e82f1bacf70fb3b5da3a1182c3569ad7e4"
+metafile = true
+
+[[files]]
+file = "mods/teabridge.pw.toml"
+hash = "17fefd46461c409484f42fa9bda57aa939b74ea8a3d17b52d35b9fea51d7c2dd"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "5703543a503d90346eedf4ac22eb3bc1370007d0b5f86b11a18b322e04a4f44a"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "829f933abd632967c1f924beb14d27168deea2fcd5987a12a6cdce7aa9804325"
+metafile = true

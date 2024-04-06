@@ -1,0 +1,7 @@
+name = "scattered-shards"
+filename = "scatteredshards-1.5.2.jar"
+
+[download]
+url = "https://github.com/ModFest/scattered-shards/releases/download/1.5.2/scatteredshards-1.5.2.jar"
+hash-format = "sha256"
+hash = "5af00aeabc6bc77bd2f5745c59dad26375f9956863729b59f10872e9b515f371"

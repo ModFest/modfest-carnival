@@ -1,0 +1,13 @@
+name = "DemoBox"
+filename = "DemoBox-1.0.0+mc.1.20.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/b2SVO5sB/versions/8mqBSol8/DemoBox-1.0.0%2Bmc.1.20.4.jar"
+hash-format = "sha1"
+hash = "cc0f7f88c95ae9133bd4baa3d998c2c0d6ddf3c1"
+
+[update]
+[update.modrinth]
+mod-id = "b2SVO5sB"
+version = "8mqBSol8"

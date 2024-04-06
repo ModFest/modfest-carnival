@@ -1,0 +1,13 @@
+name = "Sidekick"
+filename = "sidekick-fabric-2.0.5_02+1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/goA2JoBi/versions/jRAvZUss/sidekick-fabric-2.0.5_02%2B1.20.2.jar"
+hash-format = "sha1"
+hash = "b11245cc98b9b3f1a220c694c7c17ae8abacb1d9"
+
+[update]
+[update.modrinth]
+mod-id = "goA2JoBi"
+version = "jRAvZUss"

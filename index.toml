@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/emi.css"
+hash = "41f8b3ba47b27064f400b23a6e4c710432c358baee9a5894193e80b60d00e1e8"
+
+[[files]]
 file = "config/openloader/resources/Unsanded-1.1.1-custom.zip"
 hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
 
@@ -198,7 +202,7 @@ hash = "3864ed958f7ab49c9b7b0773389fb312f9081cdb05ca9379f86279e228a04c74"
 
 [[files]]
 file = "config/waila/waila.json"
-hash = "13dd715493f0fb3754583f6a97fcb8a7df61ccef983df3a664931be3d1e9c490"
+hash = "cda36353c412a884c073bee10b3da30029415fcb1b99edecc77503f9943ccba9"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
@@ -353,3 +357,7 @@ metafile = true
 file = "mods/wthit.pw.toml"
 hash = "829f933abd632967c1f924beb14d27168deea2fcd5987a12a6cdce7aa9804325"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "b0f43e30a63b8f07045edba6b4170e0367798c9cba20c7190dc6d770499088b8"

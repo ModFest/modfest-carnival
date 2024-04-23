@@ -214,6 +214,11 @@ hash = "11e8755017aae4618d42195488ab3db65c8e3eff93ab7456927cba1a6f4e93c8"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "076e38e5c766351948e354a9236e0bb3bd1ef765a4cd92ebf5e2ed2abc53648d"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "dd2fc8fc042140fac7929c38dd5041f896a28d537365408f3e99a80a3c9bf0bb"
 metafile = true

@@ -1,0 +1,10 @@
+{
+    "pack": {
+		"pack_format": 32,
+		"supported_formats": {
+			"min_inclusive": 32,
+			"max_inclusive": 100
+		},
+		"description": "ModFest Carnival Scattered Shards assets"
+    }
+}

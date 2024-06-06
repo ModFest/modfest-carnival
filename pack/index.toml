@@ -170,7 +170,7 @@ hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/lang/en_us.json"
-hash = "4458c02fc59849377b7e24f4ddeff8c2dc302d50e078ef7cf9d0f429862f6cde"
+hash = "5b8e14665d0c30acc3bab0f90a9ae8311e7f8c15dd855d6eb3bfb2053f4e6e88"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/fool_backing.png"
@@ -178,7 +178,7 @@ hash = "2c70174416873c06500609531242f0f01606d70850d4a544ba598537ba7c3c63"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/fool_front.png"
-hash = "0d32969320321aea7ea0f84097ae86bd187e9d95a3ec1df0d78eb946f4406d2d"
+hash = "1cc8ef46129b6b1d19ee25913bc73311b3786daade2c9eb705e5d562d874d5a0"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/fool_mini_backing.png"
@@ -194,7 +194,7 @@ hash = "2c70174416873c06500609531242f0f01606d70850d4a544ba598537ba7c3c63"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/fortune_front.png"
-hash = "0d32969320321aea7ea0f84097ae86bd187e9d95a3ec1df0d78eb946f4406d2d"
+hash = "1cc8ef46129b6b1d19ee25913bc73311b3786daade2c9eb705e5d562d874d5a0"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/fortune_mini_backing.png"
@@ -226,7 +226,7 @@ hash = "2c70174416873c06500609531242f0f01606d70850d4a544ba598537ba7c3c63"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/justice_front.png"
-hash = "0d32969320321aea7ea0f84097ae86bd187e9d95a3ec1df0d78eb946f4406d2d"
+hash = "1cc8ef46129b6b1d19ee25913bc73311b3786daade2c9eb705e5d562d874d5a0"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/justice_mini_backing.png"
@@ -242,7 +242,7 @@ hash = "2c70174416873c06500609531242f0f01606d70850d4a544ba598537ba7c3c63"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/magician_front.png"
-hash = "0d32969320321aea7ea0f84097ae86bd187e9d95a3ec1df0d78eb946f4406d2d"
+hash = "1cc8ef46129b6b1d19ee25913bc73311b3786daade2c9eb705e5d562d874d5a0"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/magician_mini_backing.png"
@@ -258,7 +258,7 @@ hash = "2c70174416873c06500609531242f0f01606d70850d4a544ba598537ba7c3c63"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/star_front.png"
-hash = "0d32969320321aea7ea0f84097ae86bd187e9d95a3ec1df0d78eb946f4406d2d"
+hash = "1cc8ef46129b6b1d19ee25913bc73311b3786daade2c9eb705e5d562d874d5a0"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/star_mini_backing.png"
@@ -306,7 +306,7 @@ hash = "2c70174416873c06500609531242f0f01606d70850d4a544ba598537ba7c3c63"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/tower_front.png"
-hash = "0d32969320321aea7ea0f84097ae86bd187e9d95a3ec1df0d78eb946f4406d2d"
+hash = "1cc8ef46129b6b1d19ee25913bc73311b3786daade2c9eb705e5d562d874d5a0"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/tower_mini_backing.png"
@@ -322,7 +322,7 @@ hash = "2c70174416873c06500609531242f0f01606d70850d4a544ba598537ba7c3c63"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/world_front.png"
-hash = "0d32969320321aea7ea0f84097ae86bd187e9d95a3ec1df0d78eb946f4406d2d"
+hash = "1cc8ef46129b6b1d19ee25913bc73311b3786daade2c9eb705e5d562d874d5a0"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/world_mini_backing.png"

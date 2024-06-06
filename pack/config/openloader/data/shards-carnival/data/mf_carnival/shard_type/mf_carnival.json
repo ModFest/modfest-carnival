@@ -61,5 +61,32 @@
 			"sound_id": "scattered_shards:collect_secret"
 		},
 		"list_order": 3
+	},
+	"mf_carnival:star": {
+		"text_color": "#5f57ff",
+		"glow_color": "#bafffa",
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_secret"
+		},
+		"list_order": 3
+	},
+	"mf_carnival:fortune": {
+		"text_color": "#5f57ff",
+		"glow_color": "#bafffa",
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_secret"
+		},
+		"list_order": 3
+	},
+	"mf_carnival:tower": {
+		"text_color": "#5f57ff",
+		"glow_color": "#bafffa",
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_secret"
+		},
+		"list_order": 3
 	}
 }

@@ -405,11 +405,6 @@ hash = "d1866384e5c61380bdd76e95b72d08caf114c62610e1447d03bafbc6458dd39a"
 metafile = true
 
 [[files]]
-file = "mods/demobox.pw.toml"
-hash = "6dd2dfe7392f2bfea3efeee8b95296770eccf07c4dbd0584f8b613015cf6b5ad"
-metafile = true
-
-[[files]]
 file = "mods/drogstyle.pw.toml"
 hash = "97fc1444b43be54ec322842276173c3fb58707bb5e14e9699f7241301f730ff9"
 metafile = true
@@ -432,16 +427,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
-metafile = true
-
-[[files]]
-file = "mods/fireblanket.pw.toml"
-hash = "51cf29170cf32b582b4be1bbd0c34b18a1bedfa443c941ff5516556fe59229a4"
-metafile = true
-
-[[files]]
-file = "mods/glowcase.pw.toml"
-hash = "7a1101d0979da5f1825fd458423ac7a550120ad740f79338e6791eab19a3002c"
 metafile = true
 
 [[files]]
@@ -470,16 +455,6 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.pw.toml"
-hash = "3aaa4985d2a9ed7a6e63e4ed7453cc00ea547f06f44b429f13fe6ed37a0d34a5"
-metafile = true
-
-[[files]]
-file = "mods/plasmid.pw.toml"
-hash = "06d12751365e7e162ca6623419d0881c90ae500d1774ef63fadc79c5c5b21b97"
-metafile = true
-
-[[files]]
 file = "mods/player-roles.pw.toml"
 hash = "c9e1101c6562ace7c256616e99f8ae17ef3f592a718e9f130e62c39bc3248178"
 metafile = true
@@ -487,16 +462,6 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "72308359404fc8240eead504d850e93dbcc02b5b5ea82775fb7e1eaa9885f534"
-metafile = true
-
-[[files]]
-file = "mods/scattered-shards.pw.toml"
-hash = "783b7ec24212f51ffb50477a53bcbb74c61de6267e36c2f3040a48d2166a0968"
-metafile = true
-
-[[files]]
-file = "mods/sidekick.pw.toml"
-hash = "a13108ad334b4d83274be1bb1073e3979ead356f5ae08a159a7b3823434f5fc4"
 metafile = true
 
 [[files]]
@@ -532,21 +497,6 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "f163850cb5a2544393b14b9d6cdc4e173efc1dc90aeb82fdf1d095339c0ad682"
-metafile = true
-
-[[files]]
-file = "mods/switchy-proxy.pw.toml"
-hash = "af997241a67d56d8dde0fad3daf3681d421d9d8eb2fc847156997c826b6d1f68"
-metafile = true
-
-[[files]]
-file = "mods/switchy.pw.toml"
-hash = "0fe4dacc395f6722c90c4d4ef0a8071cf1f19f1a18b50eb2444bfce23b74a2b9"
-metafile = true
-
-[[files]]
-file = "mods/teabridge.pw.toml"
-hash = "db7e8ba44555c76ccdbddfe21e0b0de5a64ad2a162e27ccd6a306b26eb050e84"
 metafile = true
 
 [[files]]

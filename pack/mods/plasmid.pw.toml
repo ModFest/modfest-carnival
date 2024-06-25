@@ -1,8 +1,0 @@
-name = "plasmid"
-filename = "plasmid-0.5.102-SNAPSHOT+1.20.4.jar"
-side = "server"
-
-[download]
-url = "https://maven.nucleoid.xyz/xyz/nucleoid/plasmid/0.5.102-SNAPSHOT%2B1.20.4/plasmid-0.5.102-SNAPSHOT%2B1.20.4.jar"
-hash-format = "sha256"
-hash = "9692c7bb76bd7fddbb4cf2560ae5c426bd5822a22afb7a92a4d970975b257525"

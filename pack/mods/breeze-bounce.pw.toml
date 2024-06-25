@@ -1,0 +1,13 @@
+name = "Breeze Bounce"
+filename = "breezebounce-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vBoXEK2I/versions/pZeJGAzQ/breezebounce-1.0.0.jar"
+hash-format = "sha1"
+hash = "27d76d9dd4e6b89d8b6c53d79188400c957ecba6"
+
+[update]
+[update.modrinth]
+mod-id = "vBoXEK2I"
+version = "pZeJGAzQ"

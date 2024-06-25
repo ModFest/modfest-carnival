@@ -1,0 +1,13 @@
+name = "Beeg Smol"
+filename = "beeg-smol-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TtKxsI01/versions/qwfbuVZ6/beeg-smol-1.0.0.jar"
+hash-format = "sha1"
+hash = "8e36e0994635e00ceddb634c8340a0bed69361ee"
+
+[update]
+[update.modrinth]
+mod-id = "TtKxsI01"
+version = "qwfbuVZ6"

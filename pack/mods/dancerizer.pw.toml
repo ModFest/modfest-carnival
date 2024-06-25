@@ -1,0 +1,13 @@
+name = "Dancerizer"
+filename = "dancerizer-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hZ4lZ6jX/versions/Jo5uuPSt/dancerizer-1.0.0.jar"
+hash-format = "sha1"
+hash = "2aa36c9fa5db9ebd513291c80e85ba936c349707"
+
+[update]
+[update.modrinth]
+mod-id = "hZ4lZ6jX"
+version = "Jo5uuPSt"

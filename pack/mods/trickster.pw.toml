@@ -1,0 +1,13 @@
+name = "Trickster"
+filename = "trickster-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZdEfcqro/versions/WSVnreuU/trickster-1.0.3.jar"
+hash-format = "sha1"
+hash = "e71a077016fa9fb35547734769cbd2233bfa0a28"
+
+[update]
+[update.modrinth]
+mod-id = "ZdEfcqro"
+version = "WSVnreuU"

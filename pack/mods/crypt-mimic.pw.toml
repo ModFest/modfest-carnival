@@ -1,0 +1,13 @@
+name = "Crypt: Mimic"
+filename = "Mimic-0.1.0-alpha.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HpZy7yoR/versions/UVk7oEtu/Mimic-0.1.0-alpha.0.jar"
+hash-format = "sha1"
+hash = "6ececf87a66b43dbc97e261f280d7e7700ec16e5"
+
+[update]
+[update.modrinth]
+mod-id = "HpZy7yoR"
+version = "UVk7oEtu"

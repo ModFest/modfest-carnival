@@ -1,0 +1,13 @@
+name = "Twirl!"
+filename = "twirl-0.3.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l6f8KaeX/versions/ioUmLuUG/twirl-0.3.2%2B1.21.jar"
+hash-format = "sha1"
+hash = "056e09c22f066dd9b30f300060b980c9b53018c6"
+
+[update]
+[update.modrinth]
+mod-id = "l6f8KaeX"
+version = "ioUmLuUG"

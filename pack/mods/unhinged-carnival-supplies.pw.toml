@@ -1,0 +1,13 @@
+name = "Unhinged Carnival Supplies"
+filename = "UnhingedCarnivalSupplies-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uBNthW5Q/versions/iTYCJ7r8/UnhingedCarnivalSupplies-1.0.0.jar"
+hash-format = "sha1"
+hash = "8e7087ea8a460d02e9cda69ffa6fdb3dab12c82f"
+
+[update]
+[update.modrinth]
+mod-id = "uBNthW5Q"
+version = "iTYCJ7r8"

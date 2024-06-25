@@ -1,0 +1,13 @@
+name = "Sinister Circus"
+filename = "sinister-circus-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GpqhNGdk/versions/udxH5yg5/sinister-circus-0.1.jar"
+hash-format = "sha1"
+hash = "98684233cfaceca9a3e722a7227cd724eaaded93"
+
+[update]
+[update.modrinth]
+mod-id = "GpqhNGdk"
+version = "udxH5yg5"

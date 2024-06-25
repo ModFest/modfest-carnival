@@ -475,11 +475,6 @@ hash = "452dc4b4eecc86de8d7d3c60f0a1b15644d20a20c355beaaaea9bdb2b9da5933"
 metafile = true
 
 [[files]]
-file = "mods/confetti-stuff.pw.toml"
-hash = "512f481e0d3553db5a5d351f16fc9e98842399d04064c464c04b9cb6b9dc864c"
-metafile = true
-
-[[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 hash = "ed8685cb5d23209da7f89e1029bf6f00c46893f439f544d248f784a305a4c759"
 metafile = true
@@ -487,11 +482,6 @@ metafile = true
 [[files]]
 file = "mods/crypt-mimic.pw.toml"
 hash = "21ba3332f886bed4f70cca22e245541bb3fa62be1ffc888687ec2030054a3d63"
-metafile = true
-
-[[files]]
-file = "mods/crystal-fortunes.pw.toml"
-hash = "3920aa5c14b93a57191b1724fe0f2dbd88954f3b5fd36494139fe41880deed04"
 metafile = true
 
 [[files]]
@@ -522,11 +512,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "5cfdebf79480f71e84191358887f49eb8cc59b7d937f2e5be73fb8267606da2b"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "aae3e2fad5bc3b2afacf3b1ada93c75a9317e156be6287e0c95d851bc5ef64d2"
 metafile = true
 
 [[files]]
@@ -605,11 +590,6 @@ hash = "c99d59e1dcc6fa3079057931f79306477494cd61c22522fecfb0634b977f29ce"
 metafile = true
 
 [[files]]
-file = "mods/mid-journey.pw.toml"
-hash = "62b59753eaf99316ddeb8cd1770de96148d3d6f37d366c61ba913a7de10a1c5e"
-metafile = true
-
-[[files]]
 file = "mods/mirthdew-encore.pw.toml"
 hash = "0e8352e1c34fbff5fc6d0d289da9329401b6bdb28e3605cd95706587761c1c43"
 metafile = true
@@ -656,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/powerchord.pw.toml"
-hash = "574383644a51c730fbcd264b387000ba45cdcd537a8062308544acd2aae28733"
+hash = "cc4c08fe5bafbaf780349953ce984e9d37395279724a84d059d3cf0eea5213cc"
 metafile = true
 
 [[files]]
@@ -746,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/twirl.pw.toml"
-hash = "832ad5d82992eaf7688e7a9eccb45d2300a0fdeabe565f7e7ddd6cf311fb6778"
+hash = "0b1a13cddb2c9ae2403b9cb78ace29512fc26bd0723b423e25c059dfb3c59a84"
 metafile = true
 
 [[files]]

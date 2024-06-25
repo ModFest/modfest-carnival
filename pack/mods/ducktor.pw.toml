@@ -1,0 +1,13 @@
+name = "Ducktor"
+filename = "ducktor-1.0.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O13dfMdQ/versions/D1yUaVVb/ducktor-1.0.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "08fa99f1486b02367a31912765403b02dddbc46b"
+
+[update]
+[update.modrinth]
+mod-id = "O13dfMdQ"
+version = "D1yUaVVb"

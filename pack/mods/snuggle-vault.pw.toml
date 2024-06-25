@@ -1,0 +1,13 @@
+name = "Snuggle Vault"
+filename = "snugglevault-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oTkxYY1g/versions/7pincmAl/snugglevault-1.0.0.jar"
+hash-format = "sha1"
+hash = "c64fe779612769285726a7fee9542db3f44f0c32"
+
+[update]
+[update.modrinth]
+mod-id = "oTkxYY1g"
+version = "7pincmAl"

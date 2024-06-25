@@ -475,6 +475,11 @@ hash = "452dc4b4eecc86de8d7d3c60f0a1b15644d20a20c355beaaaea9bdb2b9da5933"
 metafile = true
 
 [[files]]
+file = "mods/confetti-stuff.pw.toml"
+hash = "4eb75ead81681aa8ba6b91add89776872d70c1390705d05b4ab8b737893e2daa"
+metafile = true
+
+[[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 hash = "ed8685cb5d23209da7f89e1029bf6f00c46893f439f544d248f784a305a4c759"
 metafile = true

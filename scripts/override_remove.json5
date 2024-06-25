@@ -1,6 +1,5 @@
 [
   {"project_id": "emi"}, // crashes (might be incompat)
   {"project_id": "crystal-fortunes"}, // server crash
-  {"project_id": "confetti-stuff"}, // server crash
   {"project_id": "mid-journey"}, // server crash
 ]

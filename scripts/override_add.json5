@@ -1,0 +1,29 @@
+[
+  {"project_id": "sodium"},// core/perf
+  {"project_id": "indium"}, // core/perf
+  {"project_id": "lithium"}, // core/perf
+  {"project_id": "modernfix"}, // core/perf
+  {"project_id": "spark"}, // core/util
+  {"project_id": "modmenu"}, // core/util
+  {"project_id": "player-roles"}, // core/util
+  {"project_id": "emi"}, // core/util
+//  {"project_id": "ballotbox"}, // core/util
+//  {"project_id": "glowcase"}, // core/build
+  {"project_id": "worldedit"}, // core/build
+//  {"project_id": "teabridge"}, // core/chat
+  {"project_id": "styled-nicknames"}, // core/chat
+  {"project_id": "drogstyle"}, // core/chat
+  {"project_id": "crunchy-crunchy-advancements"}, // nice/perf
+  {"project_id": "reeses-sodium-options"}, // nice/util
+  {"project_id": "wthit"}, // nice/util
+//  {"project_id": "resetting"}, // nice/build
+//  {"project_id": "nofunallowed"}, // nice/build
+  {"project_id": "armorstandeditor"}, // nice/build
+//  {"project_id": "picturesign"}, // nice/build
+  {"project_id": "axiom"}, // nice/build
+  {"project_id": "ears"},  // nice/chat
+  {"project_id": "styled-chat"},  // nice/chat
+  {"project_id": "styledplayerlist"},  // nice/chat
+  {"project_id": "simple-voice-chat"},  // nice/chat
+  {"project_id": "fabrictailor"}  // nice/chat
+]

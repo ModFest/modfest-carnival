@@ -1,13 +1,13 @@
 name = "Player Roles"
-filename = "player-roles-1.6.8.jar"
+filename = "player-roles-1.6.11.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rt1mrUHm/versions/GAHsEejj/player-roles-1.6.8.jar"
+url = "https://cdn.modrinth.com/data/Rt1mrUHm/versions/WSx6SItb/player-roles-1.6.11.jar"
 hash-format = "sha1"
-hash = "1b86fcbf163e53f70bcd9d6294977cf09143dc40"
+hash = "ce3169e292a6726c4324271a4d6f9ae375ef5109"
 
 [update]
 [update.modrinth]
 mod-id = "Rt1mrUHm"
-version = "GAHsEejj"
+version = "WSx6SItb"

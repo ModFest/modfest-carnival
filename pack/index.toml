@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnificent-maw.pw.toml"
-hash = "1d1191f9daaf09f041e729d85337a09baa83f55d0f1355c574215e5c2b68a152"
+hash = "5832c65a86de09a8b8df580b8a93a4988be16ec47fd2351e6ebbd95ff2552241"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/pocketmobs.pw.toml"
-hash = "73fd5d31a1e0f4dec642b20be6de8055606f4e48bd78777750aa2f8f82b558a1"
+hash = "63d1ba91aae03e75da9f4295326ea62cd83f9f86d0a15eda562d0587c7f7c5dc"
 metafile = true
 
 [[files]]
@@ -706,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/splinecart.pw.toml"
-hash = "2a76f73fe92bf568f64a6be138327066b59f9dc36d7a1aca4b6d92d06132b775"
+hash = "2addd4858f3f5a4364f63961eb22f6ac3a9952de47f22b9074470c7f04ab23c8"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "6dc145e57dd8a227825720a98ec27cc374e6df3fb9a23903407b7a9ff62e20ba"
+hash = "b0758984122013cd69cd0546eef1797b5b4d672e8f1f917cab7c5674dc616110"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/wheel-of-wacky.pw.toml"
-hash = "57d5e3055b99aabb4d532d3bb9e9c1ed58ede9554999c6f2e62fc25363488b6b"
+hash = "a392254382dff5109209493a29b8736f9fc48741af0b26265213b3c8f3eb61da"
 metafile = true
 
 [[files]]

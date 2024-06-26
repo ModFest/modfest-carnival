@@ -1,0 +1,7 @@
+name = "fireblanket"
+filename = "fireblanket-0.5.0.jar"
+
+[download]
+url = "https://jaskarth.com/pub/mods/fireblanket-0.5.0.jar"
+hash-format = "sha256"
+hash = "83a28471f1f1ba7aa661d0ad68a99501981b383f9f653c81a4006b0336dab3e3"

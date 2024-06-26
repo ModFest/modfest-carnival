@@ -36,6 +36,7 @@ def main():
     event = 'carnival'
     mods_path = './mods/'
     pack_toml_path = './pack.toml'
+    overrides_path = '../scripts/overrides'
     override_add_path = '../scripts/override_add.json5'
     override_remove_path = '../scripts/override_remove.json5'
     min_install_time = 0.1
@@ -55,6 +56,9 @@ def main():
         shutil.rmtree(mods_path)
         os.makedirs(mods_path)
 
+    if not os.path.exists(overrides_path):
+        os.makedirs(overrides_path)
+
     # Refresh to keep log clean
     os.system('packwiz refresh')
 
@@ -71,6 +75,8 @@ def main():
     # Install mods based on slugs and versions
     for mod in overrides_add + submissions:
         platform = mod['platform'] if 'platform' in mod else mod
+        if platform['project_id'] in [x['project_id'] for x in overrides_remove]:
+            continue
         before_time = time.time()
         if not packwiz_pretty_print('packwiz mr add ' + (platform['project_id'] if 'version_id' not in platform else 'https://modrinth.com/mod/' + platform['project_id'] + '/version/' + platform['version_id']) + ' -y'):
             print('Update failed. Please see above for error.')
@@ -82,17 +88,16 @@ def main():
         packwiz_pretty_print('packwiz remove ' + mod['project_id'], ignore_errors=True)
 
     # Copy in overriding jar files, you heretic
-    shutil.copytree('../scripts/overrides', './mods', dirs_exist_ok=True)  # Python 3.8 :pineapple:
+    shutil.copytree(overrides_path, './mods', dirs_exist_ok=True)  # Python 3.8 :pineapple:
 
     # Refresh just in case
     os.system('packwiz refresh')
 
     # Prompt
     print('Update successful! Next Steps:')
-    print('1. Bump pack version in pack.toml')
-    print('2. `packwiz serve` and smoke test using local client+server')
-    print('3. commit and push')
-    print('4. test on production client+server')
+    print('- `packwiz serve` and smoke test using local client+server')
+    print('- commit and push')
+    print('- restart server')
 
 
 if __name__ == "__main__":

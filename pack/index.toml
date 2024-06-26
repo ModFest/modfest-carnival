@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/circus-deco.pw.toml"
-hash = "f5f69460dd4a7d6e5ce2b4413a2f6f6030f85c65383da6367bd8cf03d80b6bce"
+hash = "5f6c05ac9fd1fe0a2d766988434300f57fafd1c24489db5b5807bf3e5000359b"
 metafile = true
 
 [[files]]
@@ -487,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/crypt-mimic.pw.toml"
 hash = "21ba3332f886bed4f70cca22e245541bb3fa62be1ffc888687ec2030054a3d63"
+metafile = true
+
+[[files]]
+file = "mods/crystal-fortunes.pw.toml"
+hash = "34a04f5564ba6025bd1d67f275b78da8f79149bb77e30fd6be48ae8a05e513dc"
 metafile = true
 
 [[files]]
@@ -526,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true
 
 [[files]]
@@ -596,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/mirthdew-encore.pw.toml"
-hash = "0e8352e1c34fbff5fc6d0d289da9329401b6bdb28e3605cd95706587761c1c43"
+hash = "9e72e72f38de72460cfea8e17fdbe81e5cd01fa3e925df1ce293967f753f528e"
 metafile = true
 
 [[files]]
@@ -656,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/rounded_mod.pw.toml"
-hash = "cc11514333c841bb89479780546b5db05d9ab17ea51982b00cdc4a4c41319dc9"
+hash = "7e88369b7ae49680a78bd06014b7fb0d5b7498fd0d4c6b81f622e17de377cf64"
 metafile = true
 
 [[files]]
@@ -711,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-hash = "f163850cb5a2544393b14b9d6cdc4e173efc1dc90aeb82fdf1d095339c0ad682"
+hash = "a4fc712afb566a3964468c0df86eabce031ec9b844d7f42abf79e05de73b4591"
 metafile = true
 
 [[files]]
@@ -746,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/vainglory.pw.toml"
-hash = "a2e65fd02ef76e721890d9d51cb37731e36f556231d4a2fd26151a75fae2ed71"
+hash = "cbe00098d6f0c7c108fb67429276bfb2b4b6b94a827238a86074eddf135c8cda"
 metafile = true
 
 [[files]]

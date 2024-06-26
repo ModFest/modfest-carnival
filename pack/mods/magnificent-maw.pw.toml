@@ -1,13 +1,13 @@
 name = "the Magnificent Fire-Breathing Sword-Swallowing Maw!"
-filename = "magnificent-maw-1.4.3.jar"
+filename = "magnificent-maw-1.4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dInQkabf/versions/gtF3Ei0x/magnificent-maw-1.4.3.jar"
+url = "https://cdn.modrinth.com/data/dInQkabf/versions/AyyZzdQM/magnificent-maw-1.4.4.jar"
 hash-format = "sha1"
-hash = "a67949a2cbcde89346f5a19f0eefd101896d076d"
+hash = "31fa6dfba1b1fc7cc777d8549e72845226a08480"
 
 [update]
 [update.modrinth]
 mod-id = "dInQkabf"
-version = "gtF3Ei0x"
+version = "AyyZzdQM"

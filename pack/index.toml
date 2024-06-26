@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "da0b0cffb114ef0812e504dca667f161dd352321cfa50daef1c3ea100770145b"
+hash = "e37eb0dba567c0c74e25a49ce655b404eee151a87949648545d7f767fcf59766"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnificent-maw.pw.toml"
-hash = "5832c65a86de09a8b8df580b8a93a4988be16ec47fd2351e6ebbd95ff2552241"
+hash = "82e33779604d48bb731b13bdb45604b855a58c385b5193ee79fe181d2b93c768"
 metafile = true
 
 [[files]]

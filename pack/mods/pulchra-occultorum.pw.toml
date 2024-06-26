@@ -1,13 +1,13 @@
 name = "Pulchra Occultorum"
-filename = "pulchra-occultorum-0.0.3-alpha.jar"
+filename = "pulchra-occultorum-0.0.4-alpha.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4vHHqRFc/versions/MH596AhA/pulchra-occultorum-0.0.3-alpha.jar"
+url = "https://cdn.modrinth.com/data/4vHHqRFc/versions/jWtaElbb/pulchra-occultorum-0.0.4-alpha.jar"
 hash-format = "sha1"
-hash = "5aede6408e98173bef5e906ba2f4807c59410a03"
+hash = "2cd75d3771d239f999e2c2daaf51a41874abc318"
 
 [update]
 [update.modrinth]
 mod-id = "4vHHqRFc"
-version = "MH596AhA"
+version = "jWtaElbb"

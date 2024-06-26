@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/bombastic.pw.toml"
-hash = "1b5c72678d1dcbb094a32d090d7f3fc40f0bc87f91a5ed8fdd2823d7f24c0bf4"
+hash = "822a6b28e6e6f6b632fef448c6765c8779f0990d95a6fc5616b6e208ff86a4ee"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnificent-maw.pw.toml"
-hash = "592bac17718330ab62eaf5d54a15727d698f40b57ebf2cbf40821757017a8e88"
+hash = "1d1191f9daaf09f041e729d85337a09baa83f55d0f1355c574215e5c2b68a152"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/pocketmobs.pw.toml"
-hash = "20feb2bc3db597b5d6d2a7651d1692a4e0b89015e2870967349f36ad3fc0bb3a"
+hash = "73fd5d31a1e0f4dec642b20be6de8055606f4e48bd78777750aa2f8f82b558a1"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/pulchra-occultorum.pw.toml"
-hash = "3eb6fc8588b9bd52ddca48637fc2ac381a56e185a988fa841137be39ab59f99b"
+hash = "a79076c78d3dec3235f570f2368559f22c2df2bc139e8a3717a3428df41b237f"
 metafile = true
 
 [[files]]
@@ -696,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-spirits.pw.toml"
-hash = "86cc44e4a77c4bbd66939e4ee6ceed97d411d22e5f4d6ddf5c97312a0671c7d5"
+hash = "4cd26d567c0b45931455b9ab1bc81cc34d391aeb19e1b29b4677b8b18ede4603"
 metafile = true
 
 [[files]]
@@ -722,6 +722,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "a4fc712afb566a3964468c0df86eabce031ec9b844d7f42abf79e05de73b4591"
+metafile = true
+
+[[files]]
+file = "mods/teabridge.pw.toml"
+hash = "bec62b64e255b592feb9b7d1e88e4eb535836a37f22a6ae97fe40842275a3814"
 metafile = true
 
 [[files]]
@@ -761,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/wheel-of-wacky.pw.toml"
-hash = "b0cf560b74868da89f04b55c9c2605967c2c8cd834a0bbd21fa2c91e3908653b"
+hash = "57d5e3055b99aabb4d532d3bb9e9c1ed58ede9554999c6f2e62fc25363488b6b"
 metafile = true
 
 [[files]]

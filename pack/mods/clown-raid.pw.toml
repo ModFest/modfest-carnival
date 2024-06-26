@@ -1,13 +1,13 @@
 name = "Clown Raid"
-filename = "clown-raid-1.2.1.jar"
+filename = "clown-raid-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pqtnvjVS/versions/XNCSoCZm/clown-raid-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/pqtnvjVS/versions/m8EhehgK/clown-raid-1.2.2.jar"
 hash-format = "sha1"
-hash = "4849cd234382f149201a2ae7a092a1dc3aaeadd3"
+hash = "b6aea15296afd0bc028f52b5af08843b736ea5ed"
 
 [update]
 [update.modrinth]
 mod-id = "pqtnvjVS"
-version = "XNCSoCZm"
+version = "m8EhehgK"

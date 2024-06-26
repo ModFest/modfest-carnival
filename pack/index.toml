@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "5130d665c62fbb2305d37ff1bbdc276ad7aadf819b7411f769f182437b234a20"
+hash = "0a10b5118f2e415d7f84703b4b4ad4e844f87e4c023e018cc76515d9d7d1505d"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/carnival-foods.pw.toml"
-hash = "086e3ee029bf3fd7ea0592f6bb5ba84d4e935a07331e24b2bd5dca2bf838b94e"
+hash = "4482bf29fbecf34df7f2969252b7eb753ddcad299f3aadab43fd360a133f1ca8"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/clown-raid.pw.toml"
-hash = "fc0f89b391fcd41daf9c2855fac61db3613de3490929449f1b72e87c2814f7e0"
+hash = "2385d1617d257ca910793db37e042739594349b6c3840edea62712e29b5e12cf"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/customizable-carts.pw.toml"
-hash = "5a7be1bc39aa0a43e4a83a2fe79b9ee0945010d3d4d9776069b58651b3338c09"
+hash = "4f5703d4af5efdeb2608b6077e82cfadd93a53e912ccca4bf4506921d39a5297"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnificent-maw.pw.toml"
-hash = "82e33779604d48bb731b13bdb45604b855a58c385b5193ee79fe181d2b93c768"
+hash = "fd540416dc494c3a4f68d15d8cabf18bec3d2f57685db0b6c515773027847940"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/snuggle-vault.pw.toml"
-hash = "25d16d5c8d9da8c20d12f07b13f31751aa6ee1595003d5f3e82f98479ae80ff5"
+hash = "04715f10f83341814634a0f2dafdfbb4c26518dea999061fbd42fb304d35ad7b"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/twirl.pw.toml"
-hash = "0b1a13cddb2c9ae2403b9cb78ace29512fc26bd0723b423e25c059dfb3c59a84"
+hash = "45a227e8aae7fc84ff78b90c8f52d016f68405a2dd5dfedc009e43a32e96c0cd"
 metafile = true
 
 [[files]]

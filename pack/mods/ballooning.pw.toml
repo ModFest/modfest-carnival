@@ -1,13 +1,13 @@
 name = "Ballooning"
-filename = "ballooning-1.0.0.jar"
+filename = "ballooning-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/J1BCbrXI/versions/LiiHV3Ny/ballooning-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/J1BCbrXI/versions/D5xlEC3x/ballooning-1.1.0.jar"
 hash-format = "sha1"
-hash = "e44cb48625a2027fc5cd0923349c25cc97e8a1a3"
+hash = "2f75788b02f72ff883351f0d1897ac8a274b3937"
 
 [update]
 [update.modrinth]
 mod-id = "J1BCbrXI"
-version = "LiiHV3Ny"
+version = "D5xlEC3x"

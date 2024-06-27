@@ -1,13 +1,13 @@
 name = "Wheel of Wacky"
-filename = "wacky_wheel-0.1.3.jar"
+filename = "wacky_wheel-0.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JwRk761J/versions/4K5M03UE/wacky_wheel-0.1.3.jar"
+url = "https://cdn.modrinth.com/data/JwRk761J/versions/mBm6YUpX/wacky_wheel-0.1.4.jar"
 hash-format = "sha1"
-hash = "a989b24bb85e7ebe497898d6ed856d946428fb18"
+hash = "75031a8d2dab118a21c8abd86cbd3063b902e19b"
 
 [update]
 [update.modrinth]
 mod-id = "JwRk761J"
-version = "4K5M03UE"
+version = "mBm6YUpX"

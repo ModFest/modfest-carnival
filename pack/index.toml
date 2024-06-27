@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "1f6172c7bb27e298d9b3167b5fed32946343a16f8bcd7903dc6c3c4b14977ad0"
+hash = "fa6bed56b65a5b0aa283146b2b366e9a785d73a14fd62d097cfafdd7f9f44a56"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballooning.pw.toml"
-hash = "8779a6a64eb5bd459f5537ac9b432f319aa6dce6a6bb9c20021c18274acbfd5e"
+hash = "6d40b7754a5a6ee7f73a26923f60d15e53d0929656f4500b6d3cd26b232174a6"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/wheel-of-wacky.pw.toml"
-hash = "a392254382dff5109209493a29b8736f9fc48741af0b26265213b3c8f3eb61da"
+hash = "c3d4b9049a8214e4c281462f5e1a495be8a861ca447741e329947763c566a840"
 metafile = true
 
 [[files]]

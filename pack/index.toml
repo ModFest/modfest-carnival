@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/bombastic.pw.toml"
-hash = "822a6b28e6e6f6b632fef448c6765c8779f0990d95a6fc5616b6e208ff86a4ee"
+hash = "ee77afe13b51eff5686091268fb27557052075ddd9543f11c1f25de94dd6e034"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "73c57e25a0df4e1073584a5035a39e210785a821cc8bf539c81058c5dc103532"
+hash = "2a7f85ad3f4e558a7422a5c83475b02dec372d10210a782e78548e53743c943b"
 metafile = true
 
 [[files]]

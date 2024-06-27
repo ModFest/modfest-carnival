@@ -1,13 +1,13 @@
 name = "Pocket Mobs"
-filename = "pocketmobs-1.0.0.jar"
+filename = "pocketmobs-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/o3k15579/versions/zHIQXsDf/pocketmobs-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/o3k15579/versions/76syubMe/pocketmobs-1.1.2.jar"
 hash-format = "sha1"
-hash = "1cf5fcf5c637e9a5b8d86251658c2913c15fa35d"
+hash = "a302b312a369df21f78ffe2d2d5b24f7e701f6f9"
 
 [update]
 [update.modrinth]
 mod-id = "o3k15579"
-version = "zHIQXsDf"
+version = "76syubMe"

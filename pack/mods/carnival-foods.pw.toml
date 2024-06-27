@@ -1,13 +1,13 @@
 name = "Carnival Foods"
-filename = "carnival-foods-0.0.1.jar"
+filename = "carnival-foods-0.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wsEZr1KV/versions/WupJNx5n/carnival-foods-0.0.1.jar"
+url = "https://cdn.modrinth.com/data/wsEZr1KV/versions/QhgyGArI/carnival-foods-0.1.0.jar"
 hash-format = "sha1"
-hash = "4cdd3d8a8ff4befdfcf50c8e6c45b3e659e1981e"
+hash = "8c676cbf627afa7b387a75884e6653e75d703a59"
 
 [update]
 [update.modrinth]
 mod-id = "wsEZr1KV"
-version = "WupJNx5n"
+version = "QhgyGArI"

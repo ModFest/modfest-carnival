@@ -78,7 +78,7 @@ def main():
         if platform['project_id'] in [x['project_id'] for x in overrides_remove]:
             continue
         before_time = time.time()
-        if not packwiz_pretty_print('packwiz mr add ' + (platform['project_id'] if 'version_id' not in platform else 'https://modrinth.com/mod/' + platform['project_id'] + '/version/' + platform['version_id']) + ' -y'):
+        if not packwiz_pretty_print('packwiz mr add ' + (platform['project_id'] if 'version_id' not in platform or True else 'https://modrinth.com/mod/' + platform['project_id'] + '/version/' + platform['version_id']) + ' -y'):  # TODO: Re-enable versioning when platform updateversion isnt broken
             print('Update failed. Please see above for error.')
             return
         elapsed_time = time.time() - before_time

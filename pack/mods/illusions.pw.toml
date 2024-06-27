@@ -1,13 +1,13 @@
 name = "Illusions"
-filename = "illusions-1.0.0+1.21.jar"
+filename = "illusions-1.0.1+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yehkVljG/versions/f2KqDSsr/illusions-1.0.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/yehkVljG/versions/JRuJYKnL/illusions-1.0.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "df6f15fa85d801d9015d89e5ff82b4d4c4bbaaa7"
+hash = "81a4e0f4ef3764b27733926627482e32af0eb150"
 
 [update]
 [update.modrinth]
 mod-id = "yehkVljG"
-version = "f2KqDSsr"
+version = "JRuJYKnL"

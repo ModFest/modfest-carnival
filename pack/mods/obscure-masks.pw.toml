@@ -1,13 +1,13 @@
 name = "Obscure Masks"
-filename = "obscuremasks-1.0.0-1.21.jar"
+filename = "obscuremasks-1.0.2-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IyTNAlEd/versions/eblOS83Z/obscuremasks-1.0.0-1.21.jar"
+url = "https://cdn.modrinth.com/data/IyTNAlEd/versions/w6ioNISR/obscuremasks-1.0.2-1.21.jar"
 hash-format = "sha1"
-hash = "7d7f6ca7533d4a9457d4ed429508929ad127c858"
+hash = "2ddb76960cbb2fd1830a3e7caf2b7cb112650390"
 
 [update]
 [update.modrinth]
 mod-id = "IyTNAlEd"
-version = "eblOS83Z"
+version = "w6ioNISR"

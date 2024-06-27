@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "0a10b5118f2e415d7f84703b4b4ad4e844f87e4c023e018cc76515d9d7d1505d"
+hash = "1f6172c7bb27e298d9b3167b5fed32946343a16f8bcd7903dc6c3c4b14977ad0"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "a966d9a78a58a4e72f66bd8c35177b71c4e4280d97efadb33de5044ce07d3b7c"
+hash = "25dc1db473d5f6862e23c350c15cd1414cf534138b555f34e2932d85ab160a8e"
 metafile = true
 
 [[files]]

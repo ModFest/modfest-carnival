@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "7aa8f27fc03b0d59afda1f7f672658396aeaed9cfba0d01471ad88ee3df90a36"
+hash = "616a8d2b2dae49f299d8a7754759b64879be7e023c70c97e26f61aec7a23d6b1"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/extravaganza.pw.toml"
-hash = "a614dfe9d449d900902d9ac41135f923aca810130405ce7c5ed3b247737d7b4d"
+hash = "0c05a687c7b5f9cea75eb517bef180cbcf0e00bcc8b2738668fff856614a2f23"
 metafile = true
 
 [[files]]
@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnificent-maw.pw.toml"
-hash = "fd540416dc494c3a4f68d15d8cabf18bec3d2f57685db0b6c515773027847940"
+hash = "c75f233b2b44c8addfbafe44c71ea13791c35105ceba4db02484b2ae6df58bd7"
 metafile = true
 
 [[files]]

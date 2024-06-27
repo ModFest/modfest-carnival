@@ -1,13 +1,13 @@
 name = "Extravaganza!"
-filename = "extravaganza-0.1.3-beta.jar"
+filename = "extravaganza-0.1.4-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Joiujp4e/versions/Sx0pedHv/extravaganza-0.1.3-beta.jar"
+url = "https://cdn.modrinth.com/data/Joiujp4e/versions/dPOezLhw/extravaganza-0.1.4-beta.jar"
 hash-format = "sha1"
-hash = "081347ae12c67f21e73f88ebdf701d4f5e86174d"
+hash = "72187648dda19ed5d39294c6cf87fd105d9e3d4c"
 
 [update]
 [update.modrinth]
 mod-id = "Joiujp4e"
-version = "Sx0pedHv"
+version = "dPOezLhw"

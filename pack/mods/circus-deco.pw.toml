@@ -1,13 +1,13 @@
 name = "Circus Deco"
-filename = "circus_deco-0.1.0+build.2-1.21.jar"
+filename = "circus_deco-0.1.0+build.1-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/A1tEWpES/versions/kpPkm3Mp/circus_deco-0.1.0%2Bbuild.2-1.21.jar"
+url = "https://cdn.modrinth.com/data/A1tEWpES/versions/XbLnAGyQ/circus_deco-0.1.0%2Bbuild.1-1.21.jar"
 hash-format = "sha1"
-hash = "89f33252897e94d830eb05eaa5066f3eb021389b"
+hash = "142d3d3db1230b730add4ef7514e92fd4f183fb8"
 
 [update]
 [update.modrinth]
 mod-id = "A1tEWpES"
-version = "kpPkm3Mp"
+version = "XbLnAGyQ"

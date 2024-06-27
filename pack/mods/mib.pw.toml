@@ -1,13 +1,13 @@
 name = "Musical Instrument Library (Mib)"
-filename = "mib-fabric-0.1.1+1.21.jar"
+filename = "mib-fabric-0.1.0+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bKSuWCZz/versions/GB3s5LC9/mib-fabric-0.1.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/bKSuWCZz/versions/xoPuzN0F/mib-fabric-0.1.0%2B1.21.jar"
 hash-format = "sha1"
-hash = "c27fd204e5e1fc363d1b176c5666a88c03678aa5"
+hash = "ffae03b6a0000fbab3fc8d4dfa499830b7d54661"
 
 [update]
 [update.modrinth]
 mod-id = "bKSuWCZz"
-version = "GB3s5LC9"
+version = "xoPuzN0F"

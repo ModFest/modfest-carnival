@@ -1,5 +1,4 @@
 [
   {"project_id": "emi"}, // crashes (might be incompat)
   {"project_id": "mid-journey"}, // server crash
-  {"project_id": "Yaz9NVDK"}, // balloons away! - bad modrinth metadata
 ]

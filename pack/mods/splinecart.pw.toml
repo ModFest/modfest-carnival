@@ -1,13 +1,13 @@
 name = "Splinecart"
-filename = "splinecart-0.0.1-modfest.3+1.21.jar"
+filename = "splinecart-0.0.1-modfest.1+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mAHz905I/versions/FQDe6opP/splinecart-0.0.1-modfest.3%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/mAHz905I/versions/CEv07qpw/splinecart-0.0.1-modfest.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "8bfad226bde054f340a3e9ae874bacaa8c9e6943"
+hash = "149163dd15ac4d09a627cbf655f7fbd975669c13"
 
 [update]
 [update.modrinth]
 mod-id = "mAHz905I"
-version = "FQDe6opP"
+version = "CEv07qpw"

@@ -1,13 +1,13 @@
 name = "Vainglory"
-filename = "vainglory-0.1.0+build.2-1.21.jar"
+filename = "vainglory-0.1.0+build.1-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2qyeWQOn/versions/ANT3Va2a/vainglory-0.1.0%2Bbuild.2-1.21.jar"
+url = "https://cdn.modrinth.com/data/2qyeWQOn/versions/cGO2mchN/vainglory-0.1.0%2Bbuild.1-1.21.jar"
 hash-format = "sha1"
-hash = "de12d28afafae09276e23c2ee4d361dcc3d49e73"
+hash = "19cbf35e1aee831d1cd054c3a6ab7f5e9388dad4"
 
 [update]
 [update.modrinth]
 mod-id = "2qyeWQOn"
-version = "ANT3Va2a"
+version = "cGO2mchN"

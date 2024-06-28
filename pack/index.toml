@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "616a8d2b2dae49f299d8a7754759b64879be7e023c70c97e26f61aec7a23d6b1"
+hash = "f0ee3923b7b9272b0172d022d5d062d0559917b7c8be4082f090d054f53a1840"
 metafile = true
 
 [[files]]
@@ -426,12 +426,12 @@ metafile = true
 
 [[files]]
 file = "mods/bombastic.pw.toml"
-hash = "ee77afe13b51eff5686091268fb27557052075ddd9543f11c1f25de94dd6e034"
+hash = "6066c05b3a0b077b526d4d2f93901b22993ea29aafeb462ccab71a31cbf7547d"
 metafile = true
 
 [[files]]
 file = "mods/bonzi-buddy.pw.toml"
-hash = "3a2736abbcab09a070fefebb50cfc3e7565e322ee4262fa32473491cd59f2631"
+hash = "eec31fe289a55b765e426dbbbcdaaee3e358fe8ee9a278dcd4ab38b2afa38ec6"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "48fa9a6af8274d7ef20978f7715789244f56364477bb5af663ff710669561ef9"
+hash = "e0b80df6b8f1dfa275a1c9ee3e43f346b1839b544831fb11c5fe4204424fffc4"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9ca351285bca484f56e1671fba76362dba0557d485e88655607e5683cddead20"
+hash = "8acc81bb78b6236be3e239b34cf8064f66df205e2788d54d5b79c386402551f6"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/customizable-carts.pw.toml"
-hash = "4f5703d4af5efdeb2608b6077e82cfadd93a53e912ccca4bf4506921d39a5297"
+hash = "008d1772a2324cef29102c10eb4be5d0a132f3669dc3bc7b666985249a53b2fb"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/hookaduck.pw.toml"
-hash = "fcca9eb85d6fcbac224fe99b6108e2062635055b5b230cb7ce3bb4588efb1837"
+hash = "03c7e743dc66e055085e155cdc45e0de879da626f5a32ed6b7e1a1f1c27a6731"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/up-and-away.pw.toml"
-hash = "54c3e569edcec9874c560438b571415810cf68c04b166cf58d5117e212875d9d"
+hash = "6566f2e071b5c0cb0b88b2b88102cb09df63b40d09e261f86b5e83371186d9d4"
 metafile = true
 
 [[files]]
@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "be94397340f28bff0babb5691a8e30b8fb47ca595d6a9c450a3d7f1e3ad4c47d"
+hash = "c094ede18ebc373e67a3cd70afa07ede4cd5e21dc1194bc4f0483fb186b5a09b"
 metafile = true
 
 [[files]]

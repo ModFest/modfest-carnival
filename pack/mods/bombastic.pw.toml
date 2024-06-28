@@ -3,11 +3,11 @@ filename = "Bombastic.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4PhSSMsR/versions/sBkBsGKE/Bombastic.jar"
+url = "https://cdn.modrinth.com/data/4PhSSMsR/versions/gjtjdnza/Bombastic.jar"
 hash-format = "sha1"
-hash = "2ac599541e111035a7f73031e176e64738cabead"
+hash = "29ee4a01ee516e1518091542fc70827189032f35"
 
 [update]
 [update.modrinth]
 mod-id = "4PhSSMsR"
-version = "sBkBsGKE"
+version = "gjtjdnza"

@@ -1,13 +1,13 @@
 name = "Customizable Carts"
-filename = "customizablecarts-0.2.1.jar"
+filename = "customizablecarts-0.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/N5SI6Kbt/versions/1JIqHDhH/customizablecarts-0.2.1.jar"
+url = "https://cdn.modrinth.com/data/N5SI6Kbt/versions/ARBNwvF3/customizablecarts-0.2.2.jar"
 hash-format = "sha1"
-hash = "3d3e0924b494929233b56b8dfb952abd1fb8ad0c"
+hash = "6266bc3b2d936b710182f4a1b4e032b82b1d8917"
 
 [update]
 [update.modrinth]
 mod-id = "N5SI6Kbt"
-version = "1JIqHDhH"
+version = "ARBNwvF3"

@@ -1,13 +1,13 @@
 name = "Up and Away"
-filename = "up_and_away-1.0.0-beta.2+build.67.jar"
+filename = "up_and_away-1.0.0-beta.3+build.104.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5MkSo9Hb/versions/bjwVw1ZB/up_and_away-1.0.0-beta.2%2Bbuild.67.jar"
+url = "https://cdn.modrinth.com/data/5MkSo9Hb/versions/aolt5kgx/up_and_away-1.0.0-beta.3%2Bbuild.104.jar"
 hash-format = "sha1"
-hash = "2421450c5bd9dfd16d6b863ef9ee26d78034fc28"
+hash = "cc3fe6d103e3d746771d5a4fb9fc5f443d32f887"
 
 [update]
 [update.modrinth]
 mod-id = "5MkSo9Hb"
-version = "bjwVw1ZB"
+version = "aolt5kgx"

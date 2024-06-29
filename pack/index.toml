@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/mirthdew-encore.pw.toml"
-hash = "9e72e72f38de72460cfea8e17fdbe81e5cd01fa3e925df1ce293967f753f528e"
+hash = "3bb04ab87f81ee685948d9aac29a861d76231680cc0523742594b7fa2334926d"
 metafile = true
 
 [[files]]
@@ -716,12 +716,12 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "9e4a1e5cc3c819adc5d4d93541c5e1a0f62936f94ceb4307ec8a845f1f46377b"
+hash = "b1c50edebcc84ad094cf0a95afd7cca5828dd970aef4a5e86015b7388fa0f670"
 metafile = true
 
 [[files]]
 file = "mods/splinecart.pw.toml"
-hash = "2addd4858f3f5a4364f63961eb22f6ac3a9952de47f22b9074470c7f04ab23c8"
+hash = "626d81f721db8ef70b677aafebc1ba862841554ce4b20a4fa268b430fd5aadb8"
 metafile = true
 
 [[files]]

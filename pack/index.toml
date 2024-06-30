@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8acc81bb78b6236be3e239b34cf8064f66df205e2788d54d5b79c386402551f6"
+hash = "947c63ea5ef39acffd205eb16ff3f92f09cca88503def799ab4f814b3de9e46f"
 metafile = true
 
 [[files]]
@@ -586,12 +586,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-parkour.pw.toml"
-hash = "e8b9b1aae5e089c9564a9a7f28b7db38b1e6c2cc596d3467cafd832ca85bccfc"
+hash = "0cbe8307ed2ff6ae492408f488a9b6e62772e1742c3855a7bad7b9ead6ee462a"
 metafile = true
 
 [[files]]
 file = "mods/lias.pw.toml"
-hash = "b88798de655171a0696aefd09e81f83dad950a55efe4208e2147fdbbd4c8d282"
+hash = "68d968c0bf12f189098a4a353595b0f530e982eeab8d17eb62d0be4d3c0004d3"
 metafile = true
 
 [[files]]

@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/confetti-stuff.pw.toml"
-hash = "4eb75ead81681aa8ba6b91add89776872d70c1390705d05b4ab8b737893e2daa"
+hash = "ddbdd31be3bd3eb1216524424f134c3273d3474b2ac7c8019a89d4f28125ae61"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/crystal-fortunes.pw.toml"
-hash = "34a04f5564ba6025bd1d67f275b78da8f79149bb77e30fd6be48ae8a05e513dc"
+hash = "5ea68681b46b3bee1da6b96c72671d77d89b570fe7d9875a4aa206cab65ec274"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/hookaduck.pw.toml"
-hash = "03c7e743dc66e055085e155cdc45e0de879da626f5a32ed6b7e1a1f1c27a6731"
+hash = "785eae3708346c03d556d13e90a129da25c83b993cfe896398c93c25773297c5"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "cc6af114be79f031cd9b4628a4a04a287d1c7ffdeefed688fa2e2a96a0f1d884"
+hash = "043f4cc898a042e317340867e30d9b10e118d2aeb54a45ad7759c2addf410f82"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/up-and-away.pw.toml"
-hash = "6566f2e071b5c0cb0b88b2b88102cb09df63b40d09e261f86b5e83371186d9d4"
+hash = "594cd5c221f40539fe21d6ffc5194cc3f7b045433879366a51a82e44b4e734f1"
 metafile = true
 
 [[files]]

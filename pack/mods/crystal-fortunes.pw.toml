@@ -1,13 +1,13 @@
 name = "Crystal Fortunes"
-filename = "Crystal_Fortunes-1.0.2.jar"
+filename = "Crystal_Fortunes-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JCehA5Yy/versions/MEneKFM6/Crystal_Fortunes-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/JCehA5Yy/versions/ziWeWB2r/Crystal_Fortunes-1.1.0.jar"
 hash-format = "sha1"
-hash = "7b2dfb513e18e7e0b0af06e7523b32ecb4913733"
+hash = "2973043e1877ff4601e5b3b3b66ab033e4124235"
 
 [update]
 [update.modrinth]
 mod-id = "JCehA5Yy"
-version = "MEneKFM6"
+version = "ziWeWB2r"

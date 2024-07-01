@@ -386,7 +386,7 @@ hash = "a7fd6cdc6838b4b99d78e36ffc7a7a6d578adbe5a957565da5715a73f0738932"
 
 [[files]]
 file = "mods/aji-maji.pw.toml"
-hash = "252d847c0d24bdf3396df4f62522ad46db6bdaf268f06cfbb51227a82fbe92c1"
+hash = "d7749e857791299c43acb4c42c05db8a271c38653d07860d96a7d38a2d4ff509"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/crystal-fortunes.pw.toml"
-hash = "5ea68681b46b3bee1da6b96c72671d77d89b570fe7d9875a4aa206cab65ec274"
+hash = "1e0268fb02af61df450657c343e9ed864060e85c311e6b60be650b7b7e7eaa13"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/extravaganza.pw.toml"
-hash = "0c05a687c7b5f9cea75eb517bef180cbcf0e00bcc8b2738668fff856614a2f23"
+hash = "ac06b313e43e30d5f26e072d2ea65333cf32b542938501c747b303f4808bed44"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/illusions.pw.toml"
-hash = "6d78bdd1ae9212194556bd27976131d44be8db0395154e5682dfcc42ffa3f18e"
+hash = "df2ebfef87ce56b8f11e5cc303d6dcc98564e5ed2e1ba2b4cf05aba4ce8d027d"
 metafile = true
 
 [[files]]

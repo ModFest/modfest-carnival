@@ -1,13 +1,13 @@
 name = "Aji-Maji"
-filename = "aji-maji-1.1.jar"
+filename = "aji-maji-1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y7rjymZI/versions/wQZK00Dz/aji-maji-1.1.jar"
+url = "https://cdn.modrinth.com/data/Y7rjymZI/versions/FKGxYsYz/aji-maji-1.2.jar"
 hash-format = "sha1"
-hash = "941a1c0e22668a2a4a9905b1302dee49854163fb"
+hash = "8db5093f7695fce9a7b1ca12c6dcf729e162d4dd"
 
 [update]
 [update.modrinth]
 mod-id = "Y7rjymZI"
-version = "wQZK00Dz"
+version = "FKGxYsYz"

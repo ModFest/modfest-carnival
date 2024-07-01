@@ -802,3 +802,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "2c8ebdfd9bcfb593c8905b44103d558751e135897c8ec909393d8d317e3eb9d5"
+
+[[files]]
+file = "server-icon.png"
+hash = "b78e8678a79b7b053600eff0cc58fbf3ff9a8dc7b096f47ec15b66331c21e996"

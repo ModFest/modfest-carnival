@@ -150,11 +150,11 @@ hash = "02299c4555ea9ddf5f92caa52e51a61a2b6c07079eb25d33c4b251bbc83d7cd7"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/cover.png"
-hash = "26d6eaef9dcb3c5cdcba0d52a28057f8f6ba0223b0894dbd334e100604296ac2"
+hash = "a7a3d5d8f766bc37fe580782ac203c550447b3f780194c26ea728bed1ec10478"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/icon.png"
-hash = "c63211bd7f0cceb17ff860eee9e3bba726d1c427a7754779252c8ace8078f796"
+hash = "4ca54cd3b618326211c28b31d1dd0188f9db59f505b1484c7532f75a648e5267"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/gen_emoji.js"

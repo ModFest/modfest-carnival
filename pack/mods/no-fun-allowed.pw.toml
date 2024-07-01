@@ -1,0 +1,13 @@
+name = "no fun allowed"
+filename = "nofunallowed-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E5ro6j6i/versions/6bbCFWII/nofunallowed-1.0.jar"
+hash-format = "sha1"
+hash = "dece9d55c27133e535dc90f59f86ee5deac764c5"
+
+[update]
+[update.modrinth]
+mod-id = "E5ro6j6i"
+version = "6bbCFWII"

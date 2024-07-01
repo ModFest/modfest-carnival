@@ -22,7 +22,19 @@ hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/font/icons.json"
-hash = "27a30d3cfc75e5ba78687ecaf82513933bef19e614fd6eac7242345f86b5d63b"
+hash = "86ecc7148f0b22b28ccf41e63b08a4924910b2c3fa5cefa19c9ce1017a1bdf8f"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/art/graphics/background-lockup.png"
+hash = "a7a3d5d8f766bc37fe580782ac203c550447b3f780194c26ea728bed1ec10478"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/art/graphics/lockup-transparent.png"
+hash = "64d29ec8c6649137f5c3f09a7091078e0470e5bec8f299402559cd613fe4f1a6"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/modfest/textures/art/icon/transparent-modfest.png"
+hash = "09021a99026f006afc95f103fde9ac685034eccf2e141f0bb489218c2ab395b8"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/ace_heart.png"
@@ -147,14 +159,6 @@ hash = "0d5387a3fe09ef88831afe47dca44dac1476092201bc67255c964ca1bed4b197"
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/textures/emoji/yeefuckinghaw.png"
 hash = "02299c4555ea9ddf5f92caa52e51a61a2b6c07079eb25d33c4b251bbc83d7cd7"
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/cover.png"
-hash = "a7a3d5d8f766bc37fe580782ac203c550447b3f780194c26ea728bed1ec10478"
-
-[[files]]
-file = "config/openloader/resources/modfest-assets/assets/modfest/textures/icons/icon.png"
-hash = "4ca54cd3b618326211c28b31d1dd0188f9db59f505b1484c7532f75a648e5267"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/gen_emoji.js"
@@ -420,8 +424,13 @@ hash = "7b2816b3815a7f9f461cd870244f41e1572244fbc613397e3000ea321542f357"
 metafile = true
 
 [[files]]
+file = "mods/ballotbox.pw.toml"
+hash = "aa8b9fe3277faeb65e91f7bcbe943d8e9339e59567ffa9b769bcfe9cbbb8685f"
+metafile = true
+
+[[files]]
 file = "mods/beeg-smol.pw.toml"
-hash = "adbb123c1d4a1ffec5cdf6d4a9123faf4a8778be3ff93b60ae410faa582ffdfc"
+hash = "e0def8382ab5518bf7ed71aac25667403b0b9db6d597f938cddd7089bcdb7e09"
 metafile = true
 
 [[files]]
@@ -447,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/carnival-confections.pw.toml"
 hash = "b93ef63bd9eee13e273728e257c9e94f1098c27ee842e06a71244014e2094ed5"
+metafile = true
+
+[[files]]
+file = "mods/carnival-cuisine.pw.toml"
+hash = "354ccaef725e0666b19a6240b8ffa922be8e9e8611ac26aec26d07679dc27063"
 metafile = true
 
 [[files]]
@@ -481,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/confetti-stuff.pw.toml"
-hash = "ddbdd31be3bd3eb1216524424f134c3273d3474b2ac7c8019a89d4f28125ae61"
+hash = "6725b92dde10c22e0313ea34783cd7cec41baf3487dadd0678757bb47a823c91"
 metafile = true
 
 [[files]]
@@ -506,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/dancerizer.pw.toml"
-hash = "64c19933c01066b7025c5e0805375fe940cb1d4cf29ea25bb8bb4d62c62049c0"
+hash = "58415fb7373816e9e0d0f1667f0c6025183e520453430547c593a1da002633d5"
 metafile = true
 
 [[files]]
@@ -586,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-parkour.pw.toml"
-hash = "0cbe8307ed2ff6ae492408f488a9b6e62772e1742c3855a7bad7b9ead6ee462a"
+hash = "cff5730a93438edce8642623b62e0955b85ea8aaf190996b13fea5dfa8b04cd9"
 metafile = true
 
 [[files]]
@@ -627,6 +641,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+metafile = true
+
+[[files]]
+file = "mods/no-fun-allowed.pw.toml"
+hash = "8666e34e47f702404f8514f812512d7caa236c1d3b6541330eba61c8b8cbdf9d"
 metafile = true
 
 [[files]]
@@ -701,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
+hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]

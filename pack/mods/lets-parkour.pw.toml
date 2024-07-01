@@ -1,13 +1,13 @@
 name = "Let's Parkour"
-filename = "letsparkour-1.21.0-1.5.jar"
+filename = "letsparkour-1.21.0-1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yCBnCQ6f/versions/iWVGjXSF/letsparkour-1.21.0-1.5.jar"
+url = "https://cdn.modrinth.com/data/yCBnCQ6f/versions/oQW0gAuJ/letsparkour-1.21.0-1.6.jar"
 hash-format = "sha1"
-hash = "f243641462ac1d59ff1f144cf05abcf9b0b03555"
+hash = "7a3e79921bc882fee32c0b67f31b063edf97ce70"
 
 [update]
 [update.modrinth]
 mod-id = "yCBnCQ6f"
-version = "iWVGjXSF"
+version = "oQW0gAuJ"

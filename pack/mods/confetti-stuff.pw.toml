@@ -1,13 +1,13 @@
 name = "Confetti Stuff"
-filename = "confetti_stuff-1.0.3.jar"
+filename = "confetti_stuff-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6yBwpkox/versions/fpazNPGr/confetti_stuff-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/6yBwpkox/versions/w2SuS8ug/confetti_stuff-1.1.0.jar"
 hash-format = "sha1"
-hash = "76233dc5e2558727846bf473696a7fee0c315562"
+hash = "155bd380e0320f44feb18151ba35da0a2b3ec9cd"
 
 [update]
 [update.modrinth]
 mod-id = "6yBwpkox"
-version = "fpazNPGr"
+version = "w2SuS8ug"

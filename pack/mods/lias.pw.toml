@@ -1,13 +1,13 @@
 name = "Lost In A Story"
-filename = "lias-0.0.2.jar"
+filename = "lias-0.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Lj6Ec0HL/versions/P57aeB49/lias-0.0.2.jar"
+url = "https://cdn.modrinth.com/data/Lj6Ec0HL/versions/3uowOdig/lias-0.0.4.jar"
 hash-format = "sha1"
-hash = "dff620e1c6f84b37a288c4de6377ba85eede73d5"
+hash = "97d427ebcf449a2208e7545f6907470469ab23b0"
 
 [update]
 [update.modrinth]
 mod-id = "Lj6Ec0HL"
-version = "P57aeB49"
+version = "3uowOdig"

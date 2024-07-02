@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/honque.pw.toml"
-hash = "6e7130dd85c5f3e0100df7c194d5d0343c0d0423a70ea105ce30f8eaee26626a"
+hash = "72c1f087af64153885c21dae3e77d1414af16f0fd97357b500162a30933bef5c"
 metafile = true
 
 [[files]]

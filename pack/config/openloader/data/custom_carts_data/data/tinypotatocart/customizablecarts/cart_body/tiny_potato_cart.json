@@ -1,0 +1,7 @@
+{
+    "item": "minecraft:potato",
+    "model": {
+      "type": "customizablecarts:two_layer",
+      "texture": "tinypotatocart:textures/entity/minecart/tiny_potato_cart.png"
+    }
+  }

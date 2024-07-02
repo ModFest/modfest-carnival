@@ -10,6 +10,7 @@
 //  {"project_id": "open-loader"}, // core/util
 //  {"project_id": "ballotbox"}, // core/util
 //  {"project_id": "glowcase"}, // core/build
+//  {"project_id": "worldedit-cui"}, // core/build
   {"project_id": "worldedit"}, // core/build
   {"project_id": "teabridge"}, // core/chat
   {"project_id": "styled-nicknames"}, // core/chat

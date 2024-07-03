@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "9801bf0b2f0b174e47f8e4bbacd0ab5bbd9f9c5719954492841f1858720a9ba9"
+hash = "164af5c8f8da4fb6ef23be9895dffa06a39f1c96ab5bd6155cc516858ad64bc0"
 metafile = true
 
 [[files]]

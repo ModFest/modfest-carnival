@@ -791,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "f20dfdc2f017c6dfbe66e399ebe321b87a2ac2e59db881640893155134227fe4"
+hash = "7572c4fbdeac1d737215f35d82f864bd9072242f83744b716dca011579b9294f"
 metafile = true
 
 [[files]]

@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "fa8dd3998605f2e8349993f92c7476612803468089068e17c42b1998ce291b3d"
+hash = "9801bf0b2f0b174e47f8e4bbacd0ab5bbd9f9c5719954492841f1858720a9ba9"
 metafile = true
 
 [[files]]
@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/honque.pw.toml"
-hash = "88e13a1f1bbad71e31b870844e9e85a5e428b5ed795207c1b048f82a66514ca1"
+hash = "7d3c9440bba46dedfc6c881e8f49929399e52e933f4ba7e77a5926bf1bec8d15"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavender.pw.toml"
-hash = "e3a3cb514b35eb077c9fc049f5dbaad880b6718c569d78581140fad0fd037107"
+hash = "950fa2f1932db70d0173ba4867a4944d84113215f7f4bb984378cfff26719151"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
+hash = "ec90fb633414afe6d46594aa8aa91cbbcb8efcac9fdcf2a1b36427d7d04051b7"
 metafile = true
 
 [[files]]

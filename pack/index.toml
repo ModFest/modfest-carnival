@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "164af5c8f8da4fb6ef23be9895dffa06a39f1c96ab5bd6155cc516858ad64bc0"
+hash = "7319d4bf9eca376c0d607d9160d5d64e9a886b1ab8e182a8e99581d4b3b259e6"
 metafile = true
 
 [[files]]
@@ -590,6 +590,11 @@ hash = "39c4f5bf40f5caa80717972f6ba98bbbe404267031cdd268a3a7354568dcb305"
 metafile = true
 
 [[files]]
+file = "mods/glowcase.pw.toml"
+hash = "077fb5a9de64880e5342917d7413c5dd21a12ca73d7ba0fbe5697381101110d0"
+metafile = true
+
+[[files]]
 file = "mods/honque.pw.toml"
 hash = "7d3c9440bba46dedfc6c881e8f49929399e52e933f4ba7e77a5926bf1bec8d15"
 metafile = true
@@ -645,13 +650,18 @@ hash = "c99d59e1dcc6fa3079057931f79306477494cd61c22522fecfb0634b977f29ce"
 metafile = true
 
 [[files]]
+file = "mods/mid-journey.pw.toml"
+hash = "57abfdb594a7bc5f22fd15729cce1dcc1a001b1de7170c40bf3ad3c72a9b78bf"
+metafile = true
+
+[[files]]
 file = "mods/mirthdew-encore.pw.toml"
 hash = "3bb04ab87f81ee685948d9aac29a861d76231680cc0523742594b7fa2334926d"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ec90fb633414afe6d46594aa8aa91cbbcb8efcac9fdcf2a1b36427d7d04051b7"
+hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
 metafile = true
 
 [[files]]
@@ -751,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-spirits.pw.toml"
-hash = "4cd26d567c0b45931455b9ab1bc81cc34d391aeb19e1b29b4677b8b18ede4603"
+hash = "52021407285f240dfc9895099f1985e6c2186628a0b3a36694d6550fd60351f0"
 metafile = true
 
 [[files]]

@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/crystal-fortunes.pw.toml"
-hash = "1e0268fb02af61df450657c343e9ed864060e85c311e6b60be650b7b7e7eaa13"
+hash = "b829de8b3bb8d4bd9176a338013b15c0c1b5c5d4f0dbb914770887b25453ac01"
 metafile = true
 
 [[files]]
@@ -685,6 +685,11 @@ hash = "2205e3bc9e060ed011eb6252b27973d8184b7d54d8240cb92baf7196f3bf7eab"
 metafile = true
 
 [[files]]
+file = "mods/picturesign.pw.toml"
+hash = "bb0153edb8f41c61d12e21b72b6fa9d17a4fc7d08cda3e5eed8b940527448a17"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2661599c537d494d1b7bf2aaee0b64c5d80b1944dc1bf3094be1db93f860783b"
 metafile = true
@@ -812,6 +817,11 @@ metafile = true
 [[files]]
 file = "mods/vainglory.pw.toml"
 hash = "cbe00098d6f0c7c108fb67429276bfb2b4b6b94a827238a86074eddf135c8cda"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "111edcdaba4a28dae8af6134595063625214a2978717f1bc9b4ede601837fd9a"
 metafile = true
 
 [[files]]

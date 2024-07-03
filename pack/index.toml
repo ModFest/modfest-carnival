@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "f0ee3923b7b9272b0172d022d5d062d0559917b7c8be4082f090d054f53a1840"
+hash = "fa8dd3998605f2e8349993f92c7476612803468089068e17c42b1998ce291b3d"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusty.pw.toml"
-hash = "eb480964b96a9e6661f26f815703fb284a64e7262b76bf618c357d4084eea0d3"
+hash = "904b6ea3d89f93e64fe0b2f89bf691ecd2470ef8f2942774ce587650cfcc23be"
 metafile = true
 
 [[files]]
@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/honque.pw.toml"
-hash = "72c1f087af64153885c21dae3e77d1414af16f0fd97357b500162a30933bef5c"
+hash = "88e13a1f1bbad71e31b870844e9e85a5e428b5ed795207c1b048f82a66514ca1"
 metafile = true
 
 [[files]]

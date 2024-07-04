@@ -735,6 +735,11 @@ hash = "34c21b87dd575ef46c4110ee750cc9169ad6446b39113b048519f61a6cf74fa4"
 metafile = true
 
 [[files]]
+file = "mods/scattered-shards.pw.toml"
+hash = "6cc8c204eeb12712d4d343b79f4a7df221cb012c19954393bbadb0af2b2bc09c"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "555516aa5d5572cc85cd517bcb85eba16b999d21cb1e9835877adf0c96486cb9"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Scattered Shards"
+filename = "scatteredshards-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DB9GU3tx/versions/ch3vYwp3/scatteredshards-1.5.3.jar"
+hash-format = "sha1"
+hash = "652d9aaa59cd796cc2cdb92e4266cd469a604506"
+
+[update]
+[update.modrinth]
+mod-id = "DB9GU3tx"
+version = "ch3vYwp3"

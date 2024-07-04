@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/extravaganza.pw.toml"
-hash = "ac06b313e43e30d5f26e072d2ea65333cf32b542938501c747b303f4808bed44"
+hash = "a1735a7633e198acedc1a598126a498a144991488f96d985d2f93507e5f9ca00"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/mirthdew-encore.pw.toml"
-hash = "1800f7f1e129ddfe2a2083e97f4668f0fe080123b8ccb21a9f4e084e431691f8"
+hash = "99b2c4f2ed560e430c53bff676717abe28ee61c0368b41fa24d8663db4f251a2"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/sinister-circus.pw.toml"
-hash = "e3f762cd71ca5a077b68f4fb3965e77168c9fc98d1cdd2f764f722fa07470ba3"
+hash = "262d3d40d119f30aad8ac86a9e7b5d252b069701e4542ba67bf4210f200e42d9"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "72691d7bffa09209c5850b0002795d1002d675b8f0f422562e03b6aa625f95cc"
+hash = "c7cec95b29d29b5a81dabbdf0aa5c969696c563b043331d3b711bb7d6457b083"
 metafile = true
 
 [[files]]

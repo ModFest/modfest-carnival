@@ -1,13 +1,13 @@
 name = "Mirthdew Encore"
-filename = "mirthdew_encore-0.1.4.jar"
+filename = "mirthdew_encore-0.1.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LFMwgWDl/versions/2MSQgzrS/mirthdew_encore-0.1.4.jar"
+url = "https://cdn.modrinth.com/data/LFMwgWDl/versions/dGeER7Hl/mirthdew_encore-0.1.4.1.jar"
 hash-format = "sha1"
-hash = "6b23f4c499a6c5f2922cf324dd6744a18edf1ee4"
+hash = "40bca489af27b6607cfdb801822656f0257c8ea5"
 
 [update]
 [update.modrinth]
 mod-id = "LFMwgWDl"
-version = "2MSQgzrS"
+version = "dGeER7Hl"

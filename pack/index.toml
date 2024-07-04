@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/clown-raid.pw.toml"
-hash = "75a6dcb1b86b71e2672610fdb79e9fca805fa7d3833ae51f89d959186f2862c0"
+hash = "fd28df87a838f63760c43671d93b93e606a3c53327bbb4efa650604758d20908"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusty.pw.toml"
-hash = "904b6ea3d89f93e64fe0b2f89bf691ecd2470ef8f2942774ce587650cfcc23be"
+hash = "10cae0a33fe0dddabac78259d980752b56d392526d7c80306cd53f64b5ffd268"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/mirthdew-encore.pw.toml"
-hash = "3bb04ab87f81ee685948d9aac29a861d76231680cc0523742594b7fa2334926d"
+hash = "1800f7f1e129ddfe2a2083e97f4668f0fe080123b8ccb21a9f4e084e431691f8"
 metafile = true
 
 [[files]]
@@ -736,12 +736,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8f541ff641df705e688c2f1f3df042527e8c33e096ab5e62252e6b6c88daba84"
+hash = "555516aa5d5572cc85cd517bcb85eba16b999d21cb1e9835877adf0c96486cb9"
 metafile = true
 
 [[files]]
 file = "mods/sinister-circus.pw.toml"
-hash = "6d38de7cbe1c332ff5d1e1efa081b73036cd482ddfcd0ccacc6be73486a882e0"
+hash = "e3f762cd71ca5a077b68f4fb3965e77168c9fc98d1cdd2f764f722fa07470ba3"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "633b684c0d288cf9ea6199699bab09f064d179687fc185e600f2a76167410f44"
+hash = "72691d7bffa09209c5850b0002795d1002d675b8f0f422562e03b6aa625f95cc"
 metafile = true
 
 [[files]]
@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/wheel-of-wacky.pw.toml"
-hash = "88415f39609d17b9d8a8a0150480aa56b40ea713da9c29f0ec814580ac4f57be"
+hash = "100837bfe7aba4c8b4c495a3f98c7fe667347c316c3308d3ee4d9cb2a097643a"
 metafile = true
 
 [[files]]

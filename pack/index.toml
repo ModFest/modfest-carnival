@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "7319d4bf9eca376c0d607d9160d5d64e9a886b1ab8e182a8e99581d4b3b259e6"
+hash = "2d1b77c6c1adac3761eff5edc5591c4886caa682c6c408c1ebc1784abb809eda"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/clown-raid.pw.toml"
-hash = "fd28df87a838f63760c43671d93b93e606a3c53327bbb4efa650604758d20908"
+hash = "864b843174ee7f890c058d3373e1ec6cdaf91c97bd2f5fe79dcdf7180bf11929"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/mib.pw.toml"
-hash = "c99d59e1dcc6fa3079057931f79306477494cd61c22522fecfb0634b977f29ce"
+hash = "f25d70a52a4a512404b24aead89f8dec053f9e355926bd7d68d7fee1bb6642b7"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "91992090ad406a1b94898686baba7a34364460db79531f44c0139c84ce3a2e45"
+hash = "670c027d31d6c36fa48859fc353ec5d0467cdc50f69a86a8745d73a5a506b7f0"
 metafile = true
 
 [[files]]

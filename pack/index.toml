@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "2d1b77c6c1adac3761eff5edc5591c4886caa682c6c408c1ebc1784abb809eda"
+hash = "cf1748a71fe31c20a18afed31329544765928d894cf6709b07a6dfff95c1bdc9"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/bombastic.pw.toml"
-hash = "6066c05b3a0b077b526d4d2f93901b22993ea29aafeb462ccab71a31cbf7547d"
+hash = "3f5effa59a4746cb37aa2363383cc2ac14d5c48554d1d8fd04ccfc796252509f"
 metafile = true
 
 [[files]]
@@ -695,11 +695,6 @@ hash = "2205e3bc9e060ed011eb6252b27973d8184b7d54d8240cb92baf7196f3bf7eab"
 metafile = true
 
 [[files]]
-file = "mods/picturesign.pw.toml"
-hash = "bb0153edb8f41c61d12e21b72b6fa9d17a4fc7d08cda3e5eed8b940527448a17"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2661599c537d494d1b7bf2aaee0b64c5d80b1944dc1bf3094be1db93f860783b"
 metafile = true
@@ -731,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/rounded_mod.pw.toml"
-hash = "34c21b87dd575ef46c4110ee750cc9169ad6446b39113b048519f61a6cf74fa4"
+hash = "ea8e2011b99fbcafdf6646b2e4613b3c7b706ecc6dae8e8e5e78822d77b99bcd"
 metafile = true
 
 [[files]]
@@ -846,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "185ede4e46e5f80854f79bce510396d8069e30b33d436a7b859b92054055eb10"
+hash = "9e2582acfe6725f2e933eacad0cb78467ce12dd2274d86418bb0b61c5da7410c"
 metafile = true
 
 [[files]]

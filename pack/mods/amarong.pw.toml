@@ -1,13 +1,13 @@
 name = "Amarong"
-filename = "amarong-1.0.17+1.21.jar"
+filename = "amarong-1.0.19+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Pkud4ZgC/versions/OSAdPoCD/amarong-1.0.17%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/Pkud4ZgC/versions/1qejByja/amarong-1.0.19%2B1.21.jar"
 hash-format = "sha1"
-hash = "bb9b002af0fda3e4a2767a3fde2d1fa57e56b8bf"
+hash = "dcbc2ec27cbb24c3143233afb9a5c61c95df9a77"
 
 [update]
 [update.modrinth]
 mod-id = "Pkud4ZgC"
-version = "OSAdPoCD"
+version = "1qejByja"

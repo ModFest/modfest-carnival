@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
-hash = "16cf1b1e4850ba8b0c198afc413854d1fd461e4460f1f953f769a1baf7765258"
+hash = "c32200ac06626b8c2658f881f56e273f1a1276fcd7fc2ef8d5f6ba712de60458"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "9cdb05e709e849ffa5d2c708c9e109b06f333520093eff6372f03f30f89ea9c6"
+hash = "b55a34fdf539b5c2ebac7b74b35a3f7a07fbcafd6fc58c625cec4c59fc2b53de"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "111edcdaba4a28dae8af6134595063625214a2978717f1bc9b4ede601837fd9a"
+hash = "84e557ae75cc1783ef59d3671787cc5c81665f163fbb3ec3f5d28de214dc7faa"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Fabric Tailor"
 filename = "fabrictailor-2.5.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/g8w1NapE/versions/UDZdkBPN/fabrictailor-2.5.0.jar"

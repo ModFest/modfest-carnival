@@ -9,7 +9,8 @@
   {"project_id": "emi"}, // core/util
 //  {"project_id": "open-loader"}, // core/util
 //  {"project_id": "ballotbox"}, // core/util
-//  {"project_id": "glowcase"}, // core/build
+  {"project_id": "glowcase"}, // core/build
+  {"project_id": "scattered-shards"}, // core/build
 //  {"project_id": "worldedit-cui"}, // core/build
   {"project_id": "worldedit"}, // core/build
   {"project_id": "teabridge"}, // core/chat
@@ -18,10 +19,11 @@
   {"project_id": "crunchy-crunchy-advancements"}, // nice/perf
   {"project_id": "reeses-sodium-options"}, // nice/util
   {"project_id": "wthit"}, // nice/util
+  {"project_id": "surveyor"}, // nice/util
 //  {"project_id": "resetting"}, // nice/build
   {"project_id": "no-fun-allowed"}, // nice/build
   {"project_id": "armorstandeditor"}, // nice/build
-//  {"project_id": "picturesign"}, // nice/build
+  {"project_id": "picturesign"}, // nice/build
   {"project_id": "axiom"}, // nice/build
   {"project_id": "ears"},  // nice/chat
   {"project_id": "styled-chat"},  // nice/chat

@@ -393,6 +393,10 @@ file = "config/styledplayerlist/styles/default_spl.json"
 hash = "aaee1a878058037fd8770e2611f7425e8b2c38922ab2ab533c71c935796b923f"
 
 [[files]]
+file = "config/surveyor.toml"
+hash = "bcc38c298ceba5ea6ddb74a7209cfe0bb57c00b4e84769e168b01a1844a292bc"
+
+[[files]]
 file = "config/teabridge.json"
 hash = "cbbe48bc1c540422f2dde290736bca59b4497e6c63f7c33f4f86706a66a75767"
 
@@ -416,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
-hash = "5732254c42451afa123a6d9a0be40373e8cbc5e7bdc0584dd6140cee9229777c"
+hash = "834b61193f4e49e342b5ebc9d67da615313c0eaa9a221aaa7a1025ec4211d309"
 metafile = true
 
 [[files]]
@@ -456,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/bonzi-buddy.pw.toml"
-hash = "eec31fe289a55b765e426dbbbcdaaee3e358fe8ee9a278dcd4ab38b2afa38ec6"
+hash = "0bc78793708cc66d57c28d04f383a0ecc73b4dada4d31471a95641167bc54045"
 metafile = true
 
 [[files]]
@@ -466,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "1d2685e2cdf18f0a0fe57ae1c4bfc4d14ca1a1b924822f5940e1b34434e6ce0e"
+hash = "ccab33cb420e850a0a3003632a2a7bc9e00b07d167d4f8a4c84dc2575611acad"
 metafile = true
 
 [[files]]
@@ -541,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/drogstyle.pw.toml"
-hash = "97fc1444b43be54ec322842276173c3fb58707bb5e14e9699f7241301f730ff9"
+hash = "69902339e256f70905e8942ec34f10ec260020c830411ca3b5417c9745b6b740"
 metafile = true
 
 [[files]]
@@ -551,12 +555,17 @@ metafile = true
 
 [[files]]
 file = "mods/dusty.pw.toml"
-hash = "10cae0a33fe0dddabac78259d980752b56d392526d7c80306cd53f64b5ffd268"
+hash = "89d80157d73fca87a594f890e0edb52089262de405919f3f17466e1686e3e1f6"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "5cfdebf79480f71e84191358887f49eb8cc59b7d937f2e5be73fb8267606da2b"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f0ab69070fefbc85039133adf4015dc0a403a45d5c00713d6200b0943a310398"
 metafile = true
 
 [[files]]
@@ -576,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "8f796f3d24fcf3c041e7fd4631e2c536018e027778bbf2fe36ddacdca5220cf4"
+hash = "150ab30d44b948aa3db99063f2169c08d785f604b062bd34b0d594136962b916"
 metafile = true
 
 [[files]]
@@ -597,6 +606,11 @@ metafile = true
 [[files]]
 file = "mods/honque.pw.toml"
 hash = "7d3c9440bba46dedfc6c881e8f49929399e52e933f4ba7e77a5926bf1bec8d15"
+metafile = true
+
+[[files]]
+file = "mods/hoofprint.pw.toml"
+hash = "16cf1b1e4850ba8b0c198afc413854d1fd461e4460f1f953f769a1baf7765258"
 metafile = true
 
 [[files]]
@@ -686,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/ouch.pw.toml"
-hash = "504bcc6720a8a1ce47f5e0622a5692a4f97ea8d0484df3519169accf2319880f"
+hash = "c1aad936565211a5032dc790d0ca89022526eece55d3c056eec6960621615483"
 metafile = true
 
 [[files]]
@@ -706,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-roles.pw.toml"
-hash = "c9e1101c6562ace7c256616e99f8ae17ef3f592a718e9f130e62c39bc3248178"
+hash = "d809bef412a365d2ac0c8fc404235b88eec6b4e58a2a154a34d41c05c17dea72"
 metafile = true
 
 [[files]]
@@ -781,22 +795,27 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "64b58a742f766fba51fdf1db8942d7810c71a2ea57e73b5919ae24f531e779a8"
+hash = "7d87d7de16a25973902fa27e494bf6d9dd5dadb22f7d35021f8d80a1e0621dfb"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "7a6a28c769f83459b44ec908f01a479c4c22d932b06c9e7cf38aa664270ac861"
+hash = "da4d9d0e5257127a4b12ac746a1762db374ba19712abf891da0d76fa06288eff"
 metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-hash = "a4fc712afb566a3964468c0df86eabce031ec9b844d7f42abf79e05de73b4591"
+hash = "615cc195f32f56bf0b038a782bcd157fa01be5dd11b16627de11c3c7932577d7"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "9cdb05e709e849ffa5d2c708c9e109b06f333520093eff6372f03f30f89ea9c6"
 metafile = true
 
 [[files]]
 file = "mods/teabridge.pw.toml"
-hash = "bec62b64e255b592feb9b7d1e88e4eb535836a37f22a6ae97fe40842275a3814"
+hash = "61a49e52c546cc840a9c601f6d6f47f112e9e0d059c6b0e75bbb5f9988c750eb"
 metafile = true
 
 [[files]]
@@ -846,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "9e2582acfe6725f2e933eacad0cb78467ce12dd2274d86418bb0b61c5da7410c"
+hash = "34fe1ed3169ec00dbb9d6b8c9e4c1cc504888d195c3a2dd43975b2d10c69c370"
 metafile = true
 
 [[files]]

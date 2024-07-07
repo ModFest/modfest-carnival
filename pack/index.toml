@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/powerchord.pw.toml"
-hash = "b9b964ba480ba0947d8be9ac4a6c1d871d1db0d642e135e603f6d67010e8b1be"
+hash = "ec36278e526c82d804c42ff3c96ef93e45da4dc9b08fe4cc2fb69ed3752e1ed3"
 metafile = true
 
 [[files]]

@@ -780,12 +780,12 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-spirits.pw.toml"
-hash = "52021407285f240dfc9895099f1985e6c2186628a0b3a36694d6550fd60351f0"
+hash = "0ca9287b18da4541f012e84ae1000a5e3e85df1fb52c613d985f61b5608b16f3"
 metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "670c027d31d6c36fa48859fc353ec5d0467cdc50f69a86a8745d73a5a506b7f0"
+hash = "7bb5a17579332c364cb988736da9d3d358e3f03381c4f55681bff8682c9da3c1"
 metafile = true
 
 [[files]]
@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/wheel-of-wacky.pw.toml"
-hash = "100837bfe7aba4c8b4c495a3f98c7fe667347c316c3308d3ee4d9cb2a097643a"
+hash = "6550415da834c485d59d37cbf3741c4d2865e435a41e8270d0aedc1cf1ec5500"
 metafile = true
 
 [[files]]

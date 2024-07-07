@@ -1,13 +1,13 @@
 name = "PowerChord"
-filename = "powerchord-0.3.1+1.21.jar"
+filename = "powerchord-0.3.2+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rKGdYyZQ/versions/hy0JNbay/powerchord-0.3.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/rKGdYyZQ/versions/NyULBRr0/powerchord-0.3.2%2B1.21.jar"
 hash-format = "sha1"
-hash = "d62407131e4ccf04c580db0f030423dbff535e3c"
+hash = "321eafb794b8098f3485f24dcbbadd02656bf83b"
 
 [update]
 [update.modrinth]
 mod-id = "rKGdYyZQ"
-version = "hy0JNbay"
+version = "NyULBRr0"

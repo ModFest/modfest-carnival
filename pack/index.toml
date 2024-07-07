@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/confetti-lib.pw.toml"
-hash = "452dc4b4eecc86de8d7d3c60f0a1b15644d20a20c355beaaaea9bdb2b9da5933"
+hash = "60a298bfbdb1e6a159ac395c631626c193baa15e8f277e55e81ae696e4ee25b6"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
+hash = "e638ef1b06cafcd208d18118d8cc9af49750c26d686fcc97fecce163c5aff56a"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/powerchord.pw.toml"
-hash = "28fb5c7515668da0fa1b37081ca035b86acf330341d0f960550ca677604ef235"
+hash = "b9b964ba480ba0947d8be9ac4a6c1d871d1db0d642e135e603f6d67010e8b1be"
 metafile = true
 
 [[files]]

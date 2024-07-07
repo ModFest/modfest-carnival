@@ -1,13 +1,13 @@
 name = "Confetti Lib"
-filename = "Confetti-1.2.0+1.21.jar"
+filename = "Confetti-1.2.1+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5s9W6kVl/versions/fnIJHLcZ/Confetti-1.2.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/5s9W6kVl/versions/ujpBqvnE/Confetti-1.2.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "7e6daf1cb22b8385afdd2cfbbe7ea7a42509d749"
+hash = "eec986690ec772f53d5daa76860ebb5513a08a5a"
 
 [update]
 [update.modrinth]
 mod-id = "5s9W6kVl"
-version = "fnIJHLcZ"
+version = "ujpBqvnE"

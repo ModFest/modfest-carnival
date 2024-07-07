@@ -33,6 +33,18 @@ file = "config/openloader/resources/custom_carts_resources/pack.mcmeta"
 hash = "07dc2b86b17788f0de6c479f21ed027745a74eb310fbad35bf773e63cf5e25db"
 
 [[files]]
+file = "config/openloader/resources/mip-fix/assets/vainglory/textures/item/lance.png"
+hash = "0057b261b5a45fecb48b557b253088acaa42af94cf67e227f97d54ec876fcb90"
+
+[[files]]
+file = "config/openloader/resources/mip-fix/assets/vainglory/textures/item/lance_hand.png"
+hash = "7b21fd4f42fd59005da4d3bed51cacb8540de806e2ba381097a26ea958cc1e0b"
+
+[[files]]
+file = "config/openloader/resources/mip-fix/pack.mcmeta"
+hash = "33726b2ca17c4d1d1dc5cecd572e094060446bc35fb275e4bead0dd62db47ff9"
+
+[[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"
 hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
 

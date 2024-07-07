@@ -1,13 +1,13 @@
 name = "Hook a Duck"
-filename = "duck-1.0.2.jar"
+filename = "duck-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iqFGVcca/versions/epleqGpf/duck-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/iqFGVcca/versions/dH6mGxDU/duck-1.0.3.jar"
 hash-format = "sha1"
-hash = "b590b9c7f786a6bb9c0309c0ed55ba120965215d"
+hash = "8185f9aca4294a9b4bed607f10ac29a92a0f375b"
 
 [update]
 [update.modrinth]
 mod-id = "iqFGVcca"
-version = "epleqGpf"
+version = "dH6mGxDU"

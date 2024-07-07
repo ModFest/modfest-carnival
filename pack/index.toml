@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/dancerizer.pw.toml"
-hash = "58415fb7373816e9e0d0f1667f0c6025183e520453430547c593a1da002633d5"
+hash = "174d87d92001e4596fce6cf1e409107ecc006b82341d32581f74e3aca1e67378"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusty.pw.toml"
-hash = "89d80157d73fca87a594f890e0edb52089262de405919f3f17466e1686e3e1f6"
+hash = "e951d0d30feb4893bcc2dc3f1d697762e5101366578131aa30054c400ef37823"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/hookaduck.pw.toml"
-hash = "785eae3708346c03d556d13e90a129da25c83b993cfe896398c93c25773297c5"
+hash = "f528ecf87667682e0936c9e1cafe65cb96a138a21f3ea4df4c80b31a69e3233c"
 metafile = true
 
 [[files]]

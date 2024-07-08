@@ -373,6 +373,10 @@ file = "config/openloader/resources/twemojis.zip"
 hash = "c95b7d6a2b427e21f8bac87810b52206b1d16c3f5f15aa768001558b8e0a57b2"
 
 [[files]]
+file = "config/ouch.json"
+hash = "f8375de277c58b4196c2904e613d53dcbb2d6d62d675c8051bbe428849d5f941"
+
+[[files]]
 file = "config/roles.json"
 hash = "16dd1fa442a32b0e6dafe6e228540b7f93f33e949460939102b1f57b25dc4c42"
 
@@ -390,19 +394,11 @@ hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
-hash = "47d8c0836fae7e3affdb0e681481dd995295c2de5b22d15e50ad8568979258b1"
-
-[[files]]
-file = "config/styledplayerlist/styles/animated.json"
-hash = "807b325d82e3cbff63f351283912a53860f87c666427e73ffb2649b42f247a86"
+hash = "f792470feb7046b46f06389d0ca5193e7bd3cb43d93f466998206a03f4c5b7e1"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "f35b59e73c2d8940976818ff69aadb8a6d0f4748ab95084946e47bdd02be6222"
-
-[[files]]
-file = "config/styledplayerlist/styles/default_spl.json"
-hash = "aaee1a878058037fd8770e2611f7425e8b2c38922ab2ab533c71c935796b923f"
+hash = "0547ca4dbeb0ce5da6ed5dc048f5580dacc8482cf6ce9e40c9f8f19631d874f7"
 
 [[files]]
 file = "config/surveyor.toml"
@@ -728,6 +724,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2661599c537d494d1b7bf2aaee0b64c5d80b1944dc1bf3094be1db93f860783b"
+metafile = true
+
+[[files]]
+file = "mods/player-pronouns.pw.toml"
+hash = "419d8d3c7c4bb9485d69b107ec3e0858bb4d2137c7268ae4edd6490deacca5f4"
 metafile = true
 
 [[files]]

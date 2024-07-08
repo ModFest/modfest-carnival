@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/carnival-cuisine.pw.toml"
-hash = "354ccaef725e0666b19a6240b8ffa922be8e9e8611ac26aec26d07679dc27063"
+hash = "40665d06ef2fac74fa1cbf233aac1517296a685d38426847dea494ad5843fb44"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/pulchra-occultorum.pw.toml"
-hash = "0f378f64ec7dd7bf9c5bcf4138c1a25347e2850ef8c36367c69139fc83416185"
+hash = "f0a29dd31351eba3a635de13a039145ab8f71b756b29f64b0998b765e01e0301"
 metafile = true
 
 [[files]]

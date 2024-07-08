@@ -1,13 +1,13 @@
 name = "Carnival Cuisine"
-filename = "carnival-additions-0.0.2.jar"
+filename = "carnival-cuisine-0.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/q0W2RUFs/versions/odY7O5aT/carnival-additions-0.0.2.jar"
+url = "https://cdn.modrinth.com/data/q0W2RUFs/versions/cX34i51S/carnival-cuisine-0.0.3.jar"
 hash-format = "sha1"
-hash = "abb9d51a42899bcc88006cf57700a8c0c6484e88"
+hash = "e95f0ca8bb50b1dddfe756a12967aa8b4b037101"
 
 [update]
 [update.modrinth]
 mod-id = "q0W2RUFs"
-version = "odY7O5aT"
+version = "cX34i51S"

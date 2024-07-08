@@ -6,14 +6,14 @@
     "",
     "<font:'modfest:icons'>-0</> <font:'unsanded:default'>ModFest",
     "",
-    "<#253a73><strikethrough>        </>[ </><#c5d5ff>%server:online%/%server:max_players%</><#253a73> ]<strikethrough>        </>",
+    "<gr #3a4320 #1b402f><strikethrough>        </>[ </><#05e5c0>%server:online%<#284324>/</>%server:max_players%</><gr #1b402f #3a4320> ]<strikethrough>        </>",
     ""
   ],
   "list_footer": [
     "",
-    "<color:#253a73><strikethrough>                          </strikethrough></color>",
+    "<gr #3a4320 #1b402f #3a4320><strikethrough>                          </strikethrough></>",
     "",
-    "<#c5d5ff>TPS: %server:tps_colored% <#253a73>|</> <#c5d5ff>Ping: <#ffba26>%player:ping%</>",
+    "<#cdff61>TPS: %server:tps_colored% <#1b402f>|</> <#cdff61>Ping: <#05e5c0>%player:ping%</>",
     ""
   ],
   "hidden_in_commands": false

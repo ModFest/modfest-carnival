@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/clown-raid.pw.toml"
-hash = "864b843174ee7f890c058d3373e1ec6cdaf91c97bd2f5fe79dcdf7180bf11929"
+hash = "d86ba69ff9be54adad6f8f2f8e5b647e9c358a721a0d950b5bb5beee8778b825"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "3bb5bc1e79455c2d4cb4c400f2cb7fbb331820ca2a7ad31a7b29a7171bb9d186"
+hash = "255a7ca4d75458784c135773ff220fd61cede0bd90e7e9dcb90d1acd60f98493"
 metafile = true
 
 [[files]]

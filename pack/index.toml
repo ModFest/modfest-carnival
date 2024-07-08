@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "d3124e3c819fa9a4ec017ad1b586847c2c9f3a5067ef61a3874d506cadb708fb"
+hash = "53288122b2e4125cbe80a7673160a3d3276007d2c1ec103524b39a26085622b9"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusty.pw.toml"
-hash = "e951d0d30feb4893bcc2dc3f1d697762e5101366578131aa30054c400ef37823"
+hash = "847bce0a7520816ab7c593491400c2452c227eda333861f60dbf3ef6db60967f"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/pulchra-occultorum.pw.toml"
-hash = "05abda0e751aa52cb989453319a5b0623a74b809471855645847c7ef4ec9f06e"
+hash = "0f378f64ec7dd7bf9c5bcf4138c1a25347e2850ef8c36367c69139fc83416185"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "255a7ca4d75458784c135773ff220fd61cede0bd90e7e9dcb90d1acd60f98493"
+hash = "5152d59c8f94245ede2c30ff244174b8968dc932c1df7fef84812980ab9e038d"
 metafile = true
 
 [[files]]

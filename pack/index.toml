@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/bombastic.pw.toml"
-hash = "3f5effa59a4746cb37aa2363383cc2ac14d5c48554d1d8fd04ccfc796252509f"
+hash = "2ff093975a43d6b5afcc83040dda0d481b241990739832f16d4e8152e1190658"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnificent-maw.pw.toml"
-hash = "c75f233b2b44c8addfbafe44c71ea13791c35105ceba4db02484b2ae6df58bd7"
+hash = "c5ab1af63531a3a190ed9469fb915b45ad305646dab3395292f1bcf6c26d3766"
 metafile = true
 
 [[files]]

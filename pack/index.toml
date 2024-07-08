@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e638ef1b06cafcd208d18118d8cc9af49750c26d686fcc97fecce163c5aff56a"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
+hash = "5fbbac1c793dc2c4d1068111f6677125c1c8429657d65427da75720ec22942b5"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/picturesign.pw.toml"
-hash = "bb0153edb8f41c61d12e21b72b6fa9d17a4fc7d08cda3e5eed8b940527448a17"
+hash = "df28570d634aaf34fee0add2f05290ce975a4f664a82d49e9b30bce810d24580"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "b55a34fdf539b5c2ebac7b74b35a3f7a07fbcafd6fc58c625cec4c59fc2b53de"
+hash = "3bb5bc1e79455c2d4cb4c400f2cb7fbb331820ca2a7ad31a7b29a7171bb9d186"
 metafile = true
 
 [[files]]

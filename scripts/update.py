@@ -1,9 +1,22 @@
-import json5
 import os
 import shutil
-import requests
-import time
 import subprocess
+import time
+import re
+from pathlib import Path
+
+import json5
+import requests
+
+
+def find_replace(directory, find, replace, file_pattern):
+    for file in [f for f in directory.glob(file_pattern)]:
+        try:
+            file_contents = file.read_text()
+            new_file_contents = re.sub(f"{find}", f"{replace}", file_contents)
+            file.write_text(new_file_contents, newline='\n')
+        except UnicodeDecodeError:
+            pass
 
 
 def packwiz_pretty_print(command, ignore_errors=False):
@@ -86,6 +99,9 @@ def main():
 
     for mod in overrides_remove:
         packwiz_pretty_print('packwiz remove ' + mod['project_id'], ignore_errors=True)
+
+    # Swap server-side mods to both-sides for singleplayer use
+    find_replace(Path(mods_path), "side = \"server\"", "side = \"both\"", "*.pw.toml")
 
     # Copy in overriding jar files, you heretic
     shutil.copytree(overrides_path, './mods', dirs_exist_ok=True)  # Python 3.8 :pineapple:

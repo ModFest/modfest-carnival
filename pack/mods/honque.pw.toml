@@ -1,13 +1,13 @@
 name = "Honque"
-filename = "honque-3.3.jar"
+filename = "honque-3.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xqSLPzRa/versions/r4f449IT/honque-3.3.jar"
+url = "https://cdn.modrinth.com/data/xqSLPzRa/versions/856EM88M/honque-3.4.jar"
 hash-format = "sha1"
-hash = "1b1999748976810e5d1047545f52c1d06a9721e7"
+hash = "a86d9c3dcb5d92e6552c802b22efd10b5906387e"
 
 [update]
 [update.modrinth]
 mod-id = "xqSLPzRa"
-version = "r4f449IT"
+version = "856EM88M"

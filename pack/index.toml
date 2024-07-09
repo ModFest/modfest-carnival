@@ -613,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/honque.pw.toml"
-hash = "7d3c9440bba46dedfc6c881e8f49929399e52e933f4ba7e77a5926bf1bec8d15"
+hash = "b45db405f376dc78537cd3a7f430c2cecaba52b779b3e432d6a47b1c93b7db06"
 metafile = true
 
 [[files]]
@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5fbbac1c793dc2c4d1068111f6677125c1c8429657d65427da75720ec22942b5"
+hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
 metafile = true
 
 [[files]]
@@ -803,7 +803,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "7bb5a17579332c364cb988736da9d3d358e3f03381c4f55681bff8682c9da3c1"
+hash = "e3f2a0208c0889e8364af57aff4a27dc04fba2ec30e6ea4cb4701286e96353be"
 metafile = true
 
 [[files]]
@@ -863,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/up-and-away.pw.toml"
-hash = "594cd5c221f40539fe21d6ffc5194cc3f7b045433879366a51a82e44b4e734f1"
+hash = "66362518dd4b7112036479c5becf4e9c84260d07e32247eeef6cc76b2c317015"
 metafile = true
 
 [[files]]

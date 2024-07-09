@@ -8,4 +8,4 @@ url = "https://github.com/devOS-Sanity-Edition/up-and-away/releases/download/1.0
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "d33ac88cdc46d7cf89b622632225627f6f0ec3850670e2b82c153e643bfb93a0"
+hash = "D33AC88CDC46D7CF89B622632225627F6F0EC3850670E2B82C153E643BFB93A0"

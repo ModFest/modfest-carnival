@@ -667,11 +667,6 @@ hash = "c5ab1af63531a3a190ed9469fb915b45ad305646dab3395292f1bcf6c26d3766"
 metafile = true
 
 [[files]]
-file = "mods/map-utils.pw.toml"
-hash = "fa80f6c55637ae3a15ee6798bd72e72a3d5ba2b0fc808f6504054022c9415fe1"
-metafile = true
-
-[[files]]
 file = "mods/mib.pw.toml"
 hash = "f25d70a52a4a512404b24aead89f8dec053f9e355926bd7d68d7fee1bb6642b7"
 metafile = true

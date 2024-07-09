@@ -5,11 +5,11 @@ file = "config/emi.css"
 hash = "206ec811351dc351a4a795f5adeb041e0901c171c2909d5d8504bd01ffacc398"
 
 [[files]]
-file = "config/openloader/data/custom_carts_data/data/tinypotatocart/customizablecarts/cart_body/tiny_potato_cart.json"
+file = "config/openloader/data/custom-carts/data/customizablecarts/cart_body/tiny_potato_cart.json"
 hash = "2223c8eb82dded6855a486be7614ad0edc812e2bf565c8184c69517fa5f87168"
 
 [[files]]
-file = "config/openloader/data/custom_carts_data/pack.mcmeta"
+file = "config/openloader/data/custom-carts/pack.mcmeta"
 hash = "9350957a24412fff7aed6d48983e81d5d8b21256cf660ca00152d0e363701fb2"
 
 [[files]]
@@ -25,11 +25,11 @@ file = "config/openloader/resources/Unsanded-1.1.1-custom.zip"
 hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
 
 [[files]]
-file = "config/openloader/resources/custom_carts_resources/assets/tinypotatocart/textures/entity/minecart/tiny_potato_cart.png"
+file = "config/openloader/resources/custom-carts/assets/textures/entity/minecart/tiny_potato_cart.png"
 hash = "74db427df505f2d9cd5f97fce9b28b31c7abd8d9179c0fd1629c1760692b75f4"
 
 [[files]]
-file = "config/openloader/resources/custom_carts_resources/pack.mcmeta"
+file = "config/openloader/resources/custom-carts/pack.mcmeta"
 hash = "07dc2b86b17788f0de6c479f21ed027745a74eb310fbad35bf773e63cf5e25db"
 
 [[files]]
@@ -664,6 +664,11 @@ metafile = true
 [[files]]
 file = "mods/magnificent-maw.pw.toml"
 hash = "c5ab1af63531a3a190ed9469fb915b45ad305646dab3395292f1bcf6c26d3766"
+metafile = true
+
+[[files]]
+file = "mods/map-utils.pw.toml"
+hash = "fa80f6c55637ae3a15ee6798bd72e72a3d5ba2b0fc808f6504054022c9415fe1"
 metafile = true
 
 [[files]]

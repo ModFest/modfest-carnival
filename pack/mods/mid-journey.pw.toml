@@ -1,13 +1,13 @@
 name = "Mid Journey"
-filename = "mid-journey-1.0.1.jar"
+filename = "mid-journey-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GqFnaUlv/versions/UdDEAJoj/mid-journey-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/GqFnaUlv/versions/bEYkdPcn/mid-journey-1.0.2.jar"
 hash-format = "sha1"
-hash = "bf82de669319a9ede01b305079d4e670885068f3"
+hash = "610fcfd1e69b511b8a406f799d06cc63529a22db"
 
 [update]
 [update.modrinth]
 mod-id = "GqFnaUlv"
-version = "UdDEAJoj"
+version = "bEYkdPcn"

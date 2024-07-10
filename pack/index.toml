@@ -878,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/mid-journey.pw.toml"
-hash = "57abfdb594a7bc5f22fd15729cce1dcc1a001b1de7170c40bf3ad3c72a9b78bf"
+hash = "bc10d7877f6b016638c3aa39653ebad6ee320c8c65572d2996e9fdf0b1c31687"
 metafile = true
 
 [[files]]

@@ -565,6 +565,10 @@ file = "config/ouch.json"
 hash = "f8375de277c58b4196c2904e613d53dcbb2d6d62d675c8051bbe428849d5f941"
 
 [[files]]
+file = "config/picturesign.json"
+hash = "c872315ea2818b3fb4d186e86baffb956a277dd0dba8dadcf593e1e0ab82ba24"
+
+[[files]]
 file = "config/roles.json"
 hash = "16dd1fa442a32b0e6dafe6e228540b7f93f33e949460939102b1f57b25dc4c42"
 

@@ -129,6 +129,10 @@ file = "config/openloader/data/fest-packs/pack.mcmeta"
 hash = "45cf92c130dccaf305fd16a6b8076309391d89eda57ad1214ebc3f9127b2bca1"
 
 [[files]]
+file = "config/openloader/data/hookaduck_datapack.zip"
+hash = "92383d4012a7d81a06a4c76701fd37d1931d6dbe821cf434689e6fbb679ed5ae"
+
+[[files]]
 file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/apply_dreamy_diet.json"
 hash = "0a5e9f5649b18e41b30e1f376e456771fda6bc65274ca5365027062fc5d22217"
 
@@ -219,6 +223,10 @@ hash = "07dc2b86b17788f0de6c479f21ed027745a74eb310fbad35bf773e63cf5e25db"
 [[files]]
 file = "config/openloader/resources/dancerizer_resourcepack.zip"
 hash = "f18b1c93b927abd3a798580ff3ba25b1fa388c6bb82e4f7adfd84820e222a8e2"
+
+[[files]]
+file = "config/openloader/resources/hookaduck_resourcepack.zip"
+hash = "eeb7dc1a9b376cf48d24c2ff45d0eb3fc12e2c85b4462e5b4becc1fa06db1f68"
 
 [[files]]
 file = "config/openloader/resources/mip-fix/assets/vainglory/textures/item/lance.png"

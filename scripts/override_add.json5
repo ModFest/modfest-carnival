@@ -25,6 +25,7 @@
   {"project_id": "no-fun-allowed"}, // nice/build
   {"project_id": "armorstandeditor"}, // nice/build
   {"project_id": "picturesign"}, // nice/build
+  {"project_id": "map-utils"}, // nice/build
   {"project_id": "axiom"}, // nice/build
   {"project_id": "ears"},  // nice/chat
   {"project_id": "styled-chat"},  // nice/chat

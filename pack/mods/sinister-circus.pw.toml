@@ -1,13 +1,13 @@
 name = "Sinister Circus"
-filename = "sinister-circus-0.2a.jar"
+filename = "sinister-circus-0.2b.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GpqhNGdk/versions/rgHIcC4l/sinister-circus-0.2a.jar"
+url = "https://cdn.modrinth.com/data/GpqhNGdk/versions/riGghhsj/sinister-circus-0.2b.jar"
 hash-format = "sha1"
-hash = "848f3e25d885209fdb48e2e7d0f6511e70aa723f"
+hash = "6e6ffa474e207ccd9c24c16d3e7df1c8f824125e"
 
 [update]
 [update.modrinth]
 mod-id = "GpqhNGdk"
-version = "rgHIcC4l"
+version = "riGghhsj"

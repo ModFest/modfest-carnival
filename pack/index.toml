@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
-hash = "baedcbb8c83173a70e1ec0500b93ddafd0d2a5317248693fb66d5d445a384216"
+hash = "eea8ebaad3a39d28526acb6bcdc8f0fcdad32a0b45657055d5228d4dc75216ce"
 metafile = true
 
 [[files]]
@@ -882,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/sinister-circus.pw.toml"
-hash = "262d3d40d119f30aad8ac86a9e7b5d252b069701e4542ba67bf4210f200e42d9"
+hash = "4ae08e66d046ec390868c593701547e5ba7b3c96786feecfb07b817ac1fb814b"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/up-and-away.pw.toml"
-hash = "edebfc7a60ee144592e40d331d395304321fcdabbdbf27a953955f96ff5c2f2f"
+hash = "7221e523c795a28bd91fa319c6682e65fae1e4fed675ec208fe501dd5081626f"
 metafile = true
 
 [[files]]

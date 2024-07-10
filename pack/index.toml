@@ -21,6 +21,10 @@ file = "config/openloader/data/custom-carts/pack.mcmeta"
 hash = "9350957a24412fff7aed6d48983e81d5d8b21256cf660ca00152d0e363701fb2"
 
 [[files]]
+file = "config/openloader/data/dancerizer_datapack.zip"
+hash = "313c2fd43f96f2231e0d57b77aa7c35b80675852b9c0c1dc2e4c5ee843880769"
+
+[[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/function/banana.mcfunction"
 hash = "5cd478ff8d512bbcf4090f5f3628e5eea55ff13453a992998a663bb4584a3571"
 
@@ -143,6 +147,10 @@ hash = "74db427df505f2d9cd5f97fce9b28b31c7abd8d9179c0fd1629c1760692b75f4"
 [[files]]
 file = "config/openloader/resources/custom-carts/pack.mcmeta"
 hash = "07dc2b86b17788f0de6c479f21ed027745a74eb310fbad35bf773e63cf5e25db"
+
+[[files]]
+file = "config/openloader/resources/dancerizer_resourcepack.zip"
+hash = "f18b1c93b927abd3a798580ff3ba25b1fa388c6bb82e4f7adfd84820e222a8e2"
 
 [[files]]
 file = "config/openloader/resources/mip-fix/assets/vainglory/textures/item/lance.png"

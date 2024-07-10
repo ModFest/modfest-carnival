@@ -1,0 +1,30 @@
+[
+  {
+    "id": "best_carnival_themed",
+    "name": "Best Carnival-Themed",
+    "description": "The best of the best!",
+    "type": "theme",
+    "limit": 5
+  },
+  {
+    "id": "funniest",
+    "name": "Funniest",
+    "description": "Mods with a great sense of humour.",
+    "type": "community",
+    "limit": 3
+  },
+  {
+    "id": "most_likely_to_use",
+    "name": "Most Likely to Use",
+    "description": "Essential, approachable mods for future packs.",
+    "type": "community",
+    "limit": 3
+  },
+  {
+    "id": "most_innovative",
+    "name": "Most Innovative",
+    "description": "Mods pushing the medium with fresh, surprising ideas.",
+    "type": "community",
+    "limit": 3
+  }
+]

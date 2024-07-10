@@ -1,7 +1,7 @@
 name = "ballotbox"
-filename = "ballotbox-0.1.2+1.21.jar"
+filename = "ballotbox-0.2.0+1.21.jar"
 
 [download]
-url = "https://github.com/ModFest/ballotbox/releases/download/v0.1.2/ballotbox-0.1.2+1.21.jar"
+url = "https://github.com/ModFest/ballotbox/releases/download/v0.2.0/ballotbox-0.2.0+1.21.jar"
 hash-format = "sha256"
-hash = "63dfff048666267a05ada789900703816d09d964c8fa373c8561a2a09e55187f"
+hash = "c5ce09d9c2029907f3e1d213e3b8f37724d39707261b171650b567e95426dc81"

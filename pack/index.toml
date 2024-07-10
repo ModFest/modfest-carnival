@@ -5,6 +5,14 @@ file = "config/emi.css"
 hash = "206ec811351dc351a4a795f5adeb041e0901c171c2909d5d8504bd01ffacc398"
 
 [[files]]
+file = "config/openloader/data/ballotbox/data/ballotbox/ballot/categories.json"
+hash = "a3b4f5da6d5eff8bb7b71e1e17734f6f629a1b7fb79aa68cee4e13dfe79c4f52"
+
+[[files]]
+file = "config/openloader/data/ballotbox/pack.mcmeta"
+hash = "58f2e0a26c47a87382aeb42d919d4ccff306f36200d31ff66fdd4d7156c8352c"
+
+[[files]]
 file = "config/openloader/data/custom-carts/data/customizablecarts/cart_body/tiny_potato_cart.json"
 hash = "2223c8eb82dded6855a486be7614ad0edc812e2bf565c8184c69517fa5f87168"
 
@@ -557,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballotbox.pw.toml"
-hash = "0eb6055c63333e9a88bead95c36b3a57b35a7e452f8d37f3cb20458b71e22f8d"
+hash = "ac3e800e2ed6b4a1d6bbdd60ccf951343dbb6bc1aaedbccedd0839aa96474941"
 metafile = true
 
 [[files]]
@@ -877,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "555516aa5d5572cc85cd517bcb85eba16b999d21cb1e9835877adf0c96486cb9"
+hash = "79ec58c99084d5b02044e04b6860bc6339868e95e1a8c7a982f5400ee777b178"
 metafile = true
 
 [[files]]

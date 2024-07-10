@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/hookaduck.pw.toml"
-hash = "2d18a86cd3192b325589cf12fa8defd50b123e9a2b3befb3864cb30c2e49722d"
+hash = "77a8c9842f8c99c3a0e9e2f9872e518195283213df022537d266dedd0ebc226e"
 metafile = true
 
 [[files]]
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-utils.pw.toml"
-hash = "bc9e6457a5e40cb51d330239bb2c5e059cdf35f145d4199cf1c02fe0f14e97a2"
+hash = "6d78a24208d41230b421a4108d675410fd68f0caf863d1df4e199c88a28c2a70"
 metafile = true
 
 [[files]]

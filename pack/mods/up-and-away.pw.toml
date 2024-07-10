@@ -1,11 +1,13 @@
-name = "Up and Away server test version"
-filename = "up-and-away.jar"
+name = "Up and Away"
+filename = "up_and_away-1.0.0-beta.6+build.113.jar"
 side = "both"
 
 [download]
-url = "https://github.com/devOS-Sanity-Edition/up-and-away/releases/download/1.0.0-beta.5%2Bbuild.110/up_and_away-1.0.0-beta.5+build.110.jar"
+url = "https://cdn.modrinth.com/data/5MkSo9Hb/versions/YkkpCQEL/up_and_away-1.0.0-beta.6%2Bbuild.113.jar"
+hash-format = "sha1"
+hash = "9d71b9899ebad645fe9f5e871dd57d98ae7ab274"
 
-# A number of tools can generate the hash for you, including 7-zip and sha256sum
-# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
-hash-format = "sha256"
-hash = "d33ac88cdc46d7cf89b622632225627f6f0ec3850670e2b82c153e643bfb93a0"
+[update]
+[update.modrinth]
+mod-id = "5MkSo9Hb"
+version = "YkkpCQEL"

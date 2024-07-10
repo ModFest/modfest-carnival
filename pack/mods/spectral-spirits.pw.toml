@@ -1,13 +1,13 @@
 name = "Spectral Spirits"
-filename = "spectral-spirits-0.0.4+1.21.jar"
+filename = "spectral-spirits-0.0.5+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6cZO3xrm/versions/ioFXbyGr/spectral-spirits-0.0.4%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/6cZO3xrm/versions/lNMMMmYm/spectral-spirits-0.0.5%2B1.21.jar"
 hash-format = "sha1"
-hash = "369a644c5887d7db27c15ec405b637ff2fd92ffc"
+hash = "b30f0ef0d6496de4f9aef63919d55e080831d058"
 
 [update]
 [update.modrinth]
 mod-id = "6cZO3xrm"
-version = "ioFXbyGr"
+version = "lNMMMmYm"

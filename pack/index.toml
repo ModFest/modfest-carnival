@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "cf1748a71fe31c20a18afed31329544765928d894cf6709b07a6dfff95c1bdc9"
+hash = "63088674cdece49324c3a3654e3b6e0b6e46d8dbff361680bb08616dedf2d108"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/carnival-cuisine.pw.toml"
-hash = "40665d06ef2fac74fa1cbf233aac1517296a685d38426847dea494ad5843fb44"
+hash = "7e8333ca07a455967b32d6e686b1f425c0611a2902e7208412bdd2ce4e836ce3"
 metafile = true
 
 [[files]]
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusty.pw.toml"
-hash = "847bce0a7520816ab7c593491400c2452c227eda333861f60dbf3ef6db60967f"
+hash = "102d91c067ec3ccc456bd3d7f92c2c40542a2f339027e1abff8c8f52baa2a8e7"
 metafile = true
 
 [[files]]
@@ -618,12 +618,12 @@ metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
-hash = "c32200ac06626b8c2658f881f56e273f1a1276fcd7fc2ef8d5f6ba712de60458"
+hash = "baedcbb8c83173a70e1ec0500b93ddafd0d2a5317248693fb66d5d445a384216"
 metafile = true
 
 [[files]]
 file = "mods/hookaduck.pw.toml"
-hash = "f528ecf87667682e0936c9e1cafe65cb96a138a21f3ea4df4c80b31a69e3233c"
+hash = "2d18a86cd3192b325589cf12fa8defd50b123e9a2b3befb3864cb30c2e49722d"
 metafile = true
 
 [[files]]
@@ -793,12 +793,12 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-spirits.pw.toml"
-hash = "0ca9287b18da4541f012e84ae1000a5e3e85df1fb52c613d985f61b5608b16f3"
+hash = "f3e9522af85f24f241b2161f6f38a9f0d267fdc4d5aac5857ad43d9b0ee1b626"
 metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "e3f2a0208c0889e8364af57aff4a27dc04fba2ec30e6ea4cb4701286e96353be"
+hash = "4c3d12628537d8a9a5e4747e88220a0a1a0f1af035e89adc3428577be3820a1f"
 metafile = true
 
 [[files]]
@@ -823,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "5152d59c8f94245ede2c30ff244174b8968dc932c1df7fef84812980ab9e038d"
+hash = "459c77a3c591ebc0aba72c1220db0928958ccabbcc998a5c55d10a1d647d4252"
 metafile = true
 
 [[files]]
@@ -858,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/up-and-away.pw.toml"
-hash = "66362518dd4b7112036479c5becf4e9c84260d07e32247eeef6cc76b2c317015"
+hash = "edebfc7a60ee144592e40d331d395304321fcdabbdbf27a953955f96ff5c2f2f"
 metafile = true
 
 [[files]]

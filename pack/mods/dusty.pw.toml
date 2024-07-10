@@ -1,13 +1,13 @@
 name = "Dust"
-filename = "dust-1.0.4+1.21.jar"
+filename = "dust-1.0.5+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dzn1XCbd/versions/I5RQIihc/dust-1.0.4%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/Dzn1XCbd/versions/RVm7pNjt/dust-1.0.5%2B1.21.jar"
 hash-format = "sha1"
-hash = "0e34d91fa4108ea2e443667ed8de3f5880c90b6a"
+hash = "c213d5d3f7566ae595e7ee475848272933e98854"
 
 [update]
 [update.modrinth]
 mod-id = "Dzn1XCbd"
-version = "I5RQIihc"
+version = "RVm7pNjt"

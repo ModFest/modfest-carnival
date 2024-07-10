@@ -1,0 +1,13 @@
+{
+  "name": "Quack",
+  "titleColor": "#FFFF00",
+  "flavorText": "Check out Hook a Duck!",
+  "itemID": "duck:anima_core_duck",
+  "castingTime": 30,
+  "onCastFunction": "quack_start",
+  "duration": 80,
+  "onTickFunction": "quack_tick",
+  "onEndFunction": "quack_end",
+  "executeOnCastFunctionAtPlayer": true,
+  "executeOnTickFunctionAtPlayer": true
+}

@@ -1,0 +1,5 @@
+kill @e[type=clown-raid:clown, tag=wacky_wheel]
+kill @e[type=clown-raid:magician, tag=wacky_wheel]
+kill @e[type=clown-raid:seller, tag=wacky_wheel]
+kill @e[type=clown-raid:presenter, tag=wacky_wheel]
+kill @e[type=clown-raid:marcher, tag=wacky_wheel]

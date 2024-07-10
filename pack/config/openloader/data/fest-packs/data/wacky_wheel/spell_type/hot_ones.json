@@ -1,0 +1,8 @@
+{
+  "name": "Hot Ones!",
+  "titleColor": "#FF5349",
+  "itemID": "magnificent_maw:curious_vial",
+  "flavorText": "Check out Magnificent Maw!",
+  "castingTime": 20,
+  "onCastFunction": "hot_ones"
+}

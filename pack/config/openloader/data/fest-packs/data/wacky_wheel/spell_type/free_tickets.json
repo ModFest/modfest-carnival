@@ -1,0 +1,8 @@
+{
+  "name": "Free Tickets!",
+  "titleColor": "#FFFF00",
+  "flavorText": "Enjoy your free tickets!",
+  "itemID": "terrifictickets:ticket",
+  "castingTime": 30,
+  "onCastFunction": "free_tickets"
+}

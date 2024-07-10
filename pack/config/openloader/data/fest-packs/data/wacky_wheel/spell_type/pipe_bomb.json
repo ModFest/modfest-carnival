@@ -1,0 +1,8 @@
+{
+  "name": "Woah Pipe Bomb!",
+  "titleColor": "#00ddc0",
+  "itemID": "bombastic:pipe_bomb",
+  "flavorText": "Check out Bombastic!",
+  "castingTime": 20,
+  "onCastFunction": "pipe_bomb"
+}

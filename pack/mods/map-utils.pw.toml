@@ -1,0 +1,13 @@
+name = "Map Utils"
+filename = "map_utils-1.0.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B8AjIH2E/versions/5qbO0ggl/map_utils-1.0.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "c3f806fce0da2d46686e78fc6a03b90feb473c11"
+
+[update]
+[update.modrinth]
+mod-id = "B8AjIH2E"
+version = "5qbO0ggl"

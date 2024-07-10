@@ -13,6 +13,110 @@ file = "config/openloader/data/custom-carts/pack.mcmeta"
 hash = "9350957a24412fff7aed6d48983e81d5d8b21256cf660ca00152d0e363701fb2"
 
 [[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/banana.mcfunction"
+hash = "5cd478ff8d512bbcf4090f5f3628e5eea55ff13453a992998a663bb4584a3571"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/clown_caravan_end.mcfunction"
+hash = "51129d4983abea24f7a0f6fc4188ac6f2c93c7d3328082b40e99d86ceea73583"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/clown_caravan_start.mcfunction"
+hash = "da29012b7fdf0007a2e4ccfcc444b3a0743f30d2755cda1eaef93cddd69bccfa"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/free_tickets.mcfunction"
+hash = "d2736433baee9295ab1edaa6bc45d5102aac8d0c803e7095323d12fb4900991f"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/free_tokens.mcfunction"
+hash = "f08dbc47246ef1fb6646ede232eb8403dd38a131cd1488d44cbddf853c7ca8be"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/hot_ones.mcfunction"
+hash = "b13b370831cf4db9aa1d3e3b52f5998a9a2aee4f8ede97594af6f8376f24ed24"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/pipe_bomb.mcfunction"
+hash = "635dc0e0ebfe3d6751905373ad2340876af0e1134c600a3fe185fe957e4df938"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/pokemon_bob.mcfunction"
+hash = "94f3ddef7d4b693448d7995af6c51f6623fe41c80cf2254fdc18ac03ada13547"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/pokemon_tom.mcfunction"
+hash = "39b7bb14a5a20521f7282fafbca18532c16ace9bf8055ebbab184248138f2ce5"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/pokemon_wheel_boy.mcfunction"
+hash = "718eef8eba4372af09f4410a0a756f466c65f323bfd8687b6a3ee8e78cf48c47"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/quack_end.mcfunction"
+hash = "f2c32e547dfd6f71d64ba234c148a0589c17372a8a39cd9f8901cae6d4fdfe55"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/quack_start.mcfunction"
+hash = "d7923cf3a5ebf0ddd7947ee6371c7a72ce18f80df63820be3e3f6f31c1c48be8"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/quack_tick.mcfunction"
+hash = "b4cc5bfb5766369d33209f57ac3ca9b32cd1cfc0771a8ce721efb21a7c248d4f"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/stand.mcfunction"
+hash = "f314e2f638158ab054e769f2b5b53c0e698abcb40b9fa7f076cb29d0707892ab"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/banana.json"
+hash = "039ae3a694c852698f59932c7847f4030090513cc2f3f6f90f994ad82ffd2759"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/clown_caravan.json"
+hash = "981d51930e482c1d205261c1fa3fed9b403f662fe33ae4aaafb21674a7dd4d0d"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/free_tickets.json"
+hash = "3018f56d4472ba934bc8ea4350c33055fdc1bd5b0b90e16a44613a8975a7b9b5"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/free_tokens.json"
+hash = "2250e271d149d0df1dfc7aecb087ab6b147a6b2114d7c80ad0d7fa135b85994a"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/hot_ones.json"
+hash = "a53ae9a398951a866b55657bd463a111a7639794986f42a2d43bd433e354497f"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/pipe_bomb.json"
+hash = "32f07de877c4fc9e622b64e7b1930bd12a51928c11bd2da77fe67057fb5eb91f"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/pokemon_bob.json"
+hash = "ee523338a784a7069a4ada8cfe2cc3a20bb02879f675372c80c81072226dca99"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/pokemon_tom.json"
+hash = "9d8a9d98626929533c12fbb63dccc41348b3528cbe46ea639b238d38be4b8b27"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/pokemon_wheel_boy.json"
+hash = "d220d5c5932ff70245447a085be14112541809a26fb169417241d49aeedc6dd0"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/quack.json"
+hash = "4ef67ebce910601ebda683d92913086a3bf9397289f7030db746ee6c15209e0a"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/stand.json"
+hash = "298a6587458d7465b9bebf8ce0006d26d82b33448d28b1f2b92d537ecd201898"
+
+[[files]]
+file = "config/openloader/data/fest-packs/pack.mcmeta"
+hash = "45cf92c130dccaf305fd16a6b8076309391d89eda57ad1214ebc3f9127b2bca1"
+
+[[files]]
 file = "config/openloader/data/shards-carnival/data/mf_carnival/shard_type/mf_carnival.json"
 hash = "6719742d03262cb26e1d9d92be25c9206febee9f41ee35f2cc6b553367574457"
 
@@ -578,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/extravaganza.pw.toml"
-hash = "a1735a7633e198acedc1a598126a498a144991488f96d985d2f93507e5f9ca00"
+hash = "7d82e412cb610402d2462402f0e28276390e9319762f56edcee013a61f3686c8"
 metafile = true
 
 [[files]]
@@ -664,6 +768,11 @@ metafile = true
 [[files]]
 file = "mods/magnificent-maw.pw.toml"
 hash = "c5ab1af63531a3a190ed9469fb915b45ad305646dab3395292f1bcf6c26d3766"
+metafile = true
+
+[[files]]
+file = "mods/map-utils.pw.toml"
+hash = "bc9e6457a5e40cb51d330239bb2c5e059cdf35f145d4199cf1c02fe0f14e97a2"
 metafile = true
 
 [[files]]

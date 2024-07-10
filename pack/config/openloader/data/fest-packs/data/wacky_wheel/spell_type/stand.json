@@ -1,0 +1,8 @@
+{
+  "name": "Sutando Tsukai",
+  "titleColor": "#FF4500",
+  "flavorText": "Check out Spectral Spirits!",
+  "itemID": "minecraft:spectral_arrow",
+  "castingTime": 20,
+  "onCastFunction": "stand"
+}

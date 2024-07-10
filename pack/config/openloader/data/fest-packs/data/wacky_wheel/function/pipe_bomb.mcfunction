@@ -1,0 +1,1 @@
+give @s bombastic:pipe_bomb[bombastic:triggers=[{id:"minecraft:tnt", count:1}]]

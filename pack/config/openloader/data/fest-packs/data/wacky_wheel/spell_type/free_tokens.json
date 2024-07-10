@@ -1,0 +1,8 @@
+{
+  "name": "Free Tokens!",
+  "titleColor": "#C0C0C0",
+  "flavorText": "Enjoy your free tokens!",
+  "itemID": "terrifictickets:token",
+  "castingTime": 30,
+  "onCastFunction": "free_tokens"
+}

@@ -1,0 +1,1 @@
+spectralSpirits grant @p

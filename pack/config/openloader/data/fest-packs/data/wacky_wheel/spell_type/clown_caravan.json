@@ -1,0 +1,11 @@
+{
+  "name": "Clown Caravan",
+  "titleColor": "#00ffcb",
+  "flavorText": "Check out Clown Raid!",
+  "itemID": "clown-raid:clown_spawn_egg",
+  "castingTime": 10,
+  "onCastFunction": "clown_caravan_start",
+  "duration": 1200,
+  "onEndFunction": "clown_caravan_end",
+  "executeOnCastFunctionAtPlayer": true
+}

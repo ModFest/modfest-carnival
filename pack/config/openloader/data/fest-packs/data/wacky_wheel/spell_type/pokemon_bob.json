@@ -1,0 +1,8 @@
+{
+  "name": "A wild Bob appeared!",
+  "titleColor": "#8B0000",
+  "itemID": "pocketmobs:mob_ball",
+  "castingTime": 60,
+  "onCastFunction": "pokemon_bob",
+  "executeOnCastFunctionAtPlayer": true
+}

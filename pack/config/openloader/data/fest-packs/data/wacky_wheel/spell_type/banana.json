@@ -1,0 +1,8 @@
+{
+  "name": "Banana Blast!",
+  "titleColor": "#FFFF00",
+  "itemID": "bonzibuddy:banana_blaster",
+  "castingTime": 20,
+  "onCastFunction": "banana",
+  "executeOnCastFunctionAtPlayer": true
+}

@@ -1,0 +1,16 @@
+{
+  "cast_delay_ms": 1000,
+  "description": {
+    "text": "I ~ The Magician"
+  },
+  "effects": {
+    "mirthdew_encore:run_function": [
+      {
+        "function": "mirthdew_encore:grant_magician_shard"
+      }
+    ]
+  },
+  "input_count": 0,
+  "mirth_cost": 33333,
+  "recharge_delay_ms": 5000
+}

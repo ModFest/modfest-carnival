@@ -129,6 +129,74 @@ file = "config/openloader/data/fest-packs/pack.mcmeta"
 hash = "45cf92c130dccaf305fd16a6b8076309391d89eda57ad1214ebc3f9127b2bca1"
 
 [[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/apply_dreamy_diet.json"
+hash = "0a5e9f5649b18e41b30e1f376e456771fda6bc65274ca5365027062fc5d22217"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/celebrate.json"
+hash = "ee5c3f6cd3a9d393ffb31c098ec6b83cc14e8b9c1e2d91a8fee823794051fdc3"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/conjure_token.json"
+hash = "e620c6105c436b8991304907eb479cc7fa6422aae5917937b6c32a438be3b341"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/fire_balloon_bomb.json"
+hash = "36a52f318ae8391f4b1a1e738d056dfbdc409371f48212070a7d3ad874e88b69"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/fire_banana_blaster.json"
+hash = "45e508ea250216577bb9e08603fae71e97360b7c8cb13c1f3c83f0fc9273a20e"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/fire_pipe_bomb.json"
+hash = "6e93c5e744298ba99f04021b438d8e3acfc7b7445a64ecca3675fff52e46fd33"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/fire_the_funny.json"
+hash = "2d164d534428f804cd3c8a66fb5aa050b748219b2f26430e91903786cb86ac5f"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/forgotten_card.json"
+hash = "ad2c981ac8f9f3e2d1d728c20ae9d91d60b318c79fbf1ccf23def961dfdee741"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/the_magician.json"
+hash = "2cafbe33cf0a7ec8763a74dd51249db63efce57784a65902baec31e321067e1c"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/trash_user.json"
+hash = "cbc747153f86f52ef0957c8d7f8f62f975cc095c2d5feff756da258a89c6c882"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mirthdew_encore/function/activate.mcfunction"
+hash = "fa8d1cb85a1cf0934d22a2e6e0493db1f6542ba26320a0f49de87a340c46b5c2"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mirthdew_encore/function/apply_dreamy_diet.mcfunction"
+hash = "735a7bf7ab8385e4d6c9c4d9e96f4022decaf1d803f7c4d674c87bf07abb647c"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mirthdew_encore/function/celebrate.mcfunction"
+hash = "6115fe694c38e423a1cff5a1136e2be7c2f5c282160cfc6423e1127f1f9e4e77"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mirthdew_encore/function/conjure_token.mcfunction"
+hash = "16360ff5089dad660a850c81cdc8d26ff18323740ba29c2785415b5fcd9cb136"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mirthdew_encore/function/grant_magician_shard.mcfunction"
+hash = "5c4a9f1ff7e8c6af4ca69ef6f060e5a16845aeafe91283c3ab3df64fd84fc35a"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/data/mirthdew_encore/function/trash_user.mcfunction"
+hash = "bf045762a87852c1d3dba59f79e8a825e811ab9669b93a3f43f54b55f53038ff"
+
+[[files]]
+file = "config/openloader/data/mirthdew_carnival_datapack/pack.mcmeta"
+hash = "a8d766d41da4ee5bf84cbac67465e1b8b0dcf267985e65fba94660d7c9f185b8"
+
+[[files]]
 file = "config/openloader/data/shards-carnival/data/mf_carnival/shard_type/mf_carnival.json"
 hash = "6719742d03262cb26e1d9d92be25c9206febee9f41ee35f2cc6b553367574457"
 

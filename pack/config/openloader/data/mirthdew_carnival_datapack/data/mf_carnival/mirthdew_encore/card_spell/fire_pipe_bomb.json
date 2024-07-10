@@ -1,0 +1,20 @@
+{
+  "cast_delay_ms": 50,
+  "description": {
+    "text": "Deliverance: Pipe Bomb"
+  },
+  "effects": {
+    "mirthdew_encore:fire_entity": [
+      {
+        "entity": [
+          "bombastic:pipe_bomb"
+        ],
+        "speed": 0.85,
+        "divergence": 4.0
+      }
+    ]
+  },
+  "input_count": 0,
+  "mirth_cost": 45,
+  "recharge_delay_ms": 750
+}

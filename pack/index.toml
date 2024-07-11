@@ -25,6 +25,10 @@ file = "config/openloader/data/dancerizer_datapack.zip"
 hash = "313c2fd43f96f2231e0d57b77aa7c35b80675852b9c0c1dc2e4c5ee843880769"
 
 [[files]]
+file = "config/openloader/data/dust_npc_datapack.zip"
+hash = "769b4bbf5b3daa67fb14d6314885583cbbe2b814cb6022484505cec352f374d7"
+
+[[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/function/banana.mcfunction"
 hash = "5cd478ff8d512bbcf4090f5f3628e5eea55ff13453a992998a663bb4584a3571"
 
@@ -263,6 +267,10 @@ hash = "07dc2b86b17788f0de6c479f21ed027745a74eb310fbad35bf773e63cf5e25db"
 [[files]]
 file = "config/openloader/resources/dancerizer_resourcepack.zip"
 hash = "f18b1c93b927abd3a798580ff3ba25b1fa388c6bb82e4f7adfd84820e222a8e2"
+
+[[files]]
+file = "config/openloader/resources/dust_npc_resources.zip"
+hash = "ce276a99c1a727590db582a46d4e21303541ee9c4f9c1316840f6c1836394a13"
 
 [[files]]
 file = "config/openloader/resources/hookaduck_resourcepack.zip"

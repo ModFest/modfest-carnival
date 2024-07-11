@@ -40,7 +40,7 @@
 		"glow_color": "#bafffa",
 		"collect_particle": "minecraft:wax_off",
 		"collect_sound": {
-			"sound_id": "scattered_shards:collect_secret"
+			"sound_id": "scattered_shards:collect_challenge"
 		},
 		"list_order": 3
 	},
@@ -49,7 +49,7 @@
 		"glow_color": "#bafffa",
 		"collect_particle": "minecraft:wax_off",
 		"collect_sound": {
-			"sound_id": "scattered_shards:collect_secret"
+			"sound_id": "scattered_shards:collect_challenge"
 		},
 		"list_order": 3
 	},
@@ -58,7 +58,7 @@
 		"glow_color": "#bafffa",
 		"collect_particle": "minecraft:wax_off",
 		"collect_sound": {
-			"sound_id": "scattered_shards:collect_secret"
+			"sound_id": "scattered_shards:collect_challenge"
 		},
 		"list_order": 3
 	},
@@ -67,7 +67,7 @@
 		"glow_color": "#bafffa",
 		"collect_particle": "minecraft:wax_off",
 		"collect_sound": {
-			"sound_id": "scattered_shards:collect_secret"
+			"sound_id": "scattered_shards:collect_challenge"
 		},
 		"list_order": 3
 	},
@@ -76,7 +76,7 @@
 		"glow_color": "#bafffa",
 		"collect_particle": "minecraft:wax_off",
 		"collect_sound": {
-			"sound_id": "scattered_shards:collect_secret"
+			"sound_id": "scattered_shards:collect_challenge"
 		},
 		"list_order": 3
 	},
@@ -85,7 +85,7 @@
 		"glow_color": "#bafffa",
 		"collect_particle": "minecraft:wax_off",
 		"collect_sound": {
-			"sound_id": "scattered_shards:collect_secret"
+			"sound_id": "scattered_shards:collect_challenge"
 		},
 		"list_order": 3
 	}

@@ -202,7 +202,7 @@ hash = "a8d766d41da4ee5bf84cbac67465e1b8b0dcf267985e65fba94660d7c9f185b8"
 
 [[files]]
 file = "config/openloader/data/shards-carnival/data/mf_carnival/shard_type/mf_carnival.json"
-hash = "6719742d03262cb26e1d9d92be25c9206febee9f41ee35f2cc6b553367574457"
+hash = "8bbfba202cf05320fa778fab49b52eab0758ea851f508227f91b7b819bc226b5"
 
 [[files]]
 file = "config/openloader/data/shards-carnival/pack.mcmeta"

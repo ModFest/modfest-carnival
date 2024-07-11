@@ -29,12 +29,20 @@ file = "config/openloader/data/fest-packs/data/wacky_wheel/function/banana.mcfun
 hash = "5cd478ff8d512bbcf4090f5f3628e5eea55ff13453a992998a663bb4584a3571"
 
 [[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/carnival_treats.mcfunction"
+hash = "091c3aa5a9581227c686ac53d8bbc628153b52440ddc6cfe0094a3152f3d05f0"
+
+[[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/function/clown_caravan_end.mcfunction"
 hash = "51129d4983abea24f7a0f6fc4188ac6f2c93c7d3328082b40e99d86ceea73583"
 
 [[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/function/clown_caravan_start.mcfunction"
 hash = "da29012b7fdf0007a2e4ccfcc444b3a0743f30d2755cda1eaef93cddd69bccfa"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/free_balloons.mcfunction"
+hash = "1ae37aafd84e28624d403f2e4144728847eb7a259a049a5f2689a0b2adfcece7"
 
 [[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/function/free_tickets.mcfunction"
@@ -45,8 +53,16 @@ file = "config/openloader/data/fest-packs/data/wacky_wheel/function/free_tokens.
 hash = "f08dbc47246ef1fb6646ede232eb8403dd38a131cd1488d44cbddf853c7ca8be"
 
 [[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/honk.mcfunction"
+hash = "c4dae8981fb83c33799a13561e5c1351dc2158118637232dc70f643bf8d473f3"
+
+[[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/function/hot_ones.mcfunction"
 hash = "b13b370831cf4db9aa1d3e3b52f5998a9a2aee4f8ede97594af6f8376f24ed24"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/mlg.mcfunction"
+hash = "b0051d3d5154348316cfdfc9ba30abcfc2646a7c973a7e825a9ceb6a06af0786"
 
 [[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/function/pipe_bomb.mcfunction"
@@ -81,12 +97,24 @@ file = "config/openloader/data/fest-packs/data/wacky_wheel/function/stand.mcfunc
 hash = "f314e2f638158ab054e769f2b5b53c0e698abcb40b9fa7f076cb29d0707892ab"
 
 [[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/ticket_storm.mcfunction"
+hash = "aa96b2584b22f7cc086d3b9f629dc0e26b0b4e501aaa08eb78ed6c5b642c8896"
+
+[[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/banana.json"
 hash = "039ae3a694c852698f59932c7847f4030090513cc2f3f6f90f994ad82ffd2759"
 
 [[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/carnival_treats.json"
+hash = "ef1fc52790e654f56faace181d11a1d3f8880aecf2cd881153506141539c8df1"
+
+[[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/clown_caravan.json"
 hash = "981d51930e482c1d205261c1fa3fed9b403f662fe33ae4aaafb21674a7dd4d0d"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/free_balloons.json"
+hash = "64acdc2dedb5f39a31ec945409b26e5d288652fd884e13e195970c7f2670b518"
 
 [[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/free_tickets.json"
@@ -97,8 +125,16 @@ file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/free_token
 hash = "2250e271d149d0df1dfc7aecb087ab6b147a6b2114d7c80ad0d7fa135b85994a"
 
 [[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/honk.json"
+hash = "a34fc93e623931ab1a031e3e8d03baed827fc01cee9087f9e2460a4b489a3647"
+
+[[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/hot_ones.json"
 hash = "a53ae9a398951a866b55657bd463a111a7639794986f42a2d43bd433e354497f"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/mlg.json"
+hash = "80fbd2c731b735af8814f71b2c0003b4bc2d44d14240870af201d15a3f9b08cb"
 
 [[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/pipe_bomb.json"
@@ -123,6 +159,10 @@ hash = "4ef67ebce910601ebda683d92913086a3bf9397289f7030db746ee6c15209e0a"
 [[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/stand.json"
 hash = "298a6587458d7465b9bebf8ce0006d26d82b33448d28b1f2b92d537ecd201898"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/ticket_storm.json"
+hash = "131682ceeb9297f824bfcc9012e14fe65e3a81bfefeaea46234ef12261a6f48b"
 
 [[files]]
 file = "config/openloader/data/fest-packs/pack.mcmeta"

@@ -1,13 +1,13 @@
 name = "Bonzi Buddy"
-filename = "bonzibuddy-1.0.3.jar"
+filename = "bonzibuddy-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PqolNfCr/versions/weN8wwT5/bonzibuddy-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/PqolNfCr/versions/nKHEWxyr/bonzibuddy-1.0.4.jar"
 hash-format = "sha1"
-hash = "0cd0a9363b286db8a8250028cab3379a2636dac4"
+hash = "0d2846287f41bde6e727d625534416a687b7d3ef"
 
 [update]
 [update.modrinth]
 mod-id = "PqolNfCr"
-version = "weN8wwT5"
+version = "nKHEWxyr"

@@ -245,6 +245,18 @@ file = "config/openloader/data/mirthdew_carnival_datapack/pack.mcmeta"
 hash = "a8d766d41da4ee5bf84cbac67465e1b8b0dcf267985e65fba94660d7c9f185b8"
 
 [[files]]
+file = "config/openloader/data/music-carnival/data/mf_carnival/jukebox_song/phonomancy.json"
+hash = "2730eba282714047fe0cdfbb63281f8db7b6540ef737a79eb60d67053b64948f"
+
+[[files]]
+file = "config/openloader/data/music-carnival/data/mf_carnival/jukebox_song/sky_lantern.json"
+hash = "8f5a1390b9d548fc76a657502db1650399f0a212820ed8f7c492c1f346add655"
+
+[[files]]
+file = "config/openloader/data/music-carnival/pack.mcmeta"
+hash = "cc552bb18a338c62ce72646046e22c65a8e86f089cc15867b8bb28777ff55a98"
+
+[[files]]
 file = "config/openloader/data/shards-carnival/data/mf_carnival/shard_type/mf_carnival.json"
 hash = "8bbfba202cf05320fa778fab49b52eab0758ea851f508227f91b7b819bc226b5"
 
@@ -431,6 +443,26 @@ hash = "9bf79904f36ffc85bc184d0aad549222737c6a04b98392fe9abe91611902a1b1"
 [[files]]
 file = "config/openloader/resources/modfest-assets/styled_chat_emoji.json"
 hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/lang/en_us.json"
+hash = "8eec4ff27157a3e48f1e9a4c97a06894361428298b0e1badcfc2b6817c77732f"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/sounds.json"
+hash = "07a15101111934d02db6cc8be4e5e18507561fe6246b61d396b0c4807e2516bf"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/sounds/phonomancy.ogg"
+hash = "781a5be5dc82b5c39a6557ceea3f5ea9ecf1d5216f2a35ac600307dca45e8bf0"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/sounds/sky_lantern.ogg"
+hash = "1c6ad1736882b4dc0de3e216f69f668406b3ffaef16e8b206ca98a9f847f5c7d"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/pack.mcmeta"
+hash = "702656e3e4adccacb6536f399c7c47abe2fcb3895d8eb9e8a4f31625708eb311"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/lang/en_us.json"

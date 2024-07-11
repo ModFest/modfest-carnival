@@ -1,0 +1,20 @@
+{
+  "music.phonomancy": {
+    "subtitle": "subtitles.mf_carnival.music.phonomancy",
+    "sounds": [
+      {
+        "name": "mf_carnival:phonomancy",
+        "stream": true
+      }
+    ]
+  },
+  "music.sky_lantern": {
+    "subtitle": "subtitles.mf_carnival.music.sky_lantern",
+    "sounds": [
+      {
+        "name": "mf_carnival:sky_lantern",
+        "stream": true
+      }
+    ]
+  }
+}

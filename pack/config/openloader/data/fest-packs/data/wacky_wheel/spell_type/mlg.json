@@ -1,0 +1,8 @@
+{
+  "name": "MLG",
+  "titleColor": "#0000FF",
+  "itemID": "dancerizer:mlg_glasses",
+  "flavorText": "Check out Dancerizer!",
+  "castingTime": 30,
+  "onCastFunction": "mlg"
+}

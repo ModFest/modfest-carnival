@@ -1,0 +1,8 @@
+{
+  "name": "Free Balloons!",
+  "titleColor": "#FF474D",
+  "flavorText": "Check out Balloons Away, Up and Away, and Sinister Circus!",
+  "itemID": "up_and_away:round_floaty_balloon",
+  "castingTime": 20,
+  "onCastFunction": "free_balloons"
+}

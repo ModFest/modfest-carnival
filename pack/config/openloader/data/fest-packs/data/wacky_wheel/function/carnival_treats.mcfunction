@@ -1,0 +1,11 @@
+give @s carnival-foods:cotton_candy
+give @s carnival-foods:hotdog
+give @s carnival-foods:vegan_hotdog
+give @s carnival-cuisine:fries
+give @s carnival-cuisine:burger
+give @s carnival-cuisine:ice_cream_vanilla
+give @s carnivalconfections:candied_apple
+give @s carnivalconfections:popcorn
+give @s carnivalconfections:energetic_candy
+give @s sinister-circus:choco_frosted_churros
+give @s sinister-circus:cotton_candy

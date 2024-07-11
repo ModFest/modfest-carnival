@@ -1,0 +1,9 @@
+{
+  "name": "Ticket Rain",
+  "titleColor": "#FFFF00",
+  "flavorText": "Check out Amarong!",
+  "itemID": "amarong:amarong_ticket_dispenser",
+  "castingTime": 10,
+  "onCastFunction": "ticket_storm",
+  "executeOnCastFunctionAtPlayer": true
+}

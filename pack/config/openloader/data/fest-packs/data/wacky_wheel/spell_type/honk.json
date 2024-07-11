@@ -1,0 +1,9 @@
+{
+  "name": "Honk",
+  "titleColor": "#FFD700",
+  "flavorText": "Check out Honque!",
+  "itemID": "honque:compat/the_ravenous_golden_funny",
+  "castingTime": 10,
+  "onCastFunction": "honk",
+  "executeOnCastFunctionAtPlayer": true
+}

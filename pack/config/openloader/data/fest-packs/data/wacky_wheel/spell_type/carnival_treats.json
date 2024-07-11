@@ -1,0 +1,8 @@
+{
+  "name": "Carnival Treats!",
+  "titleColor": "#FFD700",
+  "flavorText": "Check out all the food mods!",
+  "itemID": "carnivalconfections:candied_apple",
+  "castingTime": 10,
+  "onCastFunction": "carnival_treats"
+}

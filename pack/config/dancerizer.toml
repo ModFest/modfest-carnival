@@ -1,0 +1,14 @@
+
+[client]
+# Whenever a small text should appear after
+# pressing a hotkey related to a taunt or dance
+showHints = true
+# Toggles the player cape during animations
+capeDuringAnimations = false
+
+[server]
+# How long a player needs to wait until they can manually taunt again
+tauntCooldown = 20
+# How long a taunt is being shown
+# (Does not affect damage prevention)
+tauntDuration = 5

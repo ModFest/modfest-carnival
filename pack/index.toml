@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/dancerizer.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "b6bcad9ed888d80f5ff8e691903a9aa3744d8db8d8082efbce654ec7a24e8e00"
 
 [[files]]
 file = "config/emi.css"

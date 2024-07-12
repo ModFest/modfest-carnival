@@ -357,7 +357,7 @@ file = "config/openloader/resources/custom-carts/pack.mcmeta"
 hash = "07dc2b86b17788f0de6c479f21ed027745a74eb310fbad35bf773e63cf5e25db"
 
 [[files]]
-file = "config/openloader/resources/dancerizer-extra/assets/animations/idle/sitting.json"
+file = "config/openloader/resources/dancerizer-extra/assets/dancerizer/animations/idle/sitting.json"
 hash = "0d4a1ce139bef537389a3c622283f2156ed49f725843ed04a507041ba90a812a"
 
 [[files]]

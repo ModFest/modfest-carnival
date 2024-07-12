@@ -214,7 +214,7 @@ hash = "92fef58f3370e655b6fd09ec577d838a3b577601d32c2207ff6d9e5d97b1fcaa"
 
 [[files]]
 file = "config/openloader/data/mib_showcase_data/data/mib/function/bad_apple.mcfunction"
-hash = "4019fddbd1b9714588b29749a37f0b0cde8813b7438b4d42d20aea0161daf5f2"
+hash = "7ded13c5b229a5df9f1576de934dda03a13fa8fdac629363e939575773d3b462"
 
 [[files]]
 file = "config/openloader/data/mib_showcase_data/pack.mcmeta"
@@ -778,7 +778,7 @@ hash = "a7fd6cdc6838b4b99d78e36ffc7a7a6d578adbe5a957565da5715a73f0738932"
 
 [[files]]
 file = "mods/aji-maji.pw.toml"
-hash = "d7749e857791299c43acb4c42c05db8a271c38653d07860d96a7d38a2d4ff509"
+hash = "dc88a2c126dc32490026641fba3b8055a1db0150c25160fc6a276b3ee985c9ad"
 metafile = true
 
 [[files]]
@@ -983,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
-hash = "eea8ebaad3a39d28526acb6bcdc8f0fcdad32a0b45657055d5228d4dc75216ce"
+hash = "76bfc679fe59262210fc106f072b0f1e389536e3216a94e1816e0d57d4f86e97"
 metafile = true
 
 [[files]]

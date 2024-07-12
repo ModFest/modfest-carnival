@@ -1,13 +1,13 @@
 name = "Dancerizer"
-filename = "dancerizer-1.2.0.jar"
+filename = "dancerizer-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hZ4lZ6jX/versions/t5dqQre8/dancerizer-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/hZ4lZ6jX/versions/eSDlmbTG/dancerizer-1.2.1.jar"
 hash-format = "sha1"
-hash = "509d565c4c2c9359bf4857f813bd3cc851a76794"
+hash = "dc7a24befaf98f98e585b7db9bd354728ade68e0"
 
 [update]
 [update.modrinth]
 mod-id = "hZ4lZ6jX"
-version = "t5dqQre8"
+version = "eSDlmbTG"

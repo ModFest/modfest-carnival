@@ -1002,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/dancerizer.pw.toml"
-hash = "174d87d92001e4596fce6cf1e409107ecc006b82341d32581f74e3aca1e67378"
+hash = "29a72ca031396a6b1fceb56d8f0c82e2dfcc32281e002fee361b0c440569444b"
 metafile = true
 
 [[files]]
@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/pulchra-occultorum.pw.toml"
-hash = "58fc6f14196005b32db1bfb5f1f72f6d2bae663b0f5ac2496422a4508b186ef8"
+hash = "114e95d422e6d53257e41a9a8e6a05ae0be7e4f72cebc19fedbd5c5440436a04"
 metafile = true
 
 [[files]]
@@ -1277,7 +1277,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "4c3d12628537d8a9a5e4747e88220a0a1a0f1af035e89adc3428577be3820a1f"
+hash = "35c9440f130773b76b9274790aa1337000b74584a532511438687cf4029a6572"
 metafile = true
 
 [[files]]

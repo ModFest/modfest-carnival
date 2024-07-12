@@ -884,11 +884,6 @@ hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
 metafile = true
 
 [[files]]
-file = "mods/armorstandeditor.pw.toml"
-hash = "834b61193f4e49e342b5ebc9d67da615313c0eaa9a221aaa7a1025ec4211d309"
-metafile = true
-
-[[files]]
 file = "mods/axiom.pw.toml"
 hash = "53288122b2e4125cbe80a7673160a3d3276007d2c1ec103524b39a26085622b9"
 metafile = true

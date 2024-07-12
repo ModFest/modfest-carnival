@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dancerizer.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/emi.css"
 hash = "206ec811351dc351a4a795f5adeb041e0901c171c2909d5d8504bd01ffacc398"
 
@@ -1376,7 +1380,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2c8ebdfd9bcfb593c8905b44103d558751e135897c8ec909393d8d317e3eb9d5"
+hash = "450071f0c48cb90896651a93a013a46232d755ea6adefa749ac84f2f61b29b61"
 
 [[files]]
 file = "server-icon.png"

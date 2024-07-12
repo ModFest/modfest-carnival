@@ -922,7 +922,7 @@ metafile = true
 
 [[files]]
 file = "mods/carnival-foods.pw.toml"
-hash = "07ffe6d5fb716c98c797ef8fcb29b69c705c9e18664c604428ce85d0b48c53dc"
+hash = "86f313548aa581dead685534ed903111e812b8d771c8d8e38ddf2bbb3c2aa5e0"
 metafile = true
 
 [[files]]
@@ -1243,6 +1243,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
+metafile = true
+
+[[files]]
+file = "mods/spawnanywhere.pw.toml"
+hash = "4addf0374a6b5a61ffe92547f978923b2c77c0fe84cedf2881da34cda3ff3f58"
 metafile = true
 
 [[files]]

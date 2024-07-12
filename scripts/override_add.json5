@@ -34,6 +34,7 @@
   {"project_id": "styledplayerlist"},  // nice/chat
   {"project_id": "simple-voice-chat"},  // nice/chat
   {"project_id": "fabrictailor"},  // nice/chat
+  {"project_id": "spawnanywhere"} // nice/util
 //  {"project_id": "switchy"},  // nice/chat
 //  {"project_id": "switchy-proxy"},  // nice/chat
 ]

@@ -602,7 +602,7 @@ hash = "2c70174416873c06500609531242f0f01606d70850d4a544ba598537ba7c3c63"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/tower_front.png"
-hash = "1cc8ef46129b6b1d19ee25913bc73311b3786daade2c9eb705e5d562d874d5a0"
+hash = "f3ffd34e282580d8e4f255c1949b81f826ac4b15b7ad35e7de81b66ded1c44de"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/tower_mini_backing.png"
@@ -610,7 +610,7 @@ hash = "04ab35456633cd4e522cc63378bb8b7e3ce9efc3637429c23e56e76eae4e14dd"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/tower_mini_front.png"
-hash = "be9c73e9b87f73ea81956d245f36d150915fe8afbd41b990d1d14a66f57c96ca"
+hash = "19a13028313860d780bb706facb84bd4594320c20ba127b4471f438a6d44d0d4"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/world_backing.png"

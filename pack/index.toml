@@ -614,7 +614,7 @@ hash = "0e081d398277f64b1df4122e50ed8ecb4b0b023f3bba0ca15c12b8e77006f2b5"
 
 [[files]]
 file = "config/openloader/resources/music-carnival/assets/spirit_vector/models/item/cassette.take_break.json"
-hash = "aae92d89d67bb5280b85f7e0ff7e4fbfe92e38e3116d798ce78a7cbdf30e3970"
+hash = "3d8381c0b000a6e3fe2aa7bad4357643ae60714140ccffbc399bb6a12717d71c"
 
 [[files]]
 file = "config/openloader/resources/music-carnival/pack.mcmeta"

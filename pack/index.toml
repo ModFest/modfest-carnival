@@ -731,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/bombastic.pw.toml"
-hash = "2ff093975a43d6b5afcc83040dda0d481b241990739832f16d4e8152e1190658"
+hash = "afff5701875d20f3ee8ea20feaf6ee33496a74b1615a43b46ff085e1512ef945"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/carnival-foods.pw.toml"
-hash = "4482bf29fbecf34df7f2969252b7eb753ddcad299f3aadab43fd360a133f1ca8"
+hash = "07ffe6d5fb716c98c797ef8fcb29b69c705c9e18664c604428ce85d0b48c53dc"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/crypt-mimic.pw.toml"
-hash = "87a701b494067cd969e1e66ac1f834b6a937ef0b0510c0c6e75a03f9ecbc33e9"
+hash = "5d4e927f504e70038bb42883b2121755e9945bd5e72cf63479ba0366230c4e87"
 metafile = true
 
 [[files]]
@@ -831,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusty.pw.toml"
-hash = "102d91c067ec3ccc456bd3d7f92c2c40542a2f339027e1abff8c8f52baa2a8e7"
+hash = "0bbd429c8470d725dc0649a7a047b1ed723909a0605d57261ceb7834e90c6b7b"
 metafile = true
 
 [[files]]
@@ -1011,7 +1011,7 @@ metafile = true
 
 [[files]]
 file = "mods/pocketmobs.pw.toml"
-hash = "63d1ba91aae03e75da9f4295326ea62cd83f9f86d0a15eda562d0587c7f7c5dc"
+hash = "9dc6d95ec447d303a5ea98e00f8603af9a2fef4b7f475c92a1fea72119a3b414"
 metafile = true
 
 [[files]]
@@ -1111,7 +1111,7 @@ metafile = true
 
 [[files]]
 file = "mods/thwackinator.pw.toml"
-hash = "5d555db330c820f8771504f3ff1734db91ac72ed6330c38f3ab862ee683551b5"
+hash = "2d7ab70c002099e5305e74e729e0cef2dc891f510fc533bb3298ee57fa6698cd"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Thwackinator"
-filename = "thwackinator-0.0.1.jar"
+filename = "thwackinator-0.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dMltSin1/versions/5lClGfR6/thwackinator-0.0.1.jar"
+url = "https://cdn.modrinth.com/data/dMltSin1/versions/4G5U81S4/thwackinator-0.1.0.jar"
 hash-format = "sha1"
-hash = "1cf2a9d150275263189b665a3225b9399a284f06"
+hash = "fb3ec7b7341254924773d5bb29aca13f5101e209"
 
 [update]
 [update.modrinth]
 mod-id = "dMltSin1"
-version = "5lClGfR6"
+version = "4G5U81S4"

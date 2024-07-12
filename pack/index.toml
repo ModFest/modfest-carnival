@@ -834,7 +834,7 @@ hash = "ce082f2a695976b30b61f16e29b357489e4be36b1b84063d666f70c9889b389f"
 
 [[files]]
 file = "config/roles.json"
-hash = "16dd1fa442a32b0e6dafe6e228540b7f93f33e949460939102b1f57b25dc4c42"
+hash = "62b2ce6571a4101b41c3adf6a2158e206a346d790af2c324273ad913de2c15b4"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -885,11 +885,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
-metafile = true
-
-[[files]]
-file = "mods/axiom.pw.toml"
-hash = "53288122b2e4125cbe80a7673160a3d3276007d2c1ec103524b39a26085622b9"
 metafile = true
 
 [[files]]

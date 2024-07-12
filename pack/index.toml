@@ -538,7 +538,7 @@ hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
 
 [[files]]
 file = "config/openloader/resources/music-carnival/assets/mf_carnival/lang/en_us.json"
-hash = "8eec4ff27157a3e48f1e9a4c97a06894361428298b0e1badcfc2b6817c77732f"
+hash = "ee1d1c1b04a0c81fe8901e80b02a8dd071d374e32e3bc0b3075a994b771ecb3e"
 
 [[files]]
 file = "config/openloader/resources/music-carnival/assets/mf_carnival/sounds.json"
@@ -872,6 +872,11 @@ hash = "5f6c05ac9fd1fe0a2d766988434300f57fafd1c24489db5b5807bf3e5000359b"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
+metafile = true
+
+[[files]]
 file = "mods/clown-raid.pw.toml"
 hash = "d86ba69ff9be54adad6f8f2f8e5b647e9c358a721a0d950b5bb5beee8778b825"
 metafile = true
@@ -1069,6 +1074,11 @@ metafile = true
 [[files]]
 file = "mods/no-fun-allowed.pw.toml"
 hash = "8666e34e47f702404f8514f812512d7caa236c1d3b6541330eba61c8b8cbdf9d"
+metafile = true
+
+[[files]]
+file = "mods/now-playing.pw.toml"
+hash = "1d9671bf3f3b018090e6ca92afb421a40a6cdbbb668eb9d4b976d508b5ff5783"
 metafile = true
 
 [[files]]

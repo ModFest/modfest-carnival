@@ -1,6 +1,8 @@
 {
   "subtitles.mf_carnival.music.phonomancy": "Music: Phonomancy - Nulb",
-  "subtitles.mf_carnival.music.sky_lantern": "Music: Sky Lantern - Maple",
+  "subtitles.mf_carnival.music.sky_lantern": "Music: Sky Lantern - lumiscosity",
   "jukebox_song.mf_carnival.phonomancy.desc": "Jukebox: Phonomancy - Nulb",
-  "jukebox_song.mf_carnival.sky_lantern.desc": "Jukebox: Sky Lantern - Maple"
+  "jukebox_song.mf_carnival.sky_lantern.desc": "Jukebox: Sky Lantern - lumiscosity",
+  "music.now-playing.mf_carnival:sky_lantern": "lumiscosity - Sky Lantern",
+  "music.now-playing.mf_carnival:phonomancy": "Nulb - Phonomancy"
 }

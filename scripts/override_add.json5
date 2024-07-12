@@ -22,6 +22,7 @@
   {"project_id": "wthit"}, // nice/util
   {"project_id": "surveyor"}, // nice/util
   {"project_id": "hoofprint"}, // nice/util
+  {"project_id": "now-playing"}, // nice/util
 //  {"project_id": "resetting"}, // nice/build
   {"project_id": "no-fun-allowed"}, // nice/build
   {"project_id": "armorstandeditor"}, // nice/build

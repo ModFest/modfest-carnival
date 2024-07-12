@@ -9,6 +9,10 @@ file = "config/emi.css"
 hash = "206ec811351dc351a4a795f5adeb041e0901c171c2909d5d8504bd01ffacc398"
 
 [[files]]
+file = "config/hoofprint.toml"
+hash = "b771a80ec38d9dc0b333644b032c9e10bc5f29734c8a5440cb57e9ab3f38f428"
+
+[[files]]
 file = "config/openloader/data/ballotbox/data/ballotbox/ballot/categories.json"
 hash = "a3b4f5da6d5eff8bb7b71e1e17734f6f629a1b7fb79aa68cee4e13dfe79c4f52"
 

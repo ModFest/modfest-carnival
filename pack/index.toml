@@ -490,7 +490,7 @@ hash = "2c70174416873c06500609531242f0f01606d70850d4a544ba598537ba7c3c63"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/fortune_front.png"
-hash = "1cc8ef46129b6b1d19ee25913bc73311b3786daade2c9eb705e5d562d874d5a0"
+hash = "6120294db87fe9145b08756017a124894f6932178d8f10b528902602952fbd0c"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/fortune_mini_backing.png"
@@ -498,7 +498,7 @@ hash = "04ab35456633cd4e522cc63378bb8b7e3ce9efc3637429c23e56e76eae4e14dd"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/fortune_mini_front.png"
-hash = "be9c73e9b87f73ea81956d245f36d150915fe8afbd41b990d1d14a66f57c96ca"
+hash = "9f85c2a2704a478316899cf99d8466036007e2584375072cf06aa829b594fc75"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/textures/gui/shards/hermit_backing.png"

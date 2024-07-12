@@ -1,7 +1,12 @@
-version:3700
+version:3953
 darkMojangStudiosBackground:true
 skipMultiplayerWarning:true
 joinedFirstServer:true
+tutorialStep:none
 key_key.advancements:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.right.alt
 key_dancerizer.keybind.taunt:key.keyboard.i
+key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.unknown
+key_key.unhingedcarnivalsupplies.action:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown

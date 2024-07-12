@@ -1375,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "450071f0c48cb90896651a93a013a46232d755ea6adefa749ac84f2f61b29b61"
+hash = "9fdf477c76ad7f40197f88d5a49727c9d30d42d9b8b2eab32141651b7fb56892"
 
 [[files]]
 file = "server-icon.png"

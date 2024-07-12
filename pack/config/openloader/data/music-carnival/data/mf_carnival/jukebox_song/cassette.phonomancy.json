@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "mf_carnival:cassette.phonomancy"
+  },
+  "description": {
+    "translate": "jukebox_song.mf_carnival.phonomancy.desc"
+  },
+  "length_in_seconds": 196.0,
+  "comparator_output": 15
+}

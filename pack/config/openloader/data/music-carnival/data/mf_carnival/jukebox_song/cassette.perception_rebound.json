@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "spirit_vector:music.perception_rebound.loop"
+  },
+  "description": {
+    "translate": "jukebox_song.mf_carnival.perception_rebound.desc"
+  },
+  "length_in_seconds": 208.0,
+  "comparator_output": 15
+}

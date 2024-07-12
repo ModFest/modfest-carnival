@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "spirit_vector:item/cassette.take_break"
+  },
+  "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "mf_carnival:item/cassette.sky_lantern"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "mf_carnival:item/cassette.fratricide"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "mf_carnival:item/cassette.perception_rebound"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "mf_carnival:item/cassette.sky_lantern"
+		}
+	]  
+}

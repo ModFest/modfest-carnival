@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mf_carnival:item/cassette.perception_rebound"
+  }
+}

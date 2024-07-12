@@ -1,0 +1,10 @@
+{
+  "sound_event": {
+    "sound_id": "spirit_vector:music.fratricide.loop"
+  },
+  "description": {
+    "translate": "jukebox_song.mf_carnival.fratricide.desc"
+  },
+  "length_in_seconds": 62.0,
+  "comparator_output": 15
+}

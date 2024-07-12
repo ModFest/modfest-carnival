@@ -293,12 +293,32 @@ file = "config/openloader/data/mirthdew_carnival_datapack/pack.mcmeta"
 hash = "a8d766d41da4ee5bf84cbac67465e1b8b0dcf267985e65fba94660d7c9f185b8"
 
 [[files]]
+file = "config/openloader/data/music-carnival/data/mf_carnival/jukebox_song/cassette.fratricide.json"
+hash = "0f567ec12ecc3c8ef166e89c6a239e7050b8ae9b5d0dad5545331455c7583d43"
+
+[[files]]
+file = "config/openloader/data/music-carnival/data/mf_carnival/jukebox_song/cassette.perception_rebound.json"
+hash = "44b65f6372a7efd1f9a9ba8e5390a039ca8bc14105a7454eb76bdf21a91e6676"
+
+[[files]]
+file = "config/openloader/data/music-carnival/data/mf_carnival/jukebox_song/cassette.phonomancy.json"
+hash = "6e17a767cb3da419484a3e766cc54efaf856638b6a489806518c072b124b28e5"
+
+[[files]]
+file = "config/openloader/data/music-carnival/data/mf_carnival/jukebox_song/cassette.sky_lantern.json"
+hash = "c0b07882d1d29ac46fb9327e2feb95e9e541f265f5e17903c48eddb252e44822"
+
+[[files]]
 file = "config/openloader/data/music-carnival/data/mf_carnival/jukebox_song/phonomancy.json"
 hash = "2730eba282714047fe0cdfbb63281f8db7b6540ef737a79eb60d67053b64948f"
 
 [[files]]
 file = "config/openloader/data/music-carnival/data/mf_carnival/jukebox_song/sky_lantern.json"
 hash = "8f5a1390b9d548fc76a657502db1650399f0a212820ed8f7c492c1f346add655"
+
+[[files]]
+file = "config/openloader/data/music-carnival/data/spirit_vector/tags/jukebox_looping.json"
+hash = "2eb3ce6c08dfb899413158542f6d0177b177f0f15c686ef567f15bf297498894"
 
 [[files]]
 file = "config/openloader/data/music-carnival/pack.mcmeta"
@@ -323,6 +343,14 @@ hash = "74db427df505f2d9cd5f97fce9b28b31c7abd8d9179c0fd1629c1760692b75f4"
 [[files]]
 file = "config/openloader/resources/custom-carts/pack.mcmeta"
 hash = "07dc2b86b17788f0de6c479f21ed027745a74eb310fbad35bf773e63cf5e25db"
+
+[[files]]
+file = "config/openloader/resources/dancerizer-extra/assets/animations/idle/sitting.json"
+hash = "0d4a1ce139bef537389a3c622283f2156ed49f725843ed04a507041ba90a812a"
+
+[[files]]
+file = "config/openloader/resources/dancerizer-extra/pack.mcmeta"
+hash = "42a58550be4778d9c495708becc571a26f6171994eef54cd47036ed03f3ae9f9"
 
 [[files]]
 file = "config/openloader/resources/dancerizer_resourcepack.zip"
@@ -538,11 +566,27 @@ hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
 
 [[files]]
 file = "config/openloader/resources/music-carnival/assets/mf_carnival/lang/en_us.json"
-hash = "ee1d1c1b04a0c81fe8901e80b02a8dd071d374e32e3bc0b3075a994b771ecb3e"
+hash = "a98c832c7c8733b7c97d63747cda0984b309c32d7fcf69677289a8be7b45cc27"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/models/item/cassette.fratricide.json"
+hash = "f3ae6f8043cd39d5a92391f0f65b13cffb9b58e91cf5e7d7ddfdf352a2449011"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/models/item/cassette.perception_rebound.json"
+hash = "ac46d7a655ef90a4c10140b3dde8d2399bef2941c4f8af68adc27d1d9ff5924a"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/models/item/cassette.phonomancy.json"
+hash = "6dfe483818c1d4081e814816d4470629b804e6e1d211721c368d8042d2c161db"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/models/item/cassette.sky_lantern.json"
+hash = "6d123f7dce47a634cf22924ac01f0e50b847711a2be3e277a903561a4bcb06fc"
 
 [[files]]
 file = "config/openloader/resources/music-carnival/assets/mf_carnival/sounds.json"
-hash = "07a15101111934d02db6cc8be4e5e18507561fe6246b61d396b0c4807e2516bf"
+hash = "2236b3d15d6511d5e6f39b16858a6f51aaeaebf0a743245bcf56b6e10e7186fd"
 
 [[files]]
 file = "config/openloader/resources/music-carnival/assets/mf_carnival/sounds/phonomancy.ogg"
@@ -551,6 +595,26 @@ hash = "781a5be5dc82b5c39a6557ceea3f5ea9ecf1d5216f2a35ac600307dca45e8bf0"
 [[files]]
 file = "config/openloader/resources/music-carnival/assets/mf_carnival/sounds/sky_lantern.ogg"
 hash = "71df1d3c7375a2f7c7f8ab423fb097f0d858d6c7570cbe519e20cb99bbca5ac3"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/textures/item/cassette.fratricide.png"
+hash = "bd342feeabf72cd300c3092a6c4c1f951d2e913791e09d4c23986b1a567bbb0a"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/textures/item/cassette.perception_rebound.png"
+hash = "d98d9df8f127b0674f11977808386b7f705bbb479af0ed1b52959dae089430ae"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/textures/item/cassette.phonomancy.png"
+hash = "a580639f85d8021255197f2cb2865e58fb6620900369dbc9e1c3f3d94dc4ccf8"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/mf_carnival/textures/item/cassette.sky_lantern.png"
+hash = "0e081d398277f64b1df4122e50ed8ecb4b0b023f3bba0ca15c12b8e77006f2b5"
+
+[[files]]
+file = "config/openloader/resources/music-carnival/assets/spirit_vector/models/item/cassette.take_break.json"
+hash = "aae92d89d67bb5280b85f7e0ff7e4fbfe92e38e3116d798ce78a7cbdf30e3970"
 
 [[files]]
 file = "config/openloader/resources/music-carnival/pack.mcmeta"

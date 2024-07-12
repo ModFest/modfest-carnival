@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mf_carnival:cassette.phonomancy",
+	"mf_carnival:cassette.sky_lantern",
+	"spirit_vector:music.perception_rebound.loop",
+	"spirit_vector:music.fratricide.loop"
+  ]
+}

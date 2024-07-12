@@ -1,0 +1,21 @@
+{
+  "name": [
+    {
+      "type": "translatable",
+      "translate": "npc.mf_carnival.hama.name"
+    }
+  ],
+  "title": [
+    {
+      "type": "translatable",
+      "translate": "npc.mf_carnival.hama.title"
+    }
+  ],
+  "skin": {
+    "texture": "mf_carnival:textures/entity/npc/hama.png",
+    "hasSlimArms": true
+  },
+  "action": {
+    "action": "crypt-mimic:close"
+  }
+}

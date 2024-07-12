@@ -177,6 +177,54 @@ file = "config/openloader/data/hookaduck_datapack.zip"
 hash = "92383d4012a7d81a06a4c76701fd37d1931d6dbe821cf434689e6fbb679ed5ae"
 
 [[files]]
+file = "config/openloader/data/mib_showcase_data/data/mib/crypt-mimic/dialog/dialog_0.json"
+hash = "028f03f9ff4fc164163b5fc4ee6083e891e8b1a8fdc5ac187fd3e9e49ca70b02"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/data/mib/crypt-mimic/dialog/dialog_1.json"
+hash = "3015619e8cb91cd6e8dfb85c0e31f0a83e0979b3a2613c65776b313f7463efef"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/data/mib/crypt-mimic/dialog/dialog_2.json"
+hash = "16e6691402d38ad588ad8c4455aca5de567db264f7038f7587097485008b9c88"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/data/mib/crypt-mimic/dialog/dialog_3.json"
+hash = "2b604c7b3fda4306c0ac78f3a87be9de16cade2f0a73e5b9fc69483a7907a806"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/data/mib/crypt-mimic/dialog/dialog_4.json"
+hash = "5990c23fce32d301c1f6ddf604fec6ab48adf2501f6040b30b1b9f4227642d73"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/data/mib/crypt-mimic/dialog/dialog_5.json"
+hash = "54740689b17d7511e919785e2966232ca9116b801806fd0532c0e0eda2c7024d"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/data/mib/crypt-mimic/dialog/dialog_6.json"
+hash = "517948243916c4008e4d822acd31b6edc298428df6d4c150212a94452b1250cf"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/data/mib/crypt-mimic/dialog/dialog_7.json"
+hash = "cc86bc311e554869a60c6e4084c1536109389d725ecd128fee381c54f1dd8fe3"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/data/mib/crypt-mimic/npc/ashley_vivian.json"
+hash = "92fef58f3370e655b6fd09ec577d838a3b577601d32c2207ff6d9e5d97b1fcaa"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/data/mib/function/bad_apple.mcfunction"
+hash = "4019fddbd1b9714588b29749a37f0b0cde8813b7438b4d42d20aea0161daf5f2"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/pack.mcmeta"
+hash = "6d4bd142a1e8ef885b46007c3867c5739139eeb2fb3727aca742cab6f4aa0c1d"
+
+[[files]]
+file = "config/openloader/data/mib_showcase_data/pack.png"
+hash = "389674a0c83fa700d9889b62a17a9adfcd6248796473305d9bd5e255f6b4eebc"
+
+[[files]]
 file = "config/openloader/data/mirthdew_carnival_datapack/data/mf_carnival/mirthdew_encore/card_spell/apply_dreamy_diet.json"
 hash = "0a5e9f5649b18e41b30e1f376e456771fda6bc65274ca5365027062fc5d22217"
 
@@ -287,6 +335,18 @@ hash = "ce276a99c1a727590db582a46d4e21303541ee9c4f9c1316840f6c1836394a13"
 [[files]]
 file = "config/openloader/resources/hookaduck_resourcepack.zip"
 hash = "eeb7dc1a9b376cf48d24c2ff45d0eb3fc12e2c85b4462e5b4becc1fa06db1f68"
+
+[[files]]
+file = "config/openloader/resources/mib_showcase_assets/assets/mib/textures/entity/npc/ashleyvivian.png"
+hash = "5cbf0565e9545342ff21b986b5f56809f54472fa5a3b1c93da0a827cca449046"
+
+[[files]]
+file = "config/openloader/resources/mib_showcase_assets/pack.mcmeta"
+hash = "0086dd23f94564d5bb073419998d66f999839c7222c04d6b73022dbbe81f05b5"
+
+[[files]]
+file = "config/openloader/resources/mib_showcase_assets/pack.png"
+hash = "389674a0c83fa700d9889b62a17a9adfcd6248796473305d9bd5e255f6b4eebc"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"

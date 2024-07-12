@@ -1,0 +1,9 @@
+{
+    "text": "I couldn't bring everything I wished to bring over unfortunately, but I hope you enjoy the time spent here.",
+    "actions": [
+        {
+            "action": "crypt-mimic:show_dialog",
+            "value": "mib:dialog_3"
+        }
+    ]
+}

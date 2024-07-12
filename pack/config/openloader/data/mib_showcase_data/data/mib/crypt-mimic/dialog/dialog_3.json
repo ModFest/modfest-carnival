@@ -1,0 +1,9 @@
+{
+    "text": "The merchant at home didn't actually supply me with everything. She may have decided to use this as an opportunity for money... That's Ava for you.",
+    "actions": [
+        {
+            "action": "crypt-mimic:show_dialog",
+            "value": "mib:dialog_4"
+        }
+    ]
+}

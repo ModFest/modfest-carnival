@@ -1,0 +1,13 @@
+{
+    "name": "Ashley-Vivian",
+    "title": "Travelling Bard of the Flame",
+    "skin": {
+      "texture": "mib:textures/entity/npc/ashleyvivian.png",
+      "hasSlimArms": true
+    },
+    "action": {
+      "action": "crypt-mimic:show_dialog",
+      "value": "mib:dialog_0"
+    }
+  }
+  

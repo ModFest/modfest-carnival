@@ -1,0 +1,9 @@
+{
+    "text": "Well with that out of the way, I'll explain a little bit about the ideas behind Mib.",
+    "actions": [
+        {
+            "action": "crypt-mimic:show_dialog",
+            "value": "mib:dialog_5"
+        }
+    ]
+}

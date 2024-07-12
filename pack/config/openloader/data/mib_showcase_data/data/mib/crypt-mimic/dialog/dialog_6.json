@@ -1,0 +1,9 @@
+{
+    "text": "Mib adds generic instruments that other modders can extend to add new functionality to them.",
+    "actions": [
+        {
+            "action": "crypt-mimic:show_dialog",
+            "value": "mib:dialog_7"
+        }
+    ]
+}

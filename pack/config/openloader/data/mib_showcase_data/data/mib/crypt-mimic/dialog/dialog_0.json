@@ -1,0 +1,9 @@
+{
+    "text": "Hello! Welcome to my humble stage.",
+    "actions": [
+        {
+            "action": "crypt-mimic:show_dialog",
+            "value": "mib:dialog_1"
+        }
+    ]
+}

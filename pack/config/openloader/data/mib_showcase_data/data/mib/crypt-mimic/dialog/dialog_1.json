@@ -1,0 +1,9 @@
+{
+    "text": "I am Ashley-Vivian, a travelling bard from a distant land.",
+    "actions": [
+        {
+            "action": "crypt-mimic:show_dialog",
+            "value": "mib:dialog_2"
+        }
+    ]
+}

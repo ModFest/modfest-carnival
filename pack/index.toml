@@ -822,7 +822,7 @@ hash = "b3debf35f716cbd4f8975b80a80dd7d6246b1b36dad0d6075e637cc440eafca8"
 
 [[files]]
 file = "config/quickerconnectbutton.json5"
-hash = "aa510913d076c7cd4b2911d33ee3691cf01081aa4c64c531cad14f9cc6b82d6d"
+hash = "ce082f2a695976b30b61f16e29b357489e4be36b1b84063d666f70c9889b389f"
 
 [[files]]
 file = "config/roles.json"

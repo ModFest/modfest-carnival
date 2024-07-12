@@ -325,6 +325,14 @@ file = "config/openloader/data/music-carnival/pack.mcmeta"
 hash = "cc552bb18a338c62ce72646046e22c65a8e86f089cc15867b8bb28777ff55a98"
 
 [[files]]
+file = "config/openloader/data/npcs-carnival/data/mf_carnival/crypt-mimic/npc/hama.json"
+hash = "35810dbc249fbfc36f6751582beae98f3cfbebaefa0a4dd91b7cbb40f76957de"
+
+[[files]]
+file = "config/openloader/data/npcs-carnival/pack.mcmeta"
+hash = "25769b975d78367c7edda9a5e0b67afc31458b2a6954471517310dbd222b0d01"
+
+[[files]]
 file = "config/openloader/data/shards-carnival/data/mf_carnival/shard_type/mf_carnival.json"
 hash = "8bbfba202cf05320fa778fab49b52eab0758ea851f508227f91b7b819bc226b5"
 
@@ -566,7 +574,7 @@ hash = "9e13095c4f32c4a83bb81f974190f5439f982f84568540fb73a43cfa2e3847be"
 
 [[files]]
 file = "config/openloader/resources/music-carnival/assets/mf_carnival/lang/en_us.json"
-hash = "a98c832c7c8733b7c97d63747cda0984b309c32d7fcf69677289a8be7b45cc27"
+hash = "c4b2141158253887b095db0228746334f690e7195e3d0ae321000fc9c77f6bdb"
 
 [[files]]
 file = "config/openloader/resources/music-carnival/assets/mf_carnival/models/item/cassette.fratricide.json"
@@ -619,6 +627,18 @@ hash = "3d8381c0b000a6e3fe2aa7bad4357643ae60714140ccffbc399bb6a12717d71c"
 [[files]]
 file = "config/openloader/resources/music-carnival/pack.mcmeta"
 hash = "702656e3e4adccacb6536f399c7c47abe2fcb3895d8eb9e8a4f31625708eb311"
+
+[[files]]
+file = "config/openloader/resources/npcs_modfest/assets/mf_carnival/lang/en_us.json"
+hash = "5c9a857656279b10577a3553818484a5b7be9c0f57b436af2e9695ae17b04b91"
+
+[[files]]
+file = "config/openloader/resources/npcs_modfest/assets/mf_carnival/textures/entity/npc/hama.png"
+hash = "6557ac43d947d89d50ca059273c976be6ce1c9a7c5f1b98d57732ee9bcdba6ff"
+
+[[files]]
+file = "config/openloader/resources/npcs_modfest/pack.mcmeta"
+hash = "e405af18b8d3ec1695659ef64d5aa30993350b8b1c843a199c4a9f5a89ade85d"
 
 [[files]]
 file = "config/openloader/resources/shards-carnival/assets/mf_carnival/lang/en_us.json"

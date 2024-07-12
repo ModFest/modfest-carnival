@@ -4,3 +4,4 @@ skipMultiplayerWarning:true
 joinedFirstServer:true
 key_key.advancements:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.right.alt
+key_dancerizer.keybind.taunt:key.keyboard.i

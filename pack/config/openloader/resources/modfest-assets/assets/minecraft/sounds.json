@@ -1,0 +1,11 @@
+{
+  "music.menu": {
+	"replace": true,
+    "sounds": [
+      {
+        "name": "mf_carnival:sky_lantern",
+        "stream": true
+      }
+    ]
+  }
+}

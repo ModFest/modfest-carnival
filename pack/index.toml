@@ -349,6 +349,38 @@ file = "config/openloader/resources/mib_showcase_assets/pack.png"
 hash = "389674a0c83fa700d9889b62a17a9adfcd6248796473305d9bd5e255f6b4eebc"
 
 [[files]]
+file = "config/openloader/resources/modfest-assets/assets/carnival-cuisine/textures/block/burger.png"
+hash = "9e28c93722dbdaad7ceabbd051c5e2ffb896da7986345921be307d4d5da6f51f"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/sounds.json"
+hash = "ebeae4c2432985626b9225cd706b156551c19a326a978ec0bcb1350fa3ceef94"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "25b18ebcfb656a045c5ff80ef95a89f3cc2d11c6f3021e21998003fcaf50c303"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "7c9e77aaf16578469b821ab84d89a511b04f3391348b5fab4be722b604187462"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "6b483dd48c30da9c1772cc68eea1f5596decb7c13d8abb70e6903c5922c3fc54"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "03a13c1bc99bbffb3de42178bed891c17fda0418a66140c5b02a38293faee51d"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "e8c2858ec5d4ca7751f504d78b5d7aad9329c16ff31228a8fb7a03005a992bd5"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "19b09a9018aed7ca3c0c022191eed8ca23d796363ebe1033e7c92f92e6c26567"
+
+[[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"
 hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
 
@@ -755,6 +787,11 @@ hash = "8d274a67c59da4e419a9a8f4f77b5964f9d74ca34bc72058b8d220660465ceca"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
+metafile = true
+
+[[files]]
 file = "mods/armorstandeditor.pw.toml"
 hash = "834b61193f4e49e342b5ebc9d67da615313c0eaa9a221aaa7a1025ec4211d309"
 metafile = true
@@ -965,6 +1002,11 @@ hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "82f3eb78b1c9895044d08b3563e5bf0267b39326120be615398a259873cd1242"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "950fa2f1932db70d0173ba4867a4944d84113215f7f4bb984378cfff26719151"
 metafile = true
@@ -1082,6 +1124,11 @@ metafile = true
 [[files]]
 file = "mods/pulchra-occultorum.pw.toml"
 hash = "58fc6f14196005b32db1bfb5f1f72f6d2bae663b0f5ac2496422a4508b186ef8"
+metafile = true
+
+[[files]]
+file = "mods/quicker-connect-button.pw.toml"
+hash = "376d847e5630827e2b3d0d5acc306f154e4b7045bea57a0357afcc80297d1e9d"
 metafile = true
 
 [[files]]
@@ -1231,3 +1278,7 @@ hash = "2c8ebdfd9bcfb593c8905b44103d558751e135897c8ec909393d8d317e3eb9d5"
 [[files]]
 file = "server-icon.png"
 hash = "b78e8678a79b7b053600eff0cc58fbf3ff9a8dc7b096f47ec15b66331c21e996"
+
+[[files]]
+file = "servers.dat"
+hash = "f873673d8dbf69500c8393feb19b538ae386e7b9ab3574bb8e6b58c9e2af5b18"

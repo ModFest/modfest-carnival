@@ -821,6 +821,10 @@ file = "config/picturesign.json"
 hash = "b3debf35f716cbd4f8975b80a80dd7d6246b1b36dad0d6075e637cc440eafca8"
 
 [[files]]
+file = "config/quickerconnectbutton.json5"
+hash = "aa510913d076c7cd4b2911d33ee3691cf01081aa4c64c531cad14f9cc6b82d6d"
+
+[[files]]
 file = "config/roles.json"
 hash = "16dd1fa442a32b0e6dafe6e228540b7f93f33e949460939102b1f57b25dc4c42"
 

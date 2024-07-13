@@ -904,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballotbox.pw.toml"
-hash = "c80a43acc210bf7e7a657962c07c21ffc465d7d490846db175d48efd650ef36c"
+hash = "1ddffed7af5e399f4a9283990dcb08d4b0174f08d48dde9421b3616f6bbc5a9d"
 metafile = true
 
 [[files]]
@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-pronouns.pw.toml"
-hash = "419d8d3c7c4bb9485d69b107ec3e0858bb4d2137c7268ae4edd6490deacca5f4"
+hash = "4b0f93cc6860f26654be6fe5f474adb2dd2941d0ba0b1cc27d7ecc053644dc8e"
 metafile = true
 
 [[files]]

@@ -874,7 +874,7 @@ hash = "a7fd6cdc6838b4b99d78e36ffc7a7a6d578adbe5a957565da5715a73f0738932"
 
 [[files]]
 file = "mods/aji-maji.pw.toml"
-hash = "dc88a2c126dc32490026641fba3b8055a1db0150c25160fc6a276b3ee985c9ad"
+hash = "f0af362ce32b7d311a630edbeb5bb8b370189be06aec76254067ff9f822cf0e3"
 metafile = true
 
 [[files]]
@@ -904,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballotbox.pw.toml"
-hash = "ac3e800e2ed6b4a1d6bbdd60ccf951343dbb6bc1aaedbccedd0839aa96474941"
+hash = "c80a43acc210bf7e7a657962c07c21ffc465d7d490846db175d48efd650ef36c"
 metafile = true
 
 [[files]]
@@ -1149,7 +1149,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
+hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]

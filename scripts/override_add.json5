@@ -32,6 +32,7 @@
   {"project_id": "ears"},  // nice/chat
   {"project_id": "styled-chat"},  // nice/chat
   {"project_id": "styledplayerlist"},  // nice/chat
+  {"project_id": "player-pronouns"},  // nice/chat
   {"project_id": "simple-voice-chat"},  // nice/chat
   {"project_id": "fabrictailor"},  // nice/chat
   {"project_id": "spawnanywhere"} // nice/util

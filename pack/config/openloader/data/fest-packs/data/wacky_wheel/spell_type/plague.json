@@ -1,0 +1,8 @@
+{
+    "name": "Plague",
+    "titleColor": "#00FF00",
+    "flavorText": "Please remember to social distance.",
+    "itemID": "minecraft:poisonous_potato",
+    "castingTime": 20,
+    "onCastFunction": "plague"
+  }

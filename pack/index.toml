@@ -65,6 +65,10 @@ file = "config/openloader/data/fest-packs/data/wacky_wheel/function/free_tokens.
 hash = "f08dbc47246ef1fb6646ede232eb8403dd38a131cd1488d44cbddf853c7ca8be"
 
 [[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/god_mode.mcfunction"
+hash = "ec40d78a840b069a4d19d3d8a6935d362cdaa8c9a8ae0af734580b2b639fb42e"
+
+[[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/function/honk.mcfunction"
 hash = "c4dae8981fb83c33799a13561e5c1351dc2158118637232dc70f643bf8d473f3"
 
@@ -79,6 +83,10 @@ hash = "b0051d3d5154348316cfdfc9ba30abcfc2646a7c973a7e825a9ceb6a06af0786"
 [[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/function/pipe_bomb.mcfunction"
 hash = "635dc0e0ebfe3d6751905373ad2340876af0e1134c600a3fe185fe957e4df938"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/function/plague.mcfunction"
+hash = "e376d9f37904c9524fbe59f3eed8258173d163ef4e00bffb49807ab49a90673b"
 
 [[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/function/pokemon_bob.mcfunction"
@@ -151,6 +159,10 @@ hash = "80fbd2c731b735af8814f71b2c0003b4bc2d44d14240870af201d15a3f9b08cb"
 [[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/pipe_bomb.json"
 hash = "32f07de877c4fc9e622b64e7b1930bd12a51928c11bd2da77fe67057fb5eb91f"
+
+[[files]]
+file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/plague.json"
+hash = "c4603cf8a7938febdb8769c8b374b950b8624cf159a001e8d3fc003d07585368"
 
 [[files]]
 file = "config/openloader/data/fest-packs/data/wacky_wheel/spell_type/pokemon_bob.json"

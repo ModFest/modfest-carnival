@@ -1,12 +1,12 @@
 name = "Modfest: Carnival"
 author = "ModFest"
-version = "0.22.0"
+version = "0.22.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b96a4dfc7d8386bcfffa811d5e2dac69cd273d84c42f2f13909bd67edcb5766b"
+hash = "77973422a619e74265f01ad24c5eedbd05b84c0d3b36a923057359abec27d8d9"
 
 [versions]
 fabric = "0.15.11"

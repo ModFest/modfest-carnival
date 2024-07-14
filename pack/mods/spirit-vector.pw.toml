@@ -1,13 +1,13 @@
 name = "Dream Burst Spirit Vector"
-filename = "spirit_vector-1.5.8.jar"
+filename = "spirit_vector-1.5.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vT1MJIWD/versions/H6rB6F7X/spirit_vector-1.5.8.jar"
+url = "https://cdn.modrinth.com/data/vT1MJIWD/versions/pmGe6xTq/spirit_vector-1.5.9.jar"
 hash-format = "sha1"
-hash = "03f8b2dba920c061a67fcb990f0483b77385241e"
+hash = "a38f079263fb553d0816ade3c2918f8534b7c761"
 
 [update]
 [update.modrinth]
 mod-id = "vT1MJIWD"
-version = "H6rB6F7X"
+version = "pmGe6xTq"

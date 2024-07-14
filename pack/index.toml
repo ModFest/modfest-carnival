@@ -891,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarong.pw.toml"
-hash = "8d274a67c59da4e419a9a8f4f77b5964f9d74ca34bc72058b8d220660465ceca"
+hash = "42aaae910f6478e3e1574d4acc3093b8cd0def0b5aa3196ada1dd126ca017982"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "947c63ea5ef39acffd205eb16ff3f92f09cca88503def799ab4f814b3de9e46f"
+hash = "8dff71c2fa97a7846c565c934ff5034655343dde1032d1aa379dcfce6df27915"
 metafile = true
 
 [[files]]
@@ -1291,7 +1291,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "35c9440f130773b76b9274790aa1337000b74584a532511438687cf4029a6572"
+hash = "5b651dfd06148ed17cf3a909fb1dbdcd1291b295a4ea802160fc548950649110"
 metafile = true
 
 [[files]]
@@ -1366,7 +1366,7 @@ metafile = true
 
 [[files]]
 file = "mods/wheel-of-wacky.pw.toml"
-hash = "6550415da834c485d59d37cbf3741c4d2865e435a41e8270d0aedc1cf1ec5500"
+hash = "20da0a07261183d3a40f2e74dccf79e9f84eb2fa7af0a3226c2678407f650f3e"
 metafile = true
 
 [[files]]

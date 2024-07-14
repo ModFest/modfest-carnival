@@ -1006,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/crystal-fortunes.pw.toml"
-hash = "b829de8b3bb8d4bd9176a338013b15c0c1b5c5d4f0dbb914770887b25453ac01"
+hash = "afcd42a4f5a6e2247e19d42128ae23668fc318d06ec24b7bb5e23a29ce6cc9cf"
 metafile = true
 
 [[files]]
@@ -1051,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
 metafile = true
 
 [[files]]
@@ -1086,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
-hash = "76bfc679fe59262210fc106f072b0f1e389536e3216a94e1816e0d57d4f86e97"
+hash = "5976f63059e2506bd240c9630b630921e93126249ba95fe9e62f70ed48a3db27"
 metafile = true
 
 [[files]]
@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-fun-allowed.pw.toml"
-hash = "8666e34e47f702404f8514f812512d7caa236c1d3b6541330eba61c8b8cbdf9d"
+hash = "e28fe7d745c425ba093eeb73b77042a70be0da89a6fd48d48c22edd46066d309"
 metafile = true
 
 [[files]]
@@ -1226,7 +1226,7 @@ metafile = true
 
 [[files]]
 file = "mods/powerchord.pw.toml"
-hash = "ec36278e526c82d804c42ff3c96ef93e45da4dc9b08fe4cc2fb69ed3752e1ed3"
+hash = "bfb328acc62f7e3cc2f650b3ddfce0ec0fd57d96adf0b6fd35c1a74ea98b314f"
 metafile = true
 
 [[files]]
@@ -1291,7 +1291,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "5b651dfd06148ed17cf3a909fb1dbdcd1291b295a4ea802160fc548950649110"
+hash = "ada75641fa97a4304920d9894b9df8843ee6dfdc1b39e6739d7cc64729b3a25e"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "no fun allowed"
-filename = "nofunallowed-1.0.jar"
+filename = "nofunallowed-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E5ro6j6i/versions/6bbCFWII/nofunallowed-1.0.jar"
+url = "https://cdn.modrinth.com/data/E5ro6j6i/versions/fSLgT58D/nofunallowed-1.0.1.jar"
 hash-format = "sha1"
-hash = "dece9d55c27133e535dc90f59f86ee5deac764c5"
+hash = "a87b712ff2196e2d840c178fe6678a494e231f2b"
 
 [update]
 [update.modrinth]
 mod-id = "E5ro6j6i"
-version = "6bbCFWII"
+version = "fSLgT58D"

@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballotbox.pw.toml"
-hash = "1ddffed7af5e399f4a9283990dcb08d4b0174f08d48dde9421b3616f6bbc5a9d"
+hash = "b25520a5ff965a4d5a91a0aba659a4d879bcb7a2490dd871f75371205f009e12"
 metafile = true
 
 [[files]]
@@ -1086,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
-hash = "5976f63059e2506bd240c9630b630921e93126249ba95fe9e62f70ed48a3db27"
+hash = "24abc9eac0f2949325b899a5ffff916d00481226354bca4f5db72ff400cae1a2"
 metafile = true
 
 [[files]]

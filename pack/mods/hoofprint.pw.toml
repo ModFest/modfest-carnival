@@ -1,13 +1,13 @@
 name = "Hoofprint"
-filename = "hoofprint-0.5.1+1.21.jar"
+filename = "hoofprint-0.5.2+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8O6iJpuJ/versions/EeHdyJiT/hoofprint-0.5.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/8O6iJpuJ/versions/Eufq7TiR/hoofprint-0.5.2%2B1.21.jar"
 hash-format = "sha1"
-hash = "3a05646f7542452caeb8ee0ee63b797f8b6a6bd2"
+hash = "4a9de179584b15f088d2f978f53816fcff21cc87"
 
 [update]
 [update.modrinth]
 mod-id = "8O6iJpuJ"
-version = "EeHdyJiT"
+version = "Eufq7TiR"

@@ -1076,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowcase.pw.toml"
-hash = "077fb5a9de64880e5342917d7413c5dd21a12ca73d7ba0fbe5697381101110d0"
+hash = "573a37f0a38f5503592091e98be0e67bfd764500715ac6098cdaf5714895d1a0"
 metafile = true
 
 [[files]]

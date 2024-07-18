@@ -365,7 +365,7 @@ file = "config/openloader/resources/Unsanded-1.1.1-custom.zip"
 hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
 
 [[files]]
-file = "config/openloader/resources/carnival-patches/assets/carnival/lang/en_us.json"
+file = "config/openloader/resources/carnival-patches/assets/extravaganza/lang/en_us.json"
 hash = "2ad514168e9e277690e1b9ef8857916642db88d9d981cd932a2c194883520c52"
 
 [[files]]

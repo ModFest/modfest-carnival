@@ -365,6 +365,14 @@ file = "config/openloader/resources/Unsanded-1.1.1-custom.zip"
 hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
 
 [[files]]
+file = "config/openloader/resources/carnival-patches/assets/carnival/lang/en_us.json"
+hash = "2ad514168e9e277690e1b9ef8857916642db88d9d981cd932a2c194883520c52"
+
+[[files]]
+file = "config/openloader/resources/carnival-patches/pack.mcmeta"
+hash = "09283c65e94a8cc557a6206b80ef51c17713fee5a04068e84f1dbf99664da26b"
+
+[[files]]
 file = "config/openloader/resources/custom-carts/assets/textures/entity/minecart/tiny_potato_cart.png"
 hash = "74db427df505f2d9cd5f97fce9b28b31c7abd8d9179c0fd1629c1760692b75f4"
 

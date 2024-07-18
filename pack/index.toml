@@ -1014,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "mods/crystal-fortunes.pw.toml"
-hash = "afcd42a4f5a6e2247e19d42128ae23668fc318d06ec24b7bb5e23a29ce6cc9cf"
+hash = "7a09ab4a4518c3bf12982055e7404fa91895cf5635d6096e6e6bc89ac534f40e"
 metafile = true
 
 [[files]]
@@ -1299,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "ada75641fa97a4304920d9894b9df8843ee6dfdc1b39e6739d7cc64729b3a25e"
+hash = "8be52dff9743a7402927cf149dae46130b2cc65ec62994ece26445aab4a4cf59"
 metafile = true
 
 [[files]]
@@ -1334,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrific-tickets.pw.toml"
-hash = "efcb120c6e66d226217ecaee7f156c78de7382cdad962bd9552270d449c29c9a"
+hash = "f7165934ea23b73f02036a49b67280244ef0ea0fe7804db1279e12a05d4db9ac"
 metafile = true
 
 [[files]]
@@ -1384,7 +1384,7 @@ metafile = true
 
 [[files]]
 file = "mods/wowozela.pw.toml"
-hash = "06c2997cc707cdf24b1fe55b3b1145e3b5f6a96e3f483626f78383a08710ef46"
+hash = "7e4e6be8853da46f242150b604f65a59d00bf892b195c4f82654fe40b6c5516c"
 metafile = true
 
 [[files]]

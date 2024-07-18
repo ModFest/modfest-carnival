@@ -1,13 +1,13 @@
 name = "Terrific Tickets"
-filename = "terrifictickets-1.0.0+1.21.jar"
+filename = "terrifictickets-1.1.0+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1ayQdcpc/versions/cgskmsSc/terrifictickets-1.0.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/1ayQdcpc/versions/jY5zEms1/terrifictickets-1.1.0%2B1.21.jar"
 hash-format = "sha1"
-hash = "e53a45ce421e53d392042c20bc6bf9ec62ec58ad"
+hash = "62e7039f193c202b0bfed696bb8b4ab8c81dd7f2"
 
 [update]
 [update.modrinth]
 mod-id = "1ayQdcpc"
-version = "cgskmsSc"
+version = "jY5zEms1"

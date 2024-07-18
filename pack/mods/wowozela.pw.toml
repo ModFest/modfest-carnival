@@ -1,13 +1,13 @@
 name = "Wowozela"
-filename = "wowozela-1.0.1+modfest.jar"
+filename = "wowozela-1.0.2+modfest.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IrWit47r/versions/qYKkVO9D/wowozela-1.0.1%2Bmodfest.jar"
+url = "https://cdn.modrinth.com/data/IrWit47r/versions/IvMf0eyf/wowozela-1.0.2%2Bmodfest.jar"
 hash-format = "sha1"
-hash = "fe5a4a8c7b3bfd6a6330bb227a34c1f80df7a339"
+hash = "7dc42cd78e6030e34b1fd1c25ed4d96d926fa06b"
 
 [update]
 [update.modrinth]
 mod-id = "IrWit47r"
-version = "qYKkVO9D"
+version = "IvMf0eyf"

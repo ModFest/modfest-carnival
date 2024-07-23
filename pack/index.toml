@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ballotbox.toml"
+hash = "542d09ff2bd35c93d3376b71d1f37330cbf92e272fa2c2b2de9c4175526f7da1"
+
+[[files]]
 file = "config/dancerizer.toml"
 hash = "b6bcad9ed888d80f5ff8e691903a9aa3744d8db8d8082efbce654ec7a24e8e00"
 
@@ -904,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
 
 [[files]]
@@ -924,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballotbox.pw.toml"
-hash = "b25520a5ff965a4d5a91a0aba659a4d879bcb7a2490dd871f75371205f009e12"
+hash = "b375d0a6ba51bc97598203909143d8d0d4971d7b4784d1e306d9a7146b69c9f1"
 metafile = true
 
 [[files]]
@@ -949,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "ccab33cb420e850a0a3003632a2a7bc9e00b07d167d4f8a4c84dc2575611acad"
+hash = "8d3a73c7560528d03702aa42746a89990f7ddc255c7070e889fdc938ee264872"
 metafile = true
 
 [[files]]
@@ -979,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
+hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
 
 [[files]]
@@ -1079,7 +1083,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "39c4f5bf40f5caa80717972f6ba98bbbe404267031cdd268a3a7354568dcb305"
+hash = "07312ad2b193c1a5349500cd30e3db2125644a28b1adaf8fcda82016405c8b32"
 metafile = true
 
 [[files]]
@@ -1214,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "2661599c537d494d1b7bf2aaee0b64c5d80b1944dc1bf3094be1db93f860783b"
+hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
 
 [[files]]
@@ -1249,7 +1253,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
+hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
 metafile = true
 
 [[files]]
@@ -1289,7 +1293,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawnanywhere.pw.toml"
-hash = "4addf0374a6b5a61ffe92547f978923b2c77c0fe84cedf2881da34cda3ff3f58"
+hash = "c6800596d54de90d42184cba080207eae0985b332f8fd7eb2f79ba38842b8fa6"
 metafile = true
 
 [[files]]
@@ -1369,7 +1373,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "84e557ae75cc1783ef59d3671787cc5c81665f163fbb3ec3f5d28de214dc7faa"
+hash = "f4b00250499d238c56ad286c406e7d3f37118deefdc0711071bc31f66ee48c15"
 metafile = true
 
 [[files]]

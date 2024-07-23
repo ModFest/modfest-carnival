@@ -1,0 +1,19 @@
+# The event ID to use when making requests to the API
+# default: carnival
+eventId = "carnival"
+# The URL to request vote options from, with an optional event ID %s placeholder
+# default: https://platform.modfest.net/event/%s/submissions
+options_url = "https://platform.modfest.net/event/%s/submissions"
+# The text to use to replace the bug report button
+# default: Modfest Discord
+bug_text = "Modfest Discord"
+# The link to use to replace the bug report button
+# default: https://discord.gg/gn543Ee
+bug_url = "https://discord.gg/gn543Ee"
+# The number of top results to show when displaying voting results
+# default: 8
+awardLimit = 8
+# The closing date, as an ISO local date time - or an empty string for none
+# default: 2024-07-28T12:00:00
+closingTime = "2024-07-28T12:00:00"
+

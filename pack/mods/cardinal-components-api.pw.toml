@@ -1,13 +1,13 @@
 name = "Cardinal Components API"
-filename = "cardinal-components-api-6.1.0.jar"
+filename = "cardinal-components-api-6.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/K01OU20C/versions/quTFtjka/cardinal-components-api-6.1.0.jar"
+url = "https://cdn.modrinth.com/data/K01OU20C/versions/tVPYyTPV/cardinal-components-api-6.1.1.jar"
 hash-format = "sha1"
-hash = "06b64b8024aaea4b589dc860e018e45490713696"
+hash = "7cdd4ce921236d65c9c7a4d149a92aaba34a0af2"
 
 [update]
 [update.modrinth]
 mod-id = "K01OU20C"
-version = "quTFtjka"
+version = "tVPYyTPV"

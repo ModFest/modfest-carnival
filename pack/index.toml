@@ -902,9 +902,8 @@ hash = "f0af362ce32b7d311a630edbeb5bb8b370189be06aec76254067ff9f822cf0e3"
 metafile = true
 
 [[files]]
-file = "mods/amarong.pw.toml"
-hash = "42aaae910f6478e3e1574d4acc3093b8cd0def0b5aa3196ada1dd126ca017982"
-metafile = true
+file = "mods/amarong-1.0.23+grieffix+1.21.jar"
+hash = "fc73c1e36de3eacb16c2725d56ff744801bc269e93c36db3db80e5f11082d77a"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"

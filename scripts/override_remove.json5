@@ -1,4 +1,5 @@
 [
   {"project_id": "axiom"}, // post-launch
   {"project_id": "armorstandeditor"}, // post-launch
+  {"project_id": "amarong"}, // overridden
 ]

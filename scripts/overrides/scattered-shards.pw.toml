@@ -1,7 +1,7 @@
 name = "scattered-shards"
-filename = "scatteredshards-1.5.3.jar"
+filename = "scatteredshards-1.6.0+1.21.jar"
 
 [download]
-url = "https://github.com/ModFest/scattered-shards/releases/download/1.5.3-carnival/scatteredshards-1.5.3.jar"
+url = "https://github.com/ModFest/scattered-shards/releases/download/1.6.0/scatteredshards-1.6.0+1.21.jar"
 hash-format = "sha256"
-hash = "5bbd5c49b6f5f35d570045f869df93499bf60624bff32bda28237902ee63bb65"
+hash = "70ecf78f0e1eed4c7f9b1b3f144c08c655d6445db268b279c9590496c8a7bff8"

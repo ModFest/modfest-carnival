@@ -1262,7 +1262,7 @@ metafile = true
 
 [[files]]
 file = "mods/scattered-shards.pw.toml"
-hash = "6a56c0d6b9ff9898611a4c1a853b80fd4cca8bba01cacc55011480026c512504"
+hash = "3d0cccd80c85fecc6b6dbcbb38e97b7874553614eea12c2d07cffe69a9c46bbf"
 metafile = true
 
 [[files]]

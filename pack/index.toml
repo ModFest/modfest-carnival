@@ -927,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballotbox.pw.toml"
-hash = "b375d0a6ba51bc97598203909143d8d0d4971d7b4784d1e306d9a7146b69c9f1"
+hash = "7f5bd20cbb68b28527ba0e3a1b09512b76ae45b2f00eb4230c9c99ff0fd85bd6"
 metafile = true
 
 [[files]]

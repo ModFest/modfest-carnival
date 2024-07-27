@@ -1302,7 +1302,7 @@ metafile = true
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
-hash = "9e73e28e43b6d58e137ed242da3b90a308a52c8cde93d2292b5a2c710c41ee48"
+hash = "441409a44a8eaad301f4ddd23be3b33eb4438fb3c406ccd04b22adfca43d8344"
 metafile = true
 
 [[files]]

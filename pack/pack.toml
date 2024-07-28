@@ -1,6 +1,6 @@
 name = "Modfest - Carnival"
 author = "ModFest"
-version = "0.25.4"
+version = "0.25.5"
 pack-format = "packwiz:1.1.0"
 
 [index]

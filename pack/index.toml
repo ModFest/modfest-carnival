@@ -1327,7 +1327,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "3c29896538c188ea897de45a0c1d6ffde1504bea9f9deaf5b883ca84f4f3da76"
+hash = "f0130515a68c4abe93eaa8e21aa026ef58bfa0946e816217807d7709b856178c"
 metafile = true
 
 [[files]]

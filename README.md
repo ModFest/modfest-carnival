@@ -15,8 +15,8 @@ This modpack contains all submissions, as well as a showcase world built by part
 **Key Features**:
 - Witness the dawn of 52 mods, including **Dancerizer**, **Ouch!**, **Splinecart**, and **Dream Burst Spirit Vector**!
 - Explore a cozy river-valley peppered with mod "booths" all along the sweeping, figure-8 shaped path!
-- Traverse the map on skates, coasters, and flying carpets - with jumps, blasts, wall runs, and a whole lot of style!
-- Collect tokens and spend them to play ticket-awarding minigames and challenges, then spend tickets on prizes! 
+- Traverse the map with skates, explosives, coasters, flying carpets, and a whole lot of style!
+- Sink tokens into various minigames and challenges, and spend their ticket rewards on prizes! 
 - Find and earn 126 collectible "shards", tracking booth visits, hidden secrets, and tricky challenges!
 - The circus isn't in town for long - go make some memories!
 

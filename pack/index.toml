@@ -1405,5 +1405,9 @@ file = "server-icon.png"
 hash = "b78e8678a79b7b053600eff0cc58fbf3ff9a8dc7b096f47ec15b66331c21e996"
 
 [[files]]
+file = "server.properties"
+hash = "3138d3c394a6fc85d116eba5572adac23276c20338fea482a3d62c9462dfe8cf"
+
+[[files]]
 file = "servers.dat"
 hash = "f873673d8dbf69500c8393feb19b538ae386e7b9ab3574bb8e6b58c9e2af5b18"

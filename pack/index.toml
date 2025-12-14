@@ -897,6 +897,10 @@ file = "config/waila/waila_plugins.json"
 hash = "a7fd6cdc6838b4b99d78e36ffc7a7a6d578adbe5a957565da5715a73f0738932"
 
 [[files]]
+file = "mods/OpenLoader-Fabric-1.21-22.1.0.jar"
+hash = "9b50d98037f62f849e38fdd1f398814a6b655bd68fa6e54bdf830651b9fb294f"
+
+[[files]]
 file = "mods/aji-maji.pw.toml"
 hash = "f0af362ce32b7d311a630edbeb5bb8b370189be06aec76254067ff9f822cf0e3"
 metafile = true
@@ -1194,11 +1198,6 @@ metafile = true
 [[files]]
 file = "mods/obscure-masks.pw.toml"
 hash = "bf688db71b5bbc5767e50d16e2009c21d375f0f1ee1225d083b090469ee058fc"
-metafile = true
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "aecc4319b51647c7bddd30b49df428d4a2f0c9b76ff1d68e7fb7652e745ffa1a"
 metafile = true
 
 [[files]]

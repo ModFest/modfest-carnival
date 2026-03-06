@@ -5,6 +5,10 @@ file = "config/ballotbox.toml"
 hash = "542d09ff2bd35c93d3376b71d1f37330cbf92e272fa2c2b2de9c4175526f7da1"
 
 [[files]]
+file = "config/cantilever.toml"
+hash = "5ed9c9f04b15b331a7ea2ea97741b7099317cc6e4d8ed11b1d3b5544c670cbf9"
+
+[[files]]
 file = "config/dancerizer.toml"
 hash = "b6bcad9ed888d80f5ff8e691903a9aa3744d8db8d8082efbce654ec7a24e8e00"
 
@@ -897,10 +901,6 @@ file = "config/surveyor.toml"
 hash = "bcc38c298ceba5ea6ddb74a7209cfe0bb57c00b4e84769e168b01a1844a292bc"
 
 [[files]]
-file = "config/teabridge.json"
-hash = "cbbe48bc1c540422f2dde290736bca59b4497e6c63f7c33f4f86706a66a75767"
-
-[[files]]
 file = "config/waila/waila.json"
 hash = "fe171bb0c6e23da3792a17b3e986800bf1eed579c399288ab13e2fbf8400b246"
 
@@ -966,6 +966,10 @@ metafile = true
 file = "mods/breeze-bounce.pw.toml"
 hash = "3cfd7b646e17478ef2dbeb1dd74a7a44f70948aa3478ebf7659fcc9a0280c437"
 metafile = true
+
+[[files]]
+file = "mods/cantilever-2.0-dev+1.21.1.jar"
+hash = "818d823070db7fc2b2f78fd8b692bd2f17135aff65010ad7e2171ccb09bf09c2"
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
@@ -1340,11 +1344,6 @@ metafile = true
 [[files]]
 file = "mods/surveyor.pw.toml"
 hash = "f0130515a68c4abe93eaa8e21aa026ef58bfa0946e816217807d7709b856178c"
-metafile = true
-
-[[files]]
-file = "mods/teabridge.pw.toml"
-hash = "61a49e52c546cc840a9c601f6d6f47f112e9e0d059c6b0e75bbb5f9988c750eb"
 metafile = true
 
 [[files]]

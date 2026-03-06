@@ -449,6 +449,18 @@ file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui
 hash = "19b09a9018aed7ca3c0c022191eed8ca23d796363ebe1033e7c92f92e6c26567"
 
 [[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/edition.png"
+hash = "53088c82137b99f100d196286f44463867483eafe3347194edc4c7df36b2d4c4"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "9eff598e1e50fce579b56b22d0f01aa58b155def3522174d499fc9ee6afb32e3"
+
+[[files]]
+file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/mojangstudios.png"
+hash = "da58caf53a1a62800986e5b9ace6b5b071341cfc1aea2252dc70fea95ed00219"
+
+[[files]]
 file = "config/openloader/resources/modfest-assets/assets/modfest/font/emoji.json"
 hash = "f68c22ae4d5d6535fef1a381c1f440c21e9537da9e5b70e0012882622f88047d"
 

@@ -454,7 +454,7 @@ hash = "19b09a9018aed7ca3c0c022191eed8ca23d796363ebe1033e7c92f92e6c26567"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/edition.png"
-hash = "53088c82137b99f100d196286f44463867483eafe3347194edc4c7df36b2d4c4"
+hash = "b5ec8ea215fd9474825ae70b97589279a92fec1a40ffe266ee340c6bb73aef6c"
 
 [[files]]
 file = "config/openloader/resources/modfest-assets/assets/minecraft/textures/gui/title/minecraft.png"

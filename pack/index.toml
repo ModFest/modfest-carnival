@@ -854,7 +854,7 @@ hash = "b3debf35f716cbd4f8975b80a80dd7d6246b1b36dad0d6075e637cc440eafca8"
 
 [[files]]
 file = "config/quickerconnectbutton.json5"
-hash = "ce082f2a695976b30b61f16e29b357489e4be36b1b84063d666f70c9889b389f"
+hash = "b48fdd1168b3bfdf78e3e089a679d921292cbde74426ba81b9b3322202aa59e2"
 
 [[files]]
 file = "config/roles.json"
@@ -1409,4 +1409,4 @@ hash = "3138d3c394a6fc85d116eba5572adac23276c20338fea482a3d62c9462dfe8cf"
 
 [[files]]
 file = "servers.dat"
-hash = "f873673d8dbf69500c8393feb19b538ae386e7b9ab3574bb8e6b58c9e2af5b18"
+hash = "34caaaab521e16bde008f9793786ecfb8d4059986ae6825219b19822d10bc4be"
